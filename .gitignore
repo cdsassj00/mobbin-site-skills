@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+assets/
+screenshots/
+artifacts/
+__pycache__/
