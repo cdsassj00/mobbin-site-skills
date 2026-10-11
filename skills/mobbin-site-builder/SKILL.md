@@ -20,17 +20,15 @@ description: Mobbin 화면 캡처, 사이트 URL, 사이트별 레퍼런스 명�
 - 브랜드, 필요한 페이지, 핵심 사용자 행동을 기존 대화에서 파악한다. 결과를 크게 바꾸는 정보만 질문하고 독립적인 작업은 진행한다.
 - 새 프로젝트에 스택 지정이 없으면 React + TypeScript + Vite를 기본으로 선택한다. 검색 노출이나 서버 렌더링 요구가 있으면 적합한 프레임워크를 선택한다.
 
-## 저장된 사이트별 지침
+## 라이브러리에서 필요한 사이트 선택
 
-- 작업 목록·상세 패널: [Productboard](references/sites/productboard-tasks.md)
-- 생산성 테이블: [Slack](references/sites/slack-lists.md)
-- 옵션·구독 상품 상세: [Shop](references/sites/shop-product-detail.md)
-- 디지털 상품 상세: [Etsy](references/sites/etsy-product-detail.md)
-- 요금제 패턴 갤러리: [Framer](references/sites/framer-pricing-patterns.md)
-- 3단 요금제: [TravelPerk](references/sites/travelperk-pricing.md)
-- 워크스페이스 생성: [Notion](references/sites/notion-workspace-onboarding.md)
+1. [전체 사이트·패턴 인덱스](references/library-index.md)에서 유형과 이름으로 후보를 찾는다. 모든 사이트 문서를 한꺼번에 읽지 않는다.
+2. 해당 후보의 사이트별 명세와 [패턴별 구현 플레이북](references/playbooks.md)을 읽는다.
+3. 자료가 부족하면 [라이브러리 확장](references/expansion-workflow.md) 절차로 새 사이트·추가 화면·모바일·흐름을 수집한다. 현재 인덱스의 사이트에만 제한하지 않는다.
+4. `needs-review` 또는 `usable: false` 자료를 주요 레퍼런스로 자동 선택하지 않는다.
+5. 여러 자료를 조합할 때 레이아웃을 맡을 주 레퍼런스와 각 보조 패턴의 출처를 명세에 기록한다.
 
-필요한 유형의 명세만 읽는다. 사이트마다 핵심 구조와 구현 조건을 유지한다.
+저장소에서는 `python scripts/search_library.py "검색어"`, `--tag pricing`, `--kind flow`로 검색할 수 있다. 설치된 스킬만 있는 환경에서는 `rg`로 `references/library.json`과 인덱스를 검색한다.
 
 ## 2. 구현 전 레퍼런스 명세 작성
 

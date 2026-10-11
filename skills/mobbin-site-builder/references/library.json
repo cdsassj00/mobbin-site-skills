@@ -1,0 +1,3460 @@
+[
+  {
+    "id": "6efab40e-de5e-4dff-bf1c-b28c818a934d",
+    "site": "Employment Hero",
+    "kind": "section",
+    "title": "푸터·뉴스레터",
+    "mobbin_url": "https://mobbin.com/sites/sections/6efab40e-de5e-4dff-bf1c-b28c818a934d",
+    "tags": [
+      "footer",
+      "newsletter"
+    ],
+    "observations": [
+      {
+        "screen_id": "6efab40e-de5e-4dff-bf1c-b28c818a934d",
+        "note": "흰 배경의 여섯 링크 열 아래 회사 설명과 뉴스레터 폼을 두 열로 배치. 구독 폼에 동의 체크박스 두 개, 보라색 버튼, 하단 지역 선택."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "footer section with multiple link columns newsletter signup and social links"
+    ]
+  },
+  {
+    "id": "2e8bfe6a-f94b-4f8a-84f5-7fd518da9598",
+    "site": "Zendesk",
+    "kind": "section",
+    "title": "푸터·뉴스레터",
+    "mobbin_url": "https://mobbin.com/sites/sections/2e8bfe6a-f94b-4f8a-84f5-7fd518da9598",
+    "tags": [
+      "footer",
+      "newsletter"
+    ],
+    "observations": [
+      {
+        "screen_id": "2e8bfe6a-f94b-4f8a-84f5-7fd518da9598",
+        "note": "왼쪽 브랜드 문구와 다섯 개 촘촘한 링크 열. 가로 구분선 아래 이메일 입력·짙은 청록 구독 버튼·소셜 아이콘, 하단 법적 고지."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "footer section with multiple link columns newsletter signup and social links"
+    ]
+  },
+  {
+    "id": "f1844604-7696-4970-b30e-43a7669e9ee1",
+    "site": "In Common With",
+    "kind": "section",
+    "title": "푸터·뉴스레터",
+    "mobbin_url": "https://mobbin.com/sites/sections/f1844604-7696-4970-b30e-43a7669e9ee1",
+    "tags": [
+      "footer",
+      "newsletter"
+    ],
+    "observations": [
+      {
+        "screen_id": "f1844604-7696-4970-b30e-43a7669e9ee1",
+        "note": "얇은 선으로 구획한 편집형 푸터. 왼쪽 뉴스레터 입력, 오른쪽 쇼룸 주소와 Shop·Info·Account 링크 열. 작은 적갈색 글자."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "footer section with multiple link columns newsletter signup and social links"
+    ]
+  },
+  {
+    "id": "3492c84c-d0ad-4b3f-8692-481bb7609472",
+    "site": "Vizcom",
+    "kind": "section",
+    "title": "푸터·뉴스레터",
+    "mobbin_url": "https://mobbin.com/sites/sections/3492c84c-d0ad-4b3f-8692-481bb7609472",
+    "tags": [
+      "footer",
+      "newsletter"
+    ],
+    "observations": [
+      {
+        "screen_id": "3492c84c-d0ad-4b3f-8692-481bb7609472",
+        "note": "짙은 파랑 바탕과 연한 격자선. 로고·네 링크 열·소셜 및 뉴스레터 입력. 아래 매우 큰 흰색 Make it real 문구."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "footer section with multiple link columns newsletter signup and social links"
+    ]
+  },
+  {
+    "id": "6c8e5010-32b5-41ce-b912-2b5e64332568",
+    "site": "VanMoof",
+    "kind": "section",
+    "title": "푸터·뉴스레터",
+    "mobbin_url": "https://mobbin.com/sites/sections/6c8e5010-32b5-41ce-b912-2b5e64332568",
+    "tags": [
+      "footer",
+      "newsletter"
+    ],
+    "observations": [
+      {
+        "screen_id": "6c8e5010-32b5-41ce-b912-2b5e64332568",
+        "note": "상단 큰 로고와 커뮤니티 이미지 썸네일. 아래 왼쪽 뉴스레터 소개 및 가입 링크, 오른쪽 세 링크 열, 맨 아래 정책·언어."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "footer section with multiple link columns newsletter signup and social links"
+    ]
+  },
+  {
+    "id": "8327bdfc-5c9d-4240-b4af-9431eebd0f9e",
+    "site": "ClickUp",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/8327bdfc-5c9d-4240-b4af-9431eebd0f9e",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "8327bdfc-5c9d-4240-b4af-9431eebd0f9e",
+        "note": "왼쪽 굵은 두 줄 제목·보조문·이메일 입력·보라 CTA. 오른쪽 제품 테이블 캡처와 중앙 재생 버튼, 뒤쪽 보라-파랑 거대 곡선. 하단 고객 로고."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "d008689a-c73f-4513-a760-25a93ef6f043",
+    "site": "Passionfroot",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/d008689a-c73f-4513-a760-25a93ef6f043",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "d008689a-c73f-4513-a760-25a93ef6f043",
+        "note": "중앙 세리프 두 줄 제목, 보조문, 검정 CTA. 옅은 배경과 모서리에서 들어오는 잘린 제품 UI 카드. 양쪽으로 나뉜 흰색 내비게이션."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "e727f26d-79e1-49d9-9ed7-f6590091ec8d",
+    "site": "Retool",
+    "kind": "section",
+    "title": "하단 가입 CTA",
+    "mobbin_url": "https://mobbin.com/sites/sections/e727f26d-79e1-49d9-9ed7-f6590091ec8d",
+    "tags": [
+      "conversion-cta"
+    ],
+    "observations": [
+      {
+        "screen_id": "e727f26d-79e1-49d9-9ed7-f6590091ec8d",
+        "note": "검색어와 달리 히어로가 아닌 하단 전환 섹션. 중앙 BETA 배지·단일 제목·보라 가입 버튼, 아래 푸터 링크 열."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "81874e27-d807-48c6-8bf3-c2efd62b8c2f",
+    "site": "Craft",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/81874e27-d807-48c6-8bf3-c2efd62b8c2f",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "81874e27-d807-48c6-8bf3-c2efd62b8c2f",
+        "note": "따뜻한 크림 바탕과 상단 분홍·보라 흐림 효과. 중앙 굵은 제목·설명·보라 CTA, 아래 큰 문서 UI 캡처와 떠 있는 댓글 카드."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "c237a96b-d808-4ad7-bf78-d32e4f6425cd",
+    "site": "Lyssna",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/c237a96b-d808-4ad7-bf78-d32e4f6425cd",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "c237a96b-d808-4ad7-bf78-d32e4f6425cd",
+        "note": "연한 파랑 배경. 왼쪽 세리프 제목·설명·짙은 청록 CTA, 오른쪽 분홍 차트·전구·연필 일러스트. 아래 신뢰 문구."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "137b8069-5f02-457e-80ca-3296bbf7a8f6",
+    "site": "Duolingo",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/137b8069-5f02-457e-80ca-3296bbf7a8f6",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "137b8069-5f02-457e-80ca-3296bbf7a8f6",
+        "note": "실제 화면은 언어 학습 앱이 아닌 Duolingo 굿즈 스토어. 초록 공지줄·상품 카테고리 내비게이션, 둥근 큰 인형 사진 중심. 히어로 CTA는 보이지 않음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "674d9fc9-7e05-45fe-ac3c-c8f6d793c78f",
+    "site": "Graza",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/674d9fc9-7e05-45fe-ac3c-c8f6d793c78f",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "674d9fc9-7e05-45fe-ac3c-c8f6d793c78f",
+        "note": "크림 내비게이션 아래 라임색 두 열 히어로. 왼쪽 세리프 제목·작은 설명·가로 긴 구매 버튼·이전다음, 오른쪽 오일 세 병 사진."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "a0db1fe3-905d-462b-800e-e124d27afd71",
+    "site": "Zellerfeld",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/a0db1fe3-905d-462b-800e-e124d27afd71",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "a0db1fe3-905d-462b-800e-e124d27afd71",
+        "note": "어두운 전체 폭 라이프스타일 사진에 중앙 흰 제목과 반투명 Shop 버튼. 좌상단 New In 배지, 좌하단 상품명·가격 요약."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "276ed59a-6957-45a8-8421-c85687aaa8c0",
+    "site": "bella",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/276ed59a-6957-45a8-8421-c85687aaa8c0",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "276ed59a-6957-45a8-8421-c85687aaa8c0",
+        "note": "연한 올리브 바탕 위 둥근 사진 영역. 왼쪽 주방·오른쪽 꽃 장면 분할, 중앙 제품과 분할 핸들, 상단 흰 제목과 아래 흰 알약 CTA."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "406a32a0-f61e-4f4c-b976-63e4a99fccdd",
+    "site": "Mailchimp",
+    "kind": "section",
+    "title": "웹사이트 제작 기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/406a32a0-f61e-4f4c-b976-63e4a99fccdd",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "406a32a0-f61e-4f4c-b976-63e4a99fccdd",
+        "note": "검색어와 달리 웹사이트 제작 기능 설명 섹션. 연보라 바탕의 Overview·Platform Features·Resources 세 열, 아래 제품 캡처와 설명."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "d591740c-b7c1-40fb-86c3-34c8511bc2c4",
+    "site": "Harvey",
+    "kind": "section",
+    "title": "고객 후기",
+    "mobbin_url": "https://mobbin.com/sites/sections/d591740c-b7c1-40fb-86c3-34c8511bc2c4",
+    "tags": [
+      "testimonials"
+    ],
+    "observations": [
+      {
+        "screen_id": "d591740c-b7c1-40fb-86c3-34c8511bc2c4",
+        "note": "연회색 배경의 두 열 후기. 왼쪽 인물 사진, 오른쪽 큰 세리프 인용문·이름·직책·고객 로고, 아래 진행 표시선."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "customer testimonials section with quote cards and customer portraits"
+    ]
+  },
+  {
+    "id": "2c1abeb7-30ad-4d2f-99dd-1565322517cc",
+    "site": "Miro",
+    "kind": "section",
+    "title": "고객 후기",
+    "mobbin_url": "https://mobbin.com/sites/sections/2c1abeb7-30ad-4d2f-99dd-1565322517cc",
+    "tags": [
+      "testimonials"
+    ],
+    "observations": [
+      {
+        "screen_id": "2c1abeb7-30ad-4d2f-99dd-1565322517cc",
+        "note": "흰 바탕의 두 열 후기 그리드. 인물 사진 우상단에 겹치는 로고 카드, 사진 아래 인용문과 작성자. 아래 다음 행 일부."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "customer testimonials section with quote cards and customer portraits"
+    ]
+  },
+  {
+    "id": "3e4f3739-4c83-4e12-8db4-f0781f33480a",
+    "site": "Clay",
+    "kind": "section",
+    "title": "고객 후기",
+    "mobbin_url": "https://mobbin.com/sites/sections/3e4f3739-4c83-4e12-8db4-f0781f33480a",
+    "tags": [
+      "testimonials"
+    ],
+    "observations": [
+      {
+        "screen_id": "3e4f3739-4c83-4e12-8db4-f0781f33480a",
+        "note": "큰 왼쪽 제목과 오른쪽 검정 Wall of love 링크. 세 열 높이가 다른 흰 후기 카드와 아바타·이름·직책. 위쪽 일부 카드는 옅게 처리."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "customer testimonials section with quote cards and customer portraits"
+    ]
+  },
+  {
+    "id": "85f57981-1117-4f9a-af1e-0ce6a417effc",
+    "site": "Intercom",
+    "kind": "section",
+    "title": "고객 후기",
+    "mobbin_url": "https://mobbin.com/sites/sections/85f57981-1117-4f9a-af1e-0ce6a417effc",
+    "tags": [
+      "testimonials"
+    ],
+    "observations": [
+      {
+        "screen_id": "85f57981-1117-4f9a-af1e-0ce6a417effc",
+        "note": "연한 파랑 바탕 중앙 제목. 두 행의 흰 둥근 후기 카드가 좌우 화면 가장자리에서 잘림. 카드 하단 아바타·별점·후기 출처."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "customer testimonials section with quote cards and customer portraits"
+    ]
+  },
+  {
+    "id": "97fbd41c-4d64-4197-930b-f2a24fc65289",
+    "site": "Customer.io",
+    "kind": "section",
+    "title": "고객 후기",
+    "mobbin_url": "https://mobbin.com/sites/sections/97fbd41c-4d64-4197-930b-f2a24fc65289",
+    "tags": [
+      "testimonials"
+    ],
+    "observations": [
+      {
+        "screen_id": "97fbd41c-4d64-4197-930b-f2a24fc65289",
+        "note": "연회색 바탕의 세 열 후기. 위 원형 인물 또는 로고와 보라 테두리, 아래 인용문·이름·직책. 하단 고객 로고 띠 일부."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "customer testimonials section with quote cards and customer portraits"
+    ]
+  },
+  {
+    "id": "0e035b6e-f0ab-416e-9ade-af96d4542658",
+    "site": "MOUTHWASH Studio",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/0e035b6e-f0ab-416e-9ade-af96d4542658",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "0e035b6e-f0ab-416e-9ade-af96d4542658",
+        "note": "흰 바탕 상단 단순 내비게이션. 중앙 큰 검정 프로젝트 이미지, 아래 굵고 큰 스튜디오 소개문. 미디어 위 텍스트 오버레이 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "566781bb-cfb6-4b54-9360-fac8f68d4b6f",
+    "site": "Analogue Agency",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/566781bb-cfb6-4b54-9360-fac8f68d4b6f",
+    "tags": [
+      "portfolio",
+      "needs-review"
+    ],
+    "observations": [
+      {
+        "screen_id": "566781bb-cfb6-4b54-9360-fac8f68d4b6f",
+        "note": "거의 검정 바탕에 왼쪽 작은 About Analogue 텍스트와 세로 구분선만 보임. 정적 캡처 정보가 부족해 원본 미디어·동작 확인이 필요."
+      }
+    ],
+    "usable": false,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "9b0c885b-5f6f-4b73-b93c-b84d830f0071",
+    "site": "Vucko",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/9b0c885b-5f6f-4b73-b93c-b84d830f0071",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "9b0c885b-5f6f-4b73-b93c-b84d830f0071",
+        "note": "왼쪽 큰 둥근 검정 패널에 다채로운 추상 이미지와 겹친 콘텐츠 카드. 오른쪽 큰 소개 제목·회색 설명·밑줄 링크. 상단 위치·시간 및 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "a3cf46f9-dafe-4cee-9fee-186aabb025aa",
+    "site": "basement.studio",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/a3cf46f9-dafe-4cee-9fee-186aabb025aa",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "a3cf46f9-dafe-4cee-9fee-186aabb025aa",
+        "note": "검정 바탕, 상단 화면 폭을 채우는 큰 회색 소개문과 작은 보조문. 아래 얇은 테두리의 촘촘한 고객 로고 그리드."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee",
+    "site": "Anima",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee",
+        "note": "연한 초록 전체 화면 장면과 아래 식물·꽃 비주얼. 중앙 큰 흰 세리프 제목 및 설명, 하단 작은 CTA. 양끝 상단 메뉴 알약."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "54ba196c-c979-4564-a54a-c02a23e8e8f7",
+    "site": "Square",
+    "kind": "section",
+    "title": "기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/54ba196c-c979-4564-a54a-c02a23e8e8f7",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "54ba196c-c979-4564-a54a-c02a23e8e8f7",
+        "note": "흰 바탕, 큰 산세리프 제목 아래 네 개 가로 구분 행. 행마다 왼쪽 작은 사진과 오른쪽 소제목·설명·Learn more 링크."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "features section with alternating product screenshots and explanatory text"
+    ]
+  },
+  {
+    "id": "02dd8a32-d483-44a5-81a5-4f402689df5e",
+    "site": "Oryzo",
+    "kind": "section",
+    "title": "기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/02dd8a32-d483-44a5-81a5-4f402689df5e",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "02dd8a32-d483-44a5-81a5-4f402689df5e",
+        "note": "어두운 내비게이션과 두 열 대형 제품 사진. 왼쪽 주황 장면 위 굵은 흰 제목, 오른쪽 스티커 붙은 제품 클로즈업. 아래 어두운 스크롤 안내."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "features section with alternating product screenshots and explanatory text"
+    ]
+  },
+  {
+    "id": "09bac752-13b5-4d35-9f6b-7c99c8959ec8",
+    "site": "Figma",
+    "kind": "section",
+    "title": "기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/09bac752-13b5-4d35-9f6b-7c99c8959ec8",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "09bac752-13b5-4d35-9f6b-7c99c8959ec8",
+        "note": "연한 라임 바탕에 큰 설명문, 1/4 진행 표시와 이전다음 버튼. 아래 가로로 나열한 제품 UI 이미지·설명·링크, 오른쪽 카드 일부 잘림."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "features section with alternating product screenshots and explanatory text"
+    ]
+  },
+  {
+    "id": "39d72df8-07a4-4434-bb5e-cc0dd73d4f8b",
+    "site": "Square",
+    "kind": "section",
+    "title": "기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/39d72df8-07a4-4434-bb5e-cc0dd73d4f8b",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "39d72df8-07a4-4434-bb5e-cc0dd73d4f8b",
+        "note": "Square의 같은 네 행 기능 구조를 세리프 제목으로 보여주는 변형. 왼쪽 사진·오른쪽 설명·구분선을 유지하며 타이포그래피가 달라짐."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "features section with alternating product screenshots and explanatory text"
+    ]
+  },
+  {
+    "id": "9f0bbfb1-132d-421b-a482-b1b57ebb1f24",
+    "site": "Intercom",
+    "kind": "section",
+    "title": "기능 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/9f0bbfb1-132d-421b-a482-b1b57ebb1f24",
+    "tags": [
+      "features"
+    ],
+    "observations": [
+      {
+        "screen_id": "9f0bbfb1-132d-421b-a482-b1b57ebb1f24",
+        "note": "큰 제목 아래 왼쪽 여섯 기능을 두 열 텍스트 목록으로 배치, 오른쪽 큰 민트·파랑 선화 일러스트. 흰 배경과 넓은 여백."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "features section with alternating product screenshots and explanatory text"
+    ]
+  },
+  {
+    "id": "80883fe0-caf8-4ef3-89d3-71b315f45e0b",
+    "site": "Replit",
+    "kind": "screen",
+    "title": "프로젝트 라이브러리",
+    "mobbin_url": "https://mobbin.com/screens/80883fe0-caf8-4ef3-89d3-71b315f45e0b",
+    "tags": [
+      "project-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "80883fe0-caf8-4ef3-89d3-71b315f45e0b",
+        "note": "실제는 음악이 아닌 프로젝트 라이브러리. 왼쪽 사이드바, 상단 검색·상태·아티팩트 필터, 네 열 프로젝트 썸네일 카드와 그리드/목록 전환."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "music library with album cover grid and playback navigation"
+    ]
+  },
+  {
+    "id": "04c75c4f-d899-4bf5-a45c-3b7d65933245",
+    "site": "SoundCloud",
+    "kind": "screen",
+    "title": "미디어 라이브러리",
+    "mobbin_url": "https://mobbin.com/screens/04c75c4f-d899-4bf5-a45c-3b7d65933245",
+    "tags": [
+      "media-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "04c75c4f-d899-4bf5-a45c-3b7d65933245",
+        "note": "검정 배경, 상단 검색과 Library 탭. Recently played 및 Likes 섹션마다 여섯 열 정사각 커버 이미지와 제목·작성자. 일부 이미지 중앙 재생 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "music library with album cover grid and playback navigation"
+    ]
+  },
+  {
+    "id": "129cef1c-f8c6-4917-9da7-3380521d7ab9",
+    "site": "Microsoft Copilot",
+    "kind": "screen",
+    "title": "AI 문서 라이브러리",
+    "mobbin_url": "https://mobbin.com/screens/129cef1c-f8c6-4917-9da7-3380521d7ab9",
+    "tags": [
+      "document-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "129cef1c-f8c6-4917-9da7-3380521d7ab9",
+        "note": "실제는 AI 문서 라이브러리. 왼쪽 아이콘 레일, 상단 Images·Pages·Research reports 탭, 넓은 빈 공간에 두 문서 미리보기 카드와 Create page 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "music library with album cover grid and playback navigation"
+    ]
+  },
+  {
+    "id": "6fc58e68-7e42-404a-aeed-8b374829243c",
+    "site": "fal",
+    "kind": "screen",
+    "title": "이미지 자산 라이브러리",
+    "mobbin_url": "https://mobbin.com/screens/6fc58e68-7e42-404a-aeed-8b374829243c",
+    "tags": [
+      "asset-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "6fc58e68-7e42-404a-aeed-8b374829243c",
+        "note": "실제는 이미지 자산 라이브러리. 왼쪽 미디어·업로드·즐겨찾기·컬렉션 목록, 상단 검색·줌. 본문 Characters·Collections·Recently added 이미지 행."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "music library with album cover grid and playback navigation"
+    ]
+  },
+  {
+    "id": "0d41df30-eca5-48b2-8235-978e81fa827f",
+    "site": "Higgsfield",
+    "kind": "screen",
+    "title": "영상 자산 라이브러리",
+    "mobbin_url": "https://mobbin.com/screens/0d41df30-eca5-48b2-8235-978e81fa827f",
+    "tags": [
+      "asset-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "0d41df30-eca5-48b2-8235-978e81fa827f",
+        "note": "검정 자산 라이브러리. 상단 제품 메뉴, 왼쪽 미디어 유형·폴더, 날짜별 이미지·영상 타일. 영상 썸네일 중앙 재생 표시와 확대 조절."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "music library with album cover grid and playback navigation"
+    ]
+  },
+  {
+    "id": "0e4db54a-37c7-4719-bd02-3b7b5b994d11",
+    "site": "Square",
+    "kind": "screen",
+    "title": "식당 관리",
+    "mobbin_url": "https://mobbin.com/screens/0e4db54a-37c7-4719-bd02-3b7b5b994d11",
+    "tags": [
+      "restaurant-admin"
+    ],
+    "observations": [
+      {
+        "screen_id": "0e4db54a-37c7-4719-bd02-3b7b5b994d11",
+        "note": "메뉴 관리 화면. 왼쪽 관리 사이드바, 가운데 Menus 제목과 사진 포함 안내 배너, 검색·위치·채널 필터, 메뉴 목록과 Create a menu 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant menu with food photos prices and add item buttons"
+    ]
+  },
+  {
+    "id": "e9aa5320-32fa-4116-940d-5291572934d3",
+    "site": "DoorDash Merchant",
+    "kind": "screen",
+    "title": "식당 관리",
+    "mobbin_url": "https://mobbin.com/screens/e9aa5320-32fa-4116-940d-5291572934d3",
+    "tags": [
+      "restaurant-admin"
+    ],
+    "observations": [
+      {
+        "screen_id": "e9aa5320-32fa-4116-940d-5291572934d3",
+        "note": "식당 관리자 메뉴 편집. 왼쪽 사이드바, 상단 연한 청록 알림, 검색과 상품 필터·빨간 추가 버튼. 음식 카테고리별 썸네일·가격·재고 상태·편집삭제 아이콘 행."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant menu with food photos prices and add item buttons"
+    ]
+  },
+  {
+    "id": "9c711034-b39d-4ec2-a777-648a8722a281",
+    "site": "ZARA",
+    "kind": "screen",
+    "title": "위시리스트 생성",
+    "mobbin_url": "https://mobbin.com/screens/9c711034-b39d-4ec2-a777-648a8722a281",
+    "tags": [
+      "wishlist",
+      "commerce"
+    ],
+    "observations": [
+      {
+        "screen_id": "9c711034-b39d-4ec2-a777-648a8722a281",
+        "note": "음식이 아닌 패션 위시리스트 생성 상태. 흐리게 보이는 상품 그리드 위 오른쪽 리스트 이름 입력과 하단 Create 버튼. 작은 글자와 넓은 흰 여백."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant menu with food photos prices and add item buttons"
+    ]
+  },
+  {
+    "id": "211575d4-7ff1-4971-b12d-4e69315a8a5f",
+    "site": "Klaviyo",
+    "kind": "screen",
+    "title": "메시지용 상품 선택",
+    "mobbin_url": "https://mobbin.com/screens/211575d4-7ff1-4971-b12d-4e69315a8a5f",
+    "tags": [
+      "product-picker",
+      "modal"
+    ],
+    "observations": [
+      {
+        "screen_id": "211575d4-7ff1-4971-b12d-4e69315a8a5f",
+        "note": "음식 메뉴가 아닌 메시지용 상품 선택 모달. 전체 폭 표에 썸네일·상품명·업데이트 시각·게시 상태·Select 링크. 상단 Close, 하단 페이지 이동."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant menu with food photos prices and add item buttons"
+    ]
+  },
+  {
+    "id": "0099c284-2e58-43ca-9eb5-2ea41538ece6",
+    "site": "Sweatpals",
+    "kind": "screen",
+    "title": "수동 결제 상품 선택",
+    "mobbin_url": "https://mobbin.com/screens/0099c284-2e58-43ca-9eb5-2ea41538ece6",
+    "tags": [
+      "checkout",
+      "quantity-selector"
+    ],
+    "observations": [
+      {
+        "screen_id": "0099c284-2e58-43ca-9eb5-2ea41538ece6",
+        "note": "검정 결제 사이드 패널. 상단 Add Items→Checkout→Confirmed 단계, 고객 요약·검색·유형 칩, 품목별 수량 +/-와 하단 총액·Next 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant menu with food photos prices and add item buttons"
+    ]
+  },
+  {
+    "id": "9859433a-7969-405c-8850-00bdbca467bd",
+    "site": "Descript",
+    "kind": "screen",
+    "title": "학습 콘텐츠",
+    "mobbin_url": "https://mobbin.com/screens/9859433a-7969-405c-8850-00bdbca467bd",
+    "tags": [
+      "learning"
+    ],
+    "observations": [
+      {
+        "screen_id": "9859433a-7969-405c-8850-00bdbca467bd",
+        "note": "영상 편집 도구 학습 라이브러리. 왼쪽 사이드바, 상단 분홍 업그레이드 안내, 세 열 튜토리얼 카드. 검정-파랑 썸네일 아래 제목·설명·분홍 재생시간 칩."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "course catalog with course cards categories and progress"
+    ]
+  },
+  {
+    "id": "3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc",
+    "site": "SchoolAI",
+    "kind": "screen",
+    "title": "학습 콘텐츠",
+    "mobbin_url": "https://mobbin.com/screens/3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc",
+    "tags": [
+      "learning"
+    ],
+    "observations": [
+      {
+        "screen_id": "3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc",
+        "note": "교육 탐색 페이지. 왼쪽 사이드바와 상단 검색·Create a Space. Subjects·Favorites·Seasonal 섹션에 다섯 열 콜라주 이미지 카드와 공간 수·제목."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "course catalog with course cards categories and progress"
+    ]
+  },
+  {
+    "id": "978e5352-d988-4626-906a-1ae0b80a2681",
+    "site": "Perplexity",
+    "kind": "screen",
+    "title": "AI 스킬 관리",
+    "mobbin_url": "https://mobbin.com/screens/978e5352-d988-4626-906a-1ae0b80a2681",
+    "tags": [
+      "skill-management"
+    ],
+    "observations": [
+      {
+        "screen_id": "978e5352-d988-4626-906a-1ae0b80a2681",
+        "note": "강좌가 아닌 AI Skills 관리. 상단 Connectors·Skills·Workflows 탭, 왼쪽 사이드바, 두 열 텍스트 카드에 스킬명·설명·토글/메뉴, 검색·Create skill."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "course catalog with course cards categories and progress"
+    ]
+  },
+  {
+    "id": "362ebfb3-d814-4229-9e78-bcca7d3b79cb",
+    "site": "HoneyBook",
+    "kind": "screen",
+    "title": "저장 서비스 관리",
+    "mobbin_url": "https://mobbin.com/screens/362ebfb3-d814-4229-9e78-bcca7d3b79cb",
+    "tags": [
+      "service-catalog",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "362ebfb3-d814-4229-9e78-bcca7d3b79cb",
+        "note": "강좌가 아닌 저장 서비스 관리 목록. 검정 사이드바, Services 제목·검색·Add service. 흰 가로 행마다 썸네일·설명·가격·점 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "course catalog with course cards categories and progress"
+    ]
+  },
+  {
+    "id": "0564e247-f8a3-47c2-a992-8376b0a5b109",
+    "site": "Magnific",
+    "kind": "screen",
+    "title": "학습 과정 상세",
+    "mobbin_url": "https://mobbin.com/screens/0564e247-f8a3-47c2-a992-8376b0a5b109",
+    "tags": [
+      "learning",
+      "course-detail"
+    ],
+    "observations": [
+      {
+        "screen_id": "0564e247-f8a3-47c2-a992-8376b0a5b109",
+        "note": "교육 상세 세 영역. 왼쪽 과정 트리, 가운데 소개와 챕터별 강의·라디오 표시·길이, 오른쪽 Episode details 카드·Start course·태그."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "course catalog with course cards categories and progress"
+    ]
+  },
+  {
+    "id": "f49253e9-bf1f-4093-8cbd-79a225f0fc8d",
+    "site": "Gumloop",
+    "kind": "screen",
+    "title": "에이전트 작업 로그",
+    "mobbin_url": "https://mobbin.com/screens/f49253e9-bf1f-4093-8cbd-79a225f0fc8d",
+    "tags": [
+      "task-log",
+      "dashboard",
+      "search-filter"
+    ],
+    "observations": [
+      {
+        "screen_id": "f49253e9-bf1f-4093-8cbd-79a225f0fc8d",
+        "note": "채용이 아닌 에이전트 작업 로그. 왼쪽 사이드바, 상태 탭·검색, 작업명·출처·크레딧·상태·시각 표. 오른쪽 필터 팝오버의 Source 하위 메뉴가 펼쳐짐."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "job search results with role filters and job detail panel"
+    ]
+  },
+  {
+    "id": "b1527c3a-5d57-4e86-b310-bc6a5b9ec23e",
+    "site": "Mercor",
+    "kind": "screen",
+    "title": "채용 탐색",
+    "mobbin_url": "https://mobbin.com/screens/b1527c3a-5d57-4e86-b310-bc6a5b9ec23e",
+    "tags": [
+      "recruitment"
+    ],
+    "observations": [
+      {
+        "screen_id": "b1527c3a-5d57-4e86-b310-bc6a5b9ec23e",
+        "note": "채용 탐색. 좁은 아이콘 레일, 상단 Resume·Location·Assessment 진행. Project-based 탭·검색·필터 칩·정렬, 세 열 역할 카드와 Domain 드롭다운."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "job search results with role filters and job detail panel"
+    ]
+  },
+  {
+    "id": "8325a445-cc7e-42e9-9e4a-058d6e514701",
+    "site": "Dribbble",
+    "kind": "screen",
+    "title": "채용 탐색",
+    "mobbin_url": "https://mobbin.com/screens/8325a445-cc7e-42e9-9e4a-058d6e514701",
+    "tags": [
+      "recruitment"
+    ],
+    "observations": [
+      {
+        "screen_id": "8325a445-cc7e-42e9-9e4a-058d6e514701",
+        "note": "왼쪽 넓은 채용 결과 목록, 오른쪽 직무·지역·원격·고용 유형 필터. 결과 행에 회사 로고·직무·게시일·위치, 상단 검색과 분홍 강조 체크박스."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "job search results with role filters and job detail panel"
+    ]
+  },
+  {
+    "id": "af99aea0-7b57-49ba-8e6a-a56a3d422c97",
+    "site": "Uxcel",
+    "kind": "screen",
+    "title": "채용 탐색",
+    "mobbin_url": "https://mobbin.com/screens/af99aea0-7b57-49ba-8e6a-a56a3d422c97",
+    "tags": [
+      "recruitment"
+    ],
+    "observations": [
+      {
+        "screen_id": "af99aea0-7b57-49ba-8e6a-a56a3d422c97",
+        "note": "채용 상세. 왼쪽 학습 서비스 사이드바, 가운데 노란 검토중 알림·직무 제목·조건·Apply Now·본문, 오른쪽 회사 로고·소개·Visit website."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "job search results with role filters and job detail panel"
+    ]
+  },
+  {
+    "id": "79f087d9-0c15-431f-9ffd-42783c3bd913",
+    "site": "Juicebox",
+    "kind": "screen",
+    "title": "채용 탐색",
+    "mobbin_url": "https://mobbin.com/screens/79f087d9-0c15-431f-9ffd-42783c3bd913",
+    "tags": [
+      "recruitment"
+    ],
+    "observations": [
+      {
+        "screen_id": "79f087d9-0c15-431f-9ffd-42783c3bd913",
+        "note": "채용 후보자 검색 목록. 왼쪽 프로젝트 내비게이션, 상단 보라 필터 칩, 본문 후보자별 체크박스·직무·학력·강조 요약. 오른쪽 기업 업종 필터 팝오버."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "job search results with role filters and job detail panel"
+    ]
+  },
+  {
+    "id": "e329013c-75f5-49f2-825b-d7810b400ad3",
+    "site": "GetYourGuide",
+    "kind": "screen",
+    "title": "검색·필터",
+    "mobbin_url": "https://mobbin.com/screens/e329013c-75f5-49f2-825b-d7810b400ad3",
+    "tags": [
+      "search-filter"
+    ],
+    "observations": [
+      {
+        "screen_id": "e329013c-75f5-49f2-825b-d7810b400ad3",
+        "note": "여행 활동 결과 위 중앙 Filters 모달. 시간·장소·관심사의 체크박스 그룹, 하단 Reset all·파란 결과 버튼. 뒤에 지도 타일과 활동 카드 그리드."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "accommodation search results with filters property cards and map"
+    ]
+  },
+  {
+    "id": "50b095ec-8819-4dce-a3f6-f0905957a830",
+    "site": "Sweatpals",
+    "kind": "screen",
+    "title": "지역 경험·리트릿 탐색",
+    "mobbin_url": "https://mobbin.com/screens/50b095ec-8819-4dce-a3f6-f0905957a830",
+    "tags": [
+      "booking",
+      "event-catalog"
+    ],
+    "observations": [
+      {
+        "screen_id": "50b095ec-8819-4dce-a3f6-f0905957a830",
+        "note": "지역 경험·리트릿 탐색. 상단 도시 검색·지도 전환, 날짜 알약·필터. 세 열 세로 포스터 카드와 주최자·이름·일정·가격."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "accommodation search results with filters property cards and map"
+    ]
+  },
+  {
+    "id": "f6731429-a303-4433-a940-a4f0824a9abd",
+    "site": "Dropbox Dash",
+    "kind": "screen",
+    "title": "파일 검색",
+    "mobbin_url": "https://mobbin.com/screens/f6731429-a303-4433-a940-a4f0824a9abd",
+    "tags": [
+      "document-library",
+      "search-filter"
+    ],
+    "observations": [
+      {
+        "screen_id": "f6731429-a303-4433-a940-a4f0824a9abd",
+        "note": "여행이 아닌 파일 검색. 왼쪽 Chats·Stacks 사이드바, 큰 검색 입력, 결과 유형 탭·필터. 이미지 네 장과 사람 필터 하위 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "accommodation search results with filters property cards and map"
+    ]
+  },
+  {
+    "id": "f0a68d5f-c656-4cad-95db-f6590118efdd",
+    "site": "Magnific",
+    "kind": "screen",
+    "title": "이미지 검색·컬러 필터",
+    "mobbin_url": "https://mobbin.com/screens/f0a68d5f-c656-4cad-95db-f6590118efdd",
+    "tags": [
+      "asset-library",
+      "search-filter"
+    ],
+    "observations": [
+      {
+        "screen_id": "f0a68d5f-c656-4cad-95db-f6590118efdd",
+        "note": "여행이 아닌 이미지 검색. 상단 검색·결과 수·여러 속성 필터·정렬, 여섯 열 사진 그리드. Color 팝오버에 단색·이중색 원형 선택값."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "accommodation search results with filters property cards and map"
+    ]
+  },
+  {
+    "id": "9d9d1461-4626-4863-9248-0ceedf542a13",
+    "site": "Semrush",
+    "kind": "screen",
+    "title": "에이전시 디렉터리",
+    "mobbin_url": "https://mobbin.com/screens/9d9d1461-4626-4863-9248-0ceedf542a13",
+    "tags": [
+      "directory",
+      "search-filter"
+    ],
+    "observations": [
+      {
+        "screen_id": "9d9d1461-4626-4863-9248-0ceedf542a13",
+        "note": "숙소가 아닌 마케팅 에이전시 디렉터리. 왼쪽 회사 카드 목록의 로고·평점·설명·위치·예산, 오른쪽 서비스·업종·지역 등 선택 필터와 주황 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "accommodation search results with filters property cards and map"
+    ]
+  },
+  {
+    "id": "73e78acc-e251-4502-b653-28e14fb40ccb",
+    "site": "Square",
+    "kind": "screen",
+    "title": "금융·거래 관리",
+    "mobbin_url": "https://mobbin.com/screens/73e78acc-e251-4502-b653-28e14fb40ccb",
+    "tags": [
+      "finance",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "73e78acc-e251-4502-b653-28e14fb40ccb",
+        "note": "상인 금융 개요. 왼쪽 사이드바, Banking 잔액 두 카드와 Sales 수치·선 그래프. 우상단 날짜 범위 팝오버에 달력과 기간 빠른 선택."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "financial account dashboard with balance chart and transaction list"
+    ]
+  },
+  {
+    "id": "942026ed-65a8-43a2-9233-e2d3f0d177d4",
+    "site": "DoorDash Merchant",
+    "kind": "screen",
+    "title": "금융·거래 관리",
+    "mobbin_url": "https://mobbin.com/screens/942026ed-65a8-43a2-9233-e2d3f0d177d4",
+    "tags": [
+      "finance",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "942026ed-65a8-43a2-9233-e2d3f0d177d4",
+        "note": "거래 집계. 기간·채널 필터와 빨간 보고서 버튼, 순액 요약, 매출·수수료·마케팅·조정의 두 열 아코디언 카드, 아래 거래 목록 시작."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "financial account dashboard with balance chart and transaction list"
+    ]
+  },
+  {
+    "id": "90bfce7d-2fe7-4e0d-8603-c2c57651a7ef",
+    "site": "Base",
+    "kind": "screen",
+    "title": "금융·거래 관리",
+    "mobbin_url": "https://mobbin.com/screens/90bfce7d-2fe7-4e0d-8603-c2c57651a7ef",
+    "tags": [
+      "finance",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "90bfce7d-2fe7-4e0d-8603-c2c57651a7ef",
+        "note": "지갑 활동 목록. 왼쪽 간단한 네 메뉴, 중앙 좁은 거래 표에 자산 아이콘·거래 설명·금액·날짜. 위 자산·네트워크 필터와 녹색 양수."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "financial account dashboard with balance chart and transaction list"
+    ]
+  },
+  {
+    "id": "4cbb6c72-ee1f-4735-b292-1507851203f4",
+    "site": "Shopify",
+    "kind": "screen",
+    "title": "금융·거래 관리",
+    "mobbin_url": "https://mobbin.com/screens/4cbb6c72-ee1f-4735-b292-1507851203f4",
+    "tags": [
+      "finance",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "4cbb6c72-ee1f-4735-b292-1507851203f4",
+        "note": "Shopify Balance 설정 초기 상태. 검정 상단바·연회색 사이드바. 왼쪽 계정·카드·자동이체, 오른쪽 잔액·상품 안내 카드와 법적 설명."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "financial account dashboard with balance chart and transaction list"
+    ]
+  },
+  {
+    "id": "f2ccaef0-8c6c-4560-9153-a513e15da099",
+    "site": "Copilot",
+    "kind": "screen",
+    "title": "금융·거래 관리",
+    "mobbin_url": "https://mobbin.com/screens/f2ccaef0-8c6c-4560-9153-a513e15da099",
+    "tags": [
+      "finance",
+      "dashboard"
+    ],
+    "observations": [
+      {
+        "screen_id": "f2ccaef0-8c6c-4560-9153-a513e15da099",
+        "note": "계정 금융 화면의 세 열. 왼쪽 계정 유형 트리, 가운데 자산·부채 차트와 계정 목록, 오른쪽 선택 계정의 녹색 추이·배분 막대·보유 자산 표."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "financial account dashboard with balance chart and transaction list"
+    ]
+  },
+  {
+    "id": "67d59fad-c6e5-43b0-814b-469bcf735e79",
+    "site": "Mixpanel",
+    "kind": "section",
+    "title": "FAQ",
+    "mobbin_url": "https://mobbin.com/sites/sections/67d59fad-c6e5-43b0-814b-469bcf735e79",
+    "tags": [
+      "faq"
+    ],
+    "observations": [
+      {
+        "screen_id": "67d59fad-c6e5-43b0-814b-469bcf735e79",
+        "note": "큰 둥근 짙은 보라 영역 중앙 FAQ 제목. 좁은 아코디언 열에 테두리와 원형 +/- 버튼. 첫 질문이 펼쳐져 긴 답변 표시."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "frequently asked questions section with expandable question rows"
+    ]
+  },
+  {
+    "id": "16077091-516c-4e22-b6d2-c6ad86b01432",
+    "site": "OpenPhone",
+    "kind": "section",
+    "title": "FAQ",
+    "mobbin_url": "https://mobbin.com/sites/sections/16077091-516c-4e22-b6d2-c6ad86b01432",
+    "tags": [
+      "faq"
+    ],
+    "observations": [
+      {
+        "screen_id": "16077091-516c-4e22-b6d2-c6ad86b01432",
+        "note": "흰 바탕 중앙 대형 FAQ 제목·도움말 안내. 아래 넓고 간격 큰 질문 행, 얇은 구분선과 오른쪽 chevron."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "frequently asked questions section with expandable question rows"
+    ]
+  },
+  {
+    "id": "962b30a4-f4ca-49c0-8ee7-4047b75170b1",
+    "site": "Pangram",
+    "kind": "section",
+    "title": "FAQ",
+    "mobbin_url": "https://mobbin.com/sites/sections/962b30a4-f4ca-49c0-8ee7-4047b75170b1",
+    "tags": [
+      "faq"
+    ],
+    "observations": [
+      {
+        "screen_id": "962b30a4-f4ca-49c0-8ee7-4047b75170b1",
+        "note": "연회색 배경 왼쪽 정렬 세리프 제목. 세 개 흰 질문 행, 첫 답변은 글머리표로 펼쳐짐. 주황 활성 minus와 회색 plus."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "frequently asked questions section with expandable question rows"
+    ]
+  },
+  {
+    "id": "357638fb-dbbb-4067-8f40-1f142e921a38",
+    "site": "Savor",
+    "kind": "section",
+    "title": "FAQ",
+    "mobbin_url": "https://mobbin.com/sites/sections/357638fb-dbbb-4067-8f40-1f142e921a38",
+    "tags": [
+      "faq"
+    ],
+    "observations": [
+      {
+        "screen_id": "357638fb-dbbb-4067-8f40-1f142e921a38",
+        "note": "크림 바탕과 중앙 큰 짙은 갈색 세리프 FAQ. 좁은 질문 열에 가는 선·작은 plus, 하단 Show more 링크."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "frequently asked questions section with expandable question rows"
+    ]
+  },
+  {
+    "id": "28ec3b11-74a4-4871-9ec2-8d40d5eec120",
+    "site": "Sprout Social",
+    "kind": "section",
+    "title": "FAQ",
+    "mobbin_url": "https://mobbin.com/sites/sections/28ec3b11-74a4-4871-9ec2-8d40d5eec120",
+    "tags": [
+      "faq"
+    ],
+    "observations": [
+      {
+        "screen_id": "28ec3b11-74a4-4871-9ec2-8d40d5eec120",
+        "note": "흰 바탕 파랑 FAQ 배지와 우측 Expand all. 큰 테두리 카드 세 개, 첫 카드 펼쳐짐. 질문 굵은 글자·chevron."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "frequently asked questions section with expandable question rows"
+    ]
+  },
+  {
+    "id": "59a01b78-ab97-47b7-b753-af5ff4c7e274",
+    "site": "Aurora",
+    "kind": "section",
+    "title": "팀 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/59a01b78-ab97-47b7-b753-af5ff4c7e274",
+    "tags": [
+      "team-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "59a01b78-ab97-47b7-b753-af5ff4c7e274",
+        "note": "왼쪽 굵은 제목, 그 아래 넓은 창업자 단체 사진. 오른쪽 좁은 소개문과 파란 Read more 링크를 사진 하단에 정렬."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "about section with team portraits and company introduction"
+    ]
+  },
+  {
+    "id": "f6a9b056-e9be-4ab5-80ea-9eae42fbd179",
+    "site": "OFF+BRAND",
+    "kind": "section",
+    "title": "팀 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/f6a9b056-e9be-4ab5-80ea-9eae42fbd179",
+    "tags": [
+      "team-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "f6a9b056-e9be-4ab5-80ea-9eae42fbd179",
+        "note": "연회색 바탕·오른쪽 주황 분홍 곡선. 큰 대문자 소개, 왼쪽 섹션 인덱스와 진행 표시. 아래 인물 사진 세 카드·plus."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "about section with team portraits and company introduction"
+    ]
+  },
+  {
+    "id": "5151f1c7-7ebf-429b-97c4-299719e57b48",
+    "site": "Anima",
+    "kind": "section",
+    "title": "팀 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/5151f1c7-7ebf-429b-97c4-299719e57b48",
+    "tags": [
+      "team-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "5151f1c7-7ebf-429b-97c4-299719e57b48",
+        "note": "흰 패널 상단 Meet our team 제목과 우측 짧은 소개. 세 개 흑백 인물 카드 하단에 초록 그라디언트·이름직책, 아래 작은 CTA."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "about section with team portraits and company introduction"
+    ]
+  },
+  {
+    "id": "28f34e76-1c4c-40e5-9148-b7936ec729fd",
+    "site": "Miro",
+    "kind": "section",
+    "title": "팀 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/28f34e76-1c4c-40e5-9148-b7936ec729fd",
+    "tags": [
+      "team-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "28f34e76-1c4c-40e5-9148-b7936ec729fd",
+        "note": "크림 바탕 중앙 Leadership 제목. 세 열 인물 사진, 노랑·보라·주황·분홍·라임의 다른 배경. 아래 이름·직책·위치."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "about section with team portraits and company introduction"
+    ]
+  },
+  {
+    "id": "4d7f2d06-591d-4f10-b8c6-6b4c7cee41cf",
+    "site": "Pitch",
+    "kind": "section",
+    "title": "팀 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/4d7f2d06-591d-4f10-b8c6-6b4c7cee41cf",
+    "tags": [
+      "team-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "4d7f2d06-591d-4f10-b8c6-6b4c7cee41cf",
+        "note": "팀 인물 사진을 크기가 다른 편집형 모자이크로 배치. 큰 좌측 사진 옆 두 작은 사진, 아래 다음 행. 사진에 파랑·주황 조명."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "about section with team portraits and company introduction"
+    ]
+  },
+  {
+    "id": "30b7fa31-8800-4cdd-9033-849c86a17d91",
+    "site": "Mural",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/30b7fa31-8800-4cdd-9033-849c86a17d91",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "30b7fa31-8800-4cdd-9033-849c86a17d91",
+        "note": "상단 블로그 카테고리 바. 왼쪽 넓은 Featured post에 초록 타이포 이미지·글 제목, 오른쪽 New 목록에 세 글과 구분선. 세리프 제목."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "412935b2-603d-435a-84d0-3c390ec95021",
+    "site": "Mural",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/412935b2-603d-435a-84d0-3c390ec95021",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "412935b2-603d-435a-84d0-3c390ec95021",
+        "note": "Mural 편집형 블로그의 다른 버전. 왼쪽 초록 타이포와 인물 사진이 분할된 대표 이미지, 오른쪽 최근 글 세 개. 같은 2단 구조."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "569d23da-a6b2-418b-9bd2-4c9a8084a217",
+    "site": "Swap",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/569d23da-a6b2-418b-9bd2-4c9a8084a217",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "569d23da-a6b2-418b-9bd2-4c9a8084a217",
+        "note": "세리프 섹션 제목과 오른쪽 이전다음. 가로 기사 카드에 어두운 이미지·유형과 읽기 시간 알약·굵은 제목·Read more. 오른쪽 다음 카드 일부."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "0d6a0e55-42ab-47b0-aee5-daea2bda8768",
+    "site": "Linear",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/0d6a0e55-42ab-47b0-aee5-daea2bda8768",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "0d6a0e55-42ab-47b0-aee5-daea2bda8768",
+        "note": "검정 바탕 두 열 기사 카드. 큰 컬러 썸네일 아래 카테고리·흰 굵은 제목·회색 요약·작성자·날짜. 카드 테두리 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "06da0f90-5321-45f9-8e21-5cfa8adc005e",
+    "site": "Loom",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/06da0f90-5321-45f9-8e21-5cfa8adc005e",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "06da0f90-5321-45f9-8e21-5cfa8adc005e",
+        "note": "크림 편집형 기사 영역에 두 열 일러스트·제목·요약·작성자. 가는 선과 외곽 프레임, 아래 보라 See all Articles 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "bb3f7978-3e19-438c-a1ac-7fdec49dc8a9",
+    "site": "ClickUp",
+    "kind": "section",
+    "title": "연동 디렉터리",
+    "mobbin_url": "https://mobbin.com/sites/sections/bb3f7978-3e19-438c-a1ac-7fdec49dc8a9",
+    "tags": [
+      "integrations"
+    ],
+    "observations": [
+      {
+        "screen_id": "bb3f7978-3e19-438c-a1ac-7fdec49dc8a9",
+        "note": "중앙 1,000+ integrations 제목. 왼쪽 카테고리 세로 목록, 오른쪽 각 카테고리 로고 카드 행. Time Tracking 활성 그림자와 보라 세로선."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "integrations section with application logos and connection categories"
+    ]
+  },
+  {
+    "id": "0fe6def3-c81b-4a09-8fbe-7ba356a99b33",
+    "site": "Glide",
+    "kind": "section",
+    "title": "연동 디렉터리",
+    "mobbin_url": "https://mobbin.com/sites/sections/0fe6def3-c81b-4a09-8fbe-7ba356a99b33",
+    "tags": [
+      "integrations"
+    ],
+    "observations": [
+      {
+        "screen_id": "0fe6def3-c81b-4a09-8fbe-7ba356a99b33",
+        "note": "검정 섹션 중앙 짧은 제목·회색 설명, 한 줄 앱 아이콘이 양끝으로 흐려짐. 아래 회색 Explore all integrations 알약 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "integrations section with application logos and connection categories"
+    ]
+  },
+  {
+    "id": "cda57ca2-8353-4266-a67a-934165a85af0",
+    "site": "ClickUp",
+    "kind": "section",
+    "title": "연동 디렉터리",
+    "mobbin_url": "https://mobbin.com/sites/sections/cda57ca2-8353-4266-a67a-934165a85af0",
+    "tags": [
+      "integrations"
+    ],
+    "observations": [
+      {
+        "screen_id": "cda57ca2-8353-4266-a67a-934165a85af0",
+        "note": "흰 바탕 중앙 연결 안내 제목. 두 줄 앱 로고 카드가 양끝에서 잘림. 아래 큰 제품 CTA 배너와 로고·보라 Get Started."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "integrations section with application logos and connection categories"
+    ]
+  },
+  {
+    "id": "24b8d7a8-447a-486b-9f58-d2b3f05e5644",
+    "site": "Charma",
+    "kind": "section",
+    "title": "연동 디렉터리",
+    "mobbin_url": "https://mobbin.com/sites/sections/24b8d7a8-447a-486b-9f58-d2b3f05e5644",
+    "tags": [
+      "integrations"
+    ],
+    "observations": [
+      {
+        "screen_id": "24b8d7a8-447a-486b-9f58-d2b3f05e5644",
+        "note": "세 열 연동 앱 목록. 커다란 컬러 정사각 아이콘, 앱명·짧은 설명·밑줄 Read more·카테고리. 아래 두번째 행 일부."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "integrations section with application logos and connection categories"
+    ]
+  },
+  {
+    "id": "6f09f09a-ddb8-4581-ba7c-603a1d7920c7",
+    "site": "Vercel",
+    "kind": "section",
+    "title": "연동 디렉터리",
+    "mobbin_url": "https://mobbin.com/sites/sections/6f09f09a-ddb8-4581-ba7c-603a1d7920c7",
+    "tags": [
+      "integrations"
+    ],
+    "observations": [
+      {
+        "screen_id": "6f09f09a-ddb8-4581-ba7c-603a1d7920c7",
+        "note": "왼쪽 검색·연동 카테고리 목록, 오른쪽 Analytics·CMS별 세 열 흰 카드. 로고·이름·Template/Beta 상태·짧은 설명."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "integrations section with application logos and connection categories"
+    ]
+  },
+  {
+    "id": "4496ab63-aada-4e07-933b-c32a13e535b5",
+    "site": "Studio Freight",
+    "kind": "section",
+    "title": "문의",
+    "mobbin_url": "https://mobbin.com/sites/sections/4496ab63-aada-4e07-933b-c32a13e535b5",
+    "tags": [
+      "contact-form"
+    ],
+    "observations": [
+      {
+        "screen_id": "4496ab63-aada-4e07-933b-c32a13e535b5",
+        "note": "검정 바탕 두 열. 왼쪽 밑줄 입력형 문의 폼과 FAQ, 오른쪽 소셜 링크·Capabilities 이미지·다운로드 링크. 작은 세리프 글자."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "contact section with inquiry form and company contact details"
+    ]
+  },
+  {
+    "id": "95a27e82-73ff-4704-b843-682d1281753b",
+    "site": "Fiasco",
+    "kind": "section",
+    "title": "문의",
+    "mobbin_url": "https://mobbin.com/sites/sections/95a27e82-73ff-4704-b843-682d1281753b",
+    "tags": [
+      "contact-form"
+    ],
+    "observations": [
+      {
+        "screen_id": "95a27e82-73ff-4704-b843-682d1281753b",
+        "note": "짙은 올리브 배경. 왼쪽 두 열 담당자·아바타·연락처와 주소, 오른쪽 더 어두운 문의 폼. 두 열 입력·메시지·동의·노란 Submit."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "contact section with inquiry form and company contact details"
+    ]
+  },
+  {
+    "id": "aefcd862-f64f-4192-a113-3566ab661425",
+    "site": "Vercel",
+    "kind": "section",
+    "title": "문의",
+    "mobbin_url": "https://mobbin.com/sites/sections/aefcd862-f64f-4192-a113-3566ab661425",
+    "tags": [
+      "contact-form"
+    ],
+    "observations": [
+      {
+        "screen_id": "aefcd862-f64f-4192-a113-3566ab661425",
+        "note": "흰 바탕 왼쪽 좁은 Contact Monogram 폼. 이름·회사이메일·시작일예산 두 열 입력, 설명 textarea, 오른쪽 정렬 검정 Send 버튼. 우측 넓은 여백."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "contact section with inquiry form and company contact details"
+    ]
+  },
+  {
+    "id": "914df681-c24d-4800-bd11-9c144d0175fb",
+    "site": "Framer",
+    "kind": "section",
+    "title": "문의",
+    "mobbin_url": "https://mobbin.com/sites/sections/914df681-c24d-4800-bd11-9c144d0175fb",
+    "tags": [
+      "contact-form"
+    ],
+    "observations": [
+      {
+        "screen_id": "914df681-c24d-4800-bd11-9c144d0175fb",
+        "note": "검정-보라 그라디언트 배경. 왼쪽 큰 세 줄 제목·설명·보안 배지, 오른쪽 반투명 문의 카드에 두 열 입력·subject·message·흰 CTA."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "contact section with inquiry form and company contact details"
+    ]
+  },
+  {
+    "id": "82ce6566-c33e-4b16-8750-670aa04be011",
+    "site": "Rains",
+    "kind": "section",
+    "title": "문의",
+    "mobbin_url": "https://mobbin.com/sites/sections/82ce6566-c33e-4b16-8750-670aa04be011",
+    "tags": [
+      "contact-form"
+    ],
+    "observations": [
+      {
+        "screen_id": "82ce6566-c33e-4b16-8750-670aa04be011",
+        "note": "흰 바탕 좌상단 연락 안내·영업시간. 중앙 좁은 밑줄 폼·메시지 사각칸·동의 체크박스·외곽선 Send 알약, 하단 작은 회사 정보."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "contact section with inquiry form and company contact details"
+    ]
+  },
+  {
+    "id": "f30de5ce-54ed-4daf-befe-d30c53d53ab4",
+    "site": "folk",
+    "kind": "section",
+    "title": "요금제",
+    "mobbin_url": "https://mobbin.com/sites/sections/f30de5ce-54ed-4daf-befe-d30c53d53ab4",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "f30de5ce-54ed-4daf-befe-d30c53d53ab4",
+        "note": "중앙 Migration service 소개·지원 제품·Contact us. 아래 가는 격자 비교표에 월연 토글과 Free·Standard·Premium 열, 기능 행·체크 표시."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "pricing section with monthly annual toggle and plan comparison"
+    ]
+  },
+  {
+    "id": "508ecbc2-f527-4753-b1ce-0230bdf92d38",
+    "site": "Shade",
+    "kind": "section",
+    "title": "요금제",
+    "mobbin_url": "https://mobbin.com/sites/sections/508ecbc2-f527-4753-b1ce-0230bdf92d38",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "508ecbc2-f527-4753-b1ce-0230bdf92d38",
+        "note": "사진 콜라주 배경 위 브라우저 프레임 모양 Growth·Enterprise 두 카드. 연간 토글·가격·기능 목록·하단 CTA, 검정 기업 데모 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "pricing section with monthly annual toggle and plan comparison"
+    ]
+  },
+  {
+    "id": "d6715abe-7a47-4986-ab70-4981982daa12",
+    "site": "Amie",
+    "kind": "section",
+    "title": "요금제",
+    "mobbin_url": "https://mobbin.com/sites/sections/d6715abe-7a47-4986-ab70-4981982daa12",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "d6715abe-7a47-4986-ab70-4981982daa12",
+        "note": "중앙 큰 제목·회색 후반 문구, 초록 연간 할인 안내와 토글. Pro·Business 두 카드 및 아래 넓은 Enterprise. 초록 체크·검정 CTA."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "pricing section with monthly annual toggle and plan comparison"
+    ]
+  },
+  {
+    "id": "baac6a3f-6b5b-48a3-a53f-c2ad52907359",
+    "site": "Cycle",
+    "kind": "section",
+    "title": "요금제",
+    "mobbin_url": "https://mobbin.com/sites/sections/baac6a3f-6b5b-48a3-a53f-c2ad52907359",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "baac6a3f-6b5b-48a3-a53f-c2ad52907359",
+        "note": "흰 바탕 큰 중앙 제목·파랑 월연 토글. 세 카드의 헤더는 민트·분홍·연보라. Starter 무료, Pro 기본+좌석 요금, Business+ 맞춤형."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "pricing section with monthly annual toggle and plan comparison"
+    ]
+  },
+  {
+    "id": "9420ada1-5228-48b0-9ba1-7455d80f0e66",
+    "site": "Webflow",
+    "kind": "section",
+    "title": "요금제",
+    "mobbin_url": "https://mobbin.com/sites/sections/9420ada1-5228-48b0-9ba1-7455d80f0e66",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "9420ada1-5228-48b0-9ba1-7455d80f0e66",
+        "note": "보라파랑 그라디언트 상단 소개와 플랜 대상 선택. 아래 General/Ecommerce 탭·월연 토글, 다섯 요금제 열. Enterprise만 검정, CMS 인기 배지."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "pricing section with monthly annual toggle and plan comparison"
+    ]
+  },
+  {
+    "id": "de1d1994-e910-42da-9f07-1076412af3d7",
+    "site": "Airtable",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/de1d1994-e910-42da-9f07-1076412af3d7",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "de1d1994-e910-42da-9f07-1076412af3d7",
+        "note": "짙은 남색 솔루션 히어로 중앙 큰 제목·짧은 설명·파란 가입 버튼. 위 breadcrumb와 공지줄, 아래 회색 솔루션 소개 두 열."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "5f21cc1b-5ed6-4e15-a51f-49b629c41c7a",
+    "site": "Clay",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/5f21cc1b-5ed6-4e15-a51f-49b629c41c7a",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "5f21cc1b-5ed6-4e15-a51f-49b629c41c7a",
+        "note": "초록 3D 풍경과 컬러 추상 도구 이미지. 하단 왼쪽 큰 흰 제목, 오른쪽 설명·흰 가입·라임 데모 CTA. 아래 흰 신뢰 패널."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "5f84e90e-f4ae-48e5-bdb0-9b0b9b303f03",
+    "site": "Figma",
+    "kind": "section",
+    "title": "회사 스토리 도입",
+    "mobbin_url": "https://mobbin.com/sites/sections/5f84e90e-f4ae-48e5-bdb0-9b0b9b303f03",
+    "tags": [
+      "mission-about",
+      "typography"
+    ],
+    "observations": [
+      {
+        "screen_id": "5f84e90e-f4ae-48e5-bdb0-9b0b9b303f03",
+        "note": "제품 스크린샷 히어로가 아닌 회사 스토리 도입. 노란 전체 폭 바탕에 매우 큰 검정 두 줄 제목과 아래 이야기 문구."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "56c3bc9d-a358-4878-ba6b-0989d6eef012",
+    "site": "Better Stack",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/56c3bc9d-a358-4878-ba6b-0989d6eef012",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "56c3bc9d-a358-4878-ba6b-0989d6eef012",
+        "note": "거의 검정 남색 바탕 중앙 로고·큰 흰 두 줄 제목·보조문·보라 가입 CTA·데모 링크. 주변 어두운 그래프 카드가 떠 있음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "102dc026-197a-4684-b761-a4cc4a9b9d86",
+    "site": "Slack",
+    "kind": "section",
+    "title": "제품 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/102dc026-197a-4684-b761-a4cc4a9b9d86",
+    "tags": [
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "102dc026-197a-4684-b761-a4cc4a9b9d86",
+        "note": "흰 두 열 제품 히어로. 왼쪽 제목·설명·보라 가입 및 외곽선 기능 버튼, 오른쪽 데스크톱 채팅 UI와 겹친 모바일 UI. 아래 고객 사례 띠."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section with large headline product screenshot and signup button"
+    ]
+  },
+  {
+    "id": "975a7e67-2632-40cb-ab2b-4a9b1a2fc84f",
+    "site": "Unseen Studio",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/975a7e67-2632-40cb-ab2b-4a9b1a2fc84f",
+    "tags": [
+      "portfolio",
+      "needs-review"
+    ],
+    "observations": [
+      {
+        "screen_id": "975a7e67-2632-40cb-ab2b-4a9b1a2fc84f",
+        "note": "어두운 캡처 중앙 작은 N과 스튜디오 소개만 보임. 로딩 또는 미디어 전환 여부는 확인되지 않았으므로 구현 근거로는 정보 부족."
+      }
+    ],
+    "usable": false,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "c2512198-ddc8-43aa-bac7-2a47cd359aac",
+    "site": "Koto",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/c2512198-ddc8-43aa-bac7-2a47cd359aac",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "c2512198-ddc8-43aa-bac7-2a47cd359aac",
+        "note": "푸른 질감 전체 화면 중앙 큰 흰 세리프 SEASONED 문구. 스크린샷만으로 메뉴나 인터랙션을 파악할 수 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "33fe7784-8888-4dfc-8932-2e1efc4bb674",
+    "site": "Claude Type",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/33fe7784-8888-4dfc-8932-2e1efc4bb674",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "33fe7784-8888-4dfc-8932-2e1efc4bb674",
+        "note": "흰 바탕 중앙 좁은 스튜디오 소개문과 이탤릭 경력 문구·어두운 연락 알약. 아래 장식적 서체 기호 띠와 Selected Press. 상단 좁은 떠 있는 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "1bdc4e01-2f7e-4e09-9aa1-27f02c13bcbe",
+    "site": "Unseen Studio",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/1bdc4e01-2f7e-4e09-9aa1-27f02c13bcbe",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "1bdc4e01-2f7e-4e09-9aa1-27f02c13bcbe",
+        "note": "분홍 건축과 물의 반사 장면을 전체 화면 배경으로 사용. 중앙 세리프·산세리프 혼합 제목과 View our work 알약. 상단 작은 메뉴·하단 부가 아이콘."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "51d590fd-8f49-4763-98a3-06392c4f7df8",
+    "site": "Fiasco",
+    "kind": "section",
+    "title": "스튜디오 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/51d590fd-8f49-4763-98a3-06392c4f7df8",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "51d590fd-8f49-4763-98a3-06392c4f7df8",
+        "note": "선명한 노란 전체 화면. 중앙 가는 큰 소개문, 화면 가장자리 여러 작업·팀 사진 콜라주. 파란 로고와 작은 상단 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section introducing a design studio with typography and project imagery"
+    ]
+  },
+  {
+    "id": "759d9ce9-16c7-471a-b0cc-c1d5286a679b",
+    "site": "IKEA",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/759d9ce9-16c7-471a-b0cc-c1d5286a679b",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "759d9ce9-16c7-471a-b0cc-c1d5286a679b",
+        "note": "편집형 쇼핑 입구. 왼쪽 약 2/3 대형 집 사진에 하단 흰 캡션, 오른쪽 노란 Go shopping 패널과 상품 단독 사진. 상단 로고와 메뉴 아이콘."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "2819e623-d5e1-4cc4-87dc-884628a5d83d",
+    "site": "Eat Hungry Tiger",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/2819e623-d5e1-4cc4-87dc-884628a5d83d",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "2819e623-d5e1-4cc4-87dc-884628a5d83d",
+        "note": "향신료 병 클로즈업 전체 화면. 좌하단 대형 노랑 대문자 제목과 작은 Buy now 알약. 강한 분홍·갈색·노랑 대비."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "2ea7ceb2-4478-4e39-94ac-b441c40c4e46",
+    "site": "re_",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/2ea7ceb2-4478-4e39-94ac-b441c40c4e46",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "2ea7ceb2-4478-4e39-94ac-b441c40c4e46",
+        "note": "따뜻한 주황 생활용품 정물 사진 위 매우 큰 흰 로고. 상단 왼쪽 Menu·오른쪽 검색과 Order 알약. 별도 설명 제목은 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "d3ceaefc-64f9-4093-b082-642389a7bf02",
+    "site": "Seed",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/d3ceaefc-64f9-4093-b082-642389a7bf02",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "d3ceaefc-64f9-4093-b082-642389a7bf02",
+        "note": "상단 라임 세일 공지, 자연광 배경 중앙 할인 안내·설명·짙은 초록 Shop Now. 하단 네 제품 병이 주인공, 큰 이미지 영역 아래 둥근 모서리."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "095d014e-3d91-4684-b137-1c26ac79b120",
+    "site": "Loom",
+    "kind": "section",
+    "title": "커머스 랜딩",
+    "mobbin_url": "https://mobbin.com/sites/sections/095d014e-3d91-4684-b137-1c26ac79b120",
+    "tags": [
+      "commerce-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "095d014e-3d91-4684-b137-1c26ac79b120",
+        "note": "영상 SaaS가 아닌 Loom 굿즈 스토어. 연회색 바탕 큰 남색 소개문과 아래 두 열 둥근 상품 사진. 상단 단순 shop 로고·계정·카트."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "hero section for an online store with product photography and shopping button"
+    ]
+  },
+  {
+    "id": "5107108b-eeca-40f5-be4b-4d824e441479",
+    "site": "Homerun",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/5107108b-eeca-40f5-be4b-4d824e441479",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "5107108b-eeca-40f5-be4b-4d824e441479",
+        "note": "블로그 상단 큰 검정 대표 글 카드. 아래 빨강·파랑·노랑 세 열 기사 카드, 흰 제목·설명·작성자·읽기 시간과 작은 캐릭터 장식."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "67b09817-2de9-420c-86b3-04aab05aaa6c",
+    "site": "Braintrust",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/67b09817-2de9-420c-86b3-04aab05aaa6c",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "67b09817-2de9-420c-86b3-04aab05aaa6c",
+        "note": "큰 이미지 위 흰 대표 기사 제목·매체·날짜·Read. 아래 연한 파랑 두 열 텍스트 기사 카드에 매체명·날짜·제목·외곽선 버튼."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "8f66f05e-fefb-42aa-9e46-cfda664d0af1",
+    "site": "Linear",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/8f66f05e-fefb-42aa-9e46-cfda664d0af1",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "8f66f05e-fefb-42aa-9e46-cfda664d0af1",
+        "note": "검정 블로그, 중앙 좁은 콘텐츠 폭. 위 두 큰 카드와 아래 세 작은 카드. 아주 어두운 썸네일·흰 제목·작성자 아바타, 얇은 테두리와 둥근 모서리."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "20c1c35a-2b45-4aa3-b988-e96de9d3c117",
+    "site": "Aboard",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/20c1c35a-2b45-4aa3-b988-e96de9d3c117",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "20c1c35a-2b45-4aa3-b988-e96de9d3c117",
+        "note": "짙은 보라 그라디언트 블로그 섹션. Our latest와 유형 알약, 네 열 기사 이미지·보라 배지·날짜작성자·흰 제목·요약."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "3b0de001-bc95-44b4-96e7-6b2c958583c7",
+    "site": "Runner",
+    "kind": "section",
+    "title": "편집형 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/3b0de001-bc95-44b4-96e7-6b2c958583c7",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "3b0de001-bc95-44b4-96e7-6b2c958583c7",
+        "note": "흰 편집형 Featured 세 열. 가는 구분선·사진·작은 날짜·세리프 제목·회색 설명·작성자. 상단 제목과 오른쪽 소개."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "blog section with featured article and editorial card grid"
+    ]
+  },
+  {
+    "id": "5a83ee43-c7d4-4207-879a-1e9b3bc6e942",
+    "site": "Basecamp",
+    "kind": "flow",
+    "title": "게시물 발행",
+    "mobbin_url": "https://mobbin.com/flows/5a83ee43-c7d4-4207-879a-1e9b3bc6e942",
+    "tags": [
+      "editor",
+      "publishing"
+    ],
+    "observations": [
+      {
+        "screen_id": "d2d82a47-f267-4838-94e2-9087896d1066",
+        "position": 1,
+        "note": "중앙 흰 메시지 편집기. 상단 카테고리·굵은 제목·서식 도구막대·Save a draft·파란 Post this message. 본문 이미지와 첨부 콘텐츠."
+      },
+      {
+        "screen_id": "59302a99-500c-4fd4-b1e7-a4bdab14d94a",
+        "position": 2,
+        "note": "게시 후 상세 화면. 같은 제목·큰 이미지·첨부, 위 작성자·날짜·알림 대상 요약. 편집 도구막대 대신 Bookmark·Edit 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "creating and publishing a post with title and content"
+    ],
+    "screen_count": 2,
+    "screens": [
+      {
+        "id": "d2d82a47-f267-4838-94e2-9087896d1066",
+        "position": 1
+      },
+      {
+        "id": "59302a99-500c-4fd4-b1e7-a4bdab14d94a",
+        "position": 2
+      }
+    ]
+  },
+  {
+    "id": "0a9a45a0-7b9c-4e1c-b838-faa75bd1e3ed",
+    "site": "lululemon",
+    "kind": "flow",
+    "title": "상품 구매",
+    "mobbin_url": "https://mobbin.com/flows/0a9a45a0-7b9c-4e1c-b838-faa75bd1e3ed",
+    "tags": [
+      "checkout",
+      "commerce"
+    ],
+    "observations": [
+      {
+        "screen_id": "4fd7f773-3297-4bdc-b281-61b188f23273",
+        "position": 1,
+        "note": "왼쪽 장바구니 상품행·수량·저장수정삭제, 오른쪽 주문 요약·소계배송세금총액·빨간 Checkout와 PayPal 버튼."
+      },
+      {
+        "screen_id": "433eb858-1742-48f6-8f13-7b8a282693dc",
+        "position": 3,
+        "note": "중앙 Checkout 진행표시 Contact→Shipping→Payment→Review. 왼쪽 배송 주소 폼, 오른쪽 상품·가격 요약. 연락정보는 접힌 완료 요약."
+      },
+      {
+        "screen_id": "e0b7545c-852b-43ca-90e8-cb0a10d2666f",
+        "position": 5,
+        "note": "배송 정보 완료 후 Payment 선택 영역. 기프트 카드·Apple Pay·PayPal·Afterpay 등의 가로 아코디언 행. 오른쪽 주문 요약 유지."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "checkout with shipping address and payment method selection"
+    ],
+    "screen_count": 5,
+    "screens": [
+      {
+        "id": "4fd7f773-3297-4bdc-b281-61b188f23273",
+        "position": 1
+      },
+      {
+        "id": "7a884722-b8f4-4d13-be72-c8eba5281937",
+        "position": 2
+      },
+      {
+        "id": "433eb858-1742-48f6-8f13-7b8a282693dc",
+        "position": 3
+      },
+      {
+        "id": "6ee844eb-9b49-4f98-8c59-f8a27f7a6c9f",
+        "position": 4
+      },
+      {
+        "id": "e0b7545c-852b-43ca-90e8-cb0a10d2666f",
+        "position": 5
+      }
+    ]
+  },
+  {
+    "id": "fdae4948-435d-4760-a192-72c147300b97",
+    "site": "Better Stack",
+    "kind": "flow",
+    "title": "구독 업그레이드",
+    "mobbin_url": "https://mobbin.com/flows/fdae4948-435d-4760-a192-72c147300b97",
+    "tags": [
+      "billing",
+      "subscription"
+    ],
+    "observations": [
+      {
+        "screen_id": "d6ae9202-4aac-4e1b-bb3f-a0c9a10fc59e",
+        "position": 1,
+        "note": "짙은 남색 Billing 설정. 왼쪽 설정 사이드바, 본문 설명과 선택 옵션 두 열. 응답자 라이선스 수 슬라이더·지역 선택·선불 번들 라디오 카드."
+      },
+      {
+        "screen_id": "a2b4260c-2bf8-4e68-b82c-a3b82a27116b",
+        "position": 4,
+        "note": "짙은 남색 신용카드 입력 화면. 넓은 카드의 왼쪽 카드 입력, 오른쪽 총액·보라 Pay. 아래 청구서 설정 접힘 링크."
+      },
+      {
+        "screen_id": "b775c3b4-1498-419b-8df7-df4080ad53df",
+        "position": 8,
+        "note": "청구 정보 확장 상태. 왼쪽 설명, 오른쪽 개인/회사 라디오와 이름·이메일·주소·국가·세금번호·메모 폼. 두 열 입력과 어두운 표면."
+      },
+      {
+        "screen_id": "6e426a2b-e22d-429e-a0a6-81efc8c75d3e",
+        "position": 11,
+        "note": "구독 활성화 결과. 초록 성공 배너, 현재 플랜·청구정보·다음 결제 세 카드, 아래 청구서 표. Change plan·Cancel·Manage credit cards 링크."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "upgrading a subscription with plan selection and billing details"
+    ],
+    "screen_count": 11,
+    "screens": [
+      {
+        "id": "d6ae9202-4aac-4e1b-bb3f-a0c9a10fc59e",
+        "position": 1
+      },
+      {
+        "id": "576c735c-1b82-433a-a80b-e45dcf7ad1bb",
+        "position": 2
+      },
+      {
+        "id": "28f225a4-c6b0-4afd-ba0c-45ee018d7d01",
+        "position": 3
+      },
+      {
+        "id": "a2b4260c-2bf8-4e68-b82c-a3b82a27116b",
+        "position": 4
+      },
+      {
+        "id": "ecf28d9e-e891-425a-b224-452a0925e819",
+        "position": 5
+      },
+      {
+        "id": "2e3ba128-d0b2-4e40-b0b2-aac31d81bc95",
+        "position": 6
+      },
+      {
+        "id": "45f0d538-773f-4db1-8ede-aebc292f4a56",
+        "position": 7
+      },
+      {
+        "id": "b775c3b4-1498-419b-8df7-df4080ad53df",
+        "position": 8
+      },
+      {
+        "id": "10d44a7b-6b45-4bf5-b707-d98080075e06",
+        "position": 9
+      },
+      {
+        "id": "93e51d5d-4fd0-4282-b1fb-13d0c1c2f7b3",
+        "position": 10
+      },
+      {
+        "id": "6e426a2b-e22d-429e-a0a6-81efc8c75d3e",
+        "position": 11
+      }
+    ]
+  },
+  {
+    "id": "be988574-2b30-4b82-a5a3-30352abbf1a2",
+    "site": "Airbnb",
+    "kind": "flow",
+    "title": "숙소 예약",
+    "mobbin_url": "https://mobbin.com/flows/be988574-2b30-4b82-a5a3-30352abbf1a2",
+    "tags": [
+      "booking",
+      "travel"
+    ],
+    "observations": [
+      {
+        "screen_id": "40cb4148-15dc-414a-8b47-202a039f7e27",
+        "position": 1,
+        "note": "왼쪽 두 달 달력의 체크인아웃 선택, 오른쪽 둥근 예약 카드에 가격·날짜·인원·분홍 Reserve. 아래 큰 평점과 Guest favorite."
+      },
+      {
+        "screen_id": "1aa397a5-3fea-4548-9980-528eea748d91",
+        "position": 5,
+        "note": "예약 결제수단 단계. 왼쪽 신용카드·PayPal·Apple Pay·Google Pay 라디오와 입력. 카드번호 필드에 빨간 오류. 오른쪽 숙소·취소정책·일정·가격 요약."
+      },
+      {
+        "screen_id": "bcd5d2bf-5f5f-4b4b-9967-4fccc6e7450d",
+        "position": 8,
+        "note": "예약 검토 단계. 앞 단계는 접힌 요약과 Change, 아래 여행보험 체크박스·약관·분홍 Confirm and pay. 오른쪽 예약 요약 유지."
+      },
+      {
+        "screen_id": "101aa54b-0fc2-4adf-bf46-1bd6ecb620c3",
+        "position": 12,
+        "note": "완료가 아닌 숙박 승인 대기 상태. 크림 배경 왼쪽 큰 숙소 카드·Pending 배지, 오른쪽 Your stay is pending 설명·검정 Got it."
+      },
+      {
+        "screen_id": "78bcb64d-290d-45bf-9442-a03361754fcc",
+        "position": 15,
+        "note": "Trips 화면. 숙소 가로 카드·도착 안내 타임라인, 아래 활동 추천 이미지 카드. 예약 이후 여정도 분리해서 보여줌."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "booking an accommodation with dates and guest information"
+    ],
+    "screen_count": 15,
+    "screens": [
+      {
+        "id": "40cb4148-15dc-414a-8b47-202a039f7e27",
+        "position": 1
+      },
+      {
+        "id": "54761527-353f-47f1-bcf7-c59d267b0e15",
+        "position": 2
+      },
+      {
+        "id": "5dae47fd-6764-4452-b208-324c253af5a8",
+        "position": 3
+      },
+      {
+        "id": "3c76c41f-4239-4487-b0b5-804ad2970a21",
+        "position": 4
+      },
+      {
+        "id": "1aa397a5-3fea-4548-9980-528eea748d91",
+        "position": 5
+      },
+      {
+        "id": "8044ef51-b695-433c-8555-da9d4f782e7a",
+        "position": 6
+      },
+      {
+        "id": "3dd02d92-d632-47b4-b82b-80e8aa53a196",
+        "position": 7
+      },
+      {
+        "id": "bcd5d2bf-5f5f-4b4b-9967-4fccc6e7450d",
+        "position": 8
+      },
+      {
+        "id": "be1a3101-2582-45a4-9993-a700bc7b0e44",
+        "position": 9
+      },
+      {
+        "id": "d5f132b1-8652-4e8d-bcac-c1661350bd05",
+        "position": 10
+      },
+      {
+        "id": "252a2f97-a9e1-4287-9428-329bb0c23d46",
+        "position": 11
+      },
+      {
+        "id": "101aa54b-0fc2-4adf-bf46-1bd6ecb620c3",
+        "position": 12
+      },
+      {
+        "id": "81cb5333-40c3-431b-a728-d2266e728b35",
+        "position": 13
+      },
+      {
+        "id": "d3a8ceec-6af8-4f17-8e78-a9526936ac10",
+        "position": 14
+      },
+      {
+        "id": "78bcb64d-290d-45bf-9442-a03361754fcc",
+        "position": 15
+      }
+    ]
+  },
+  {
+    "id": "8a94d67e-59d4-4e82-b9a2-125eeb1872fa",
+    "site": "adidas",
+    "kind": "flow",
+    "title": "상품 검색",
+    "mobbin_url": "https://mobbin.com/flows/8a94d67e-59d4-4e82-b9a2-125eeb1872fa",
+    "tags": [
+      "product-search",
+      "commerce"
+    ],
+    "observations": [
+      {
+        "screen_id": "e3a4181b-90f7-400b-a6d2-4d4eedc7f0a3",
+        "position": 1,
+        "note": "상단 카테고리·검색·계정·저장·카트, 검정 할인 공지. 아래 세 장 패션 사진을 가로로 합친 히어로와 작은 남녀 쇼핑 버튼."
+      },
+      {
+        "screen_id": "ee99d3a4-aff3-4df1-86a4-ce0001538743",
+        "position": 3,
+        "note": "검색 빈 결과 상태. 상단 OOPS - NO RESULTS 제목·설명·큰 재검색 입력, 홈 복귀 링크. 아래 여러 열 푸터."
+      },
+      {
+        "screen_id": "76f16c95-05bd-4965-b5f9-3c55a5848dad",
+        "position": 5,
+        "note": "검색 결과 제목과 Filter & Sort 버튼. 세 열 상품 이미지·가격·할인·상품명·색 수, 아래 Recently viewed items. 흰 바탕과 검정 타이포."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "searching for a product and filtering results"
+    ],
+    "screen_count": 5,
+    "screens": [
+      {
+        "id": "e3a4181b-90f7-400b-a6d2-4d4eedc7f0a3",
+        "position": 1
+      },
+      {
+        "id": "cb2d0f29-8455-450a-8f7d-dc3a719d947d",
+        "position": 2
+      },
+      {
+        "id": "ee99d3a4-aff3-4df1-86a4-ce0001538743",
+        "position": 3
+      },
+      {
+        "id": "56a3161d-a4d9-4314-8853-cd08766b3df1",
+        "position": 4
+      },
+      {
+        "id": "76f16c95-05bd-4965-b5f9-3c55a5848dad",
+        "position": 5
+      }
+    ]
+  },
+  {
+    "id": "a9262dda-0fb7-4350-ac55-a9b8b1a5b29c",
+    "site": "Jira",
+    "kind": "flow",
+    "title": "가입·인증",
+    "mobbin_url": "https://mobbin.com/flows/a9262dda-0fb7-4350-ac55-a9b8b1a5b29c",
+    "tags": [
+      "authentication",
+      "onboarding"
+    ],
+    "observations": [
+      {
+        "screen_id": "c0159c8e-dba3-4607-b32d-11d6cdb83a3c",
+        "position": 1,
+        "note": "연한 파랑 랜딩 왼쪽 큰 AI 소개 제목, 오른쪽 이메일 입력·파란 가입·Google 버튼. 아래 네 사용 사례 제품 카드."
+      },
+      {
+        "screen_id": "c406d853-7b88-4e60-98e0-3b5474af04ab",
+        "position": 4,
+        "note": "흰 바탕 중앙 좁은 Atlassian 가입 카드. 이메일·약관·파란 가입 버튼·네 소셜 로그인·기존 계정 링크, 양하단 컬러 일러스트."
+      },
+      {
+        "screen_id": "2c586313-8605-4bc2-a44d-66967cf6e476",
+        "position": 7,
+        "note": "이메일 인증 완료 후 가입 마무리 카드. 인증 표시·이메일 요약·이름과 비밀번호 입력·보기 토글·8자 안내·파란 Continue."
+      },
+      {
+        "screen_id": "e4c04743-5bbf-4df0-87a1-77b9170ded34",
+        "position": 10,
+        "note": "가입 후 랜딩으로 돌아온 상태. AI 소개 및 가입 입력은 유지되지만 상단 로그인 링크 대신 사용자 아바타·이름·알림이 보임."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "signing up with email verification and profile setup"
+    ],
+    "screen_count": 10,
+    "screens": [
+      {
+        "id": "c0159c8e-dba3-4607-b32d-11d6cdb83a3c",
+        "position": 1
+      },
+      {
+        "id": "e2d2bf98-cd9d-433a-8ce2-6018d122e5ef",
+        "position": 2
+      },
+      {
+        "id": "47547f82-1cea-43cf-87f9-7fbf714df905",
+        "position": 3
+      },
+      {
+        "id": "c406d853-7b88-4e60-98e0-3b5474af04ab",
+        "position": 4
+      },
+      {
+        "id": "fb4d4d6b-a80c-4c8a-8af8-7b5f6e0ec9b9",
+        "position": 5
+      },
+      {
+        "id": "2b237a14-d128-4d19-8ff9-6b1d270820cc",
+        "position": 6
+      },
+      {
+        "id": "2c586313-8605-4bc2-a44d-66967cf6e476",
+        "position": 7
+      },
+      {
+        "id": "155746b6-2e23-4097-a015-0f0485eace48",
+        "position": 8
+      },
+      {
+        "id": "2a4972dc-a9a0-40a1-bf81-7bbfe29d896b",
+        "position": 9
+      },
+      {
+        "id": "e4c04743-5bbf-4df0-87a1-77b9170ded34",
+        "position": 10
+      }
+    ]
+  },
+  {
+    "id": "76bca6f7-4d81-4187-a91a-733048ffc7b3",
+    "site": "WhatsApp",
+    "kind": "section",
+    "title": "개발자 플랫폼 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/76bca6f7-4d81-4187-a91a-733048ffc7b3",
+    "tags": [
+      "developer-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "76bca6f7-4d81-4187-a91a-733048ffc7b3",
+        "note": "짙은 초록 Developer Hub. 왼쪽 큰 연초록 제목·흰 설명·초록 시작 및 외곽선 로그인 CTA, 위 제품 내비게이션. 코드 샘플은 보이지 않음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "developer platform hero section with code sample and getting started button"
+    ]
+  },
+  {
+    "id": "c9310efe-b671-4cb9-8c59-0807ff33ab22",
+    "site": "Anchor",
+    "kind": "section",
+    "title": "개발자 플랫폼 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/c9310efe-b671-4cb9-8c59-0807ff33ab22",
+    "tags": [
+      "developer-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "c9310efe-b671-4cb9-8c59-0807ff33ab22",
+        "note": "짙은 갈색 두 열 개발자 소개. 왼쪽 크림 제목·짧은 설명·주황 Get Started, 오른쪽 컬러 선들이 얽힌 추상 일러스트. 흰 상단 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "developer platform hero section with code sample and getting started button"
+    ]
+  },
+  {
+    "id": "3e30cca9-9fd0-492e-9213-7545dda0f777",
+    "site": "WhatsApp",
+    "kind": "section",
+    "title": "개발자 플랫폼 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/3e30cca9-9fd0-492e-9213-7545dda0f777",
+    "tags": [
+      "developer-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "3e30cca9-9fd0-492e-9213-7545dda0f777",
+        "note": "WhatsApp 개발자 히어로의 변형. 짙은 초록에 왼쪽 제목·설명·시작/로그인 버튼, 상단 검색·Get started·Download app 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "developer platform hero section with code sample and getting started button"
+    ]
+  },
+  {
+    "id": "91d91699-9603-4684-8e63-fad45bf47ce8",
+    "site": "IFTTT",
+    "kind": "section",
+    "title": "개발자 플랫폼 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/91d91699-9603-4684-8e63-fad45bf47ce8",
+    "tags": [
+      "developer-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "91d91699-9603-4684-8e63-fad45bf47ce8",
+        "note": "연한 초록 중앙 API 안내 제목·설명·큰 검정 Start building 알약. 아래 흰 배경 문의 안내·외곽선 Contact us. 코드 샘플 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "developer platform hero section with code sample and getting started button"
+    ]
+  },
+  {
+    "id": "c6ac4194-8ca0-403c-9bad-9aefa858c286",
+    "site": "Dropbox",
+    "kind": "section",
+    "title": "개발자 플랫폼 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/c6ac4194-8ca0-403c-9bad-9aefa858c286",
+    "tags": [
+      "developer-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "c6ac4194-8ca0-403c-9bad-9aefa858c286",
+        "note": "연한 파랑 개발자 플랫폼 소개. 왼쪽 짙은 자주 제목·설명·흰 Create apps 버튼·문서 링크, 오른쪽 넓은 여백. 상단 문서 메뉴."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "developer platform hero section with code sample and getting started button"
+    ]
+  },
+  {
+    "id": "5d90eadd-ec0b-4ec1-9729-d315afe8d366",
+    "site": "Claude",
+    "kind": "section",
+    "title": "회사 미션",
+    "mobbin_url": "https://mobbin.com/sites/sections/5d90eadd-ec0b-4ec1-9729-d315afe8d366",
+    "tags": [
+      "mission-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "5d90eadd-ec0b-4ec1-9729-d315afe8d366",
+        "note": "비영리 기부가 아닌 AI 연구 미션. 흰 바탕 왼쪽 Our Mission 라벨·오른쪽 큰 검정 소개문. 가는 선 아래 Research Teams·설명·Learn more."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "nonprofit website section explaining mission and donation call to action"
+    ]
+  },
+  {
+    "id": "5bce887b-4246-4e6a-9fb6-7e2bf8177bb4",
+    "site": "Patreon",
+    "kind": "section",
+    "title": "회사 미션",
+    "mobbin_url": "https://mobbin.com/sites/sections/5bce887b-4246-4e6a-9fb6-7e2bf8177bb4",
+    "tags": [
+      "mission-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "5bce887b-4246-4e6a-9fb6-7e2bf8177bb4",
+        "note": "창작 플랫폼 회사 미션. 왼쪽 제목·작은 소개·채용 링크, 오른쪽 팀 사진. 아래 긴 설명과 컬러 이미지의 두번째 행."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "nonprofit website section explaining mission and donation call to action"
+    ]
+  },
+  {
+    "id": "ff52a201-28e1-4c75-b999-737dd636dc5f",
+    "site": "Impossible Foods",
+    "kind": "section",
+    "title": "회사 미션",
+    "mobbin_url": "https://mobbin.com/sites/sections/ff52a201-28e1-4c75-b999-737dd636dc5f",
+    "tags": [
+      "mission-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "ff52a201-28e1-4c75-b999-737dd636dc5f",
+        "note": "식품 브랜드 미션. 민트 전체 폭 바탕 중앙 압축된 매우 큰 MISSION 제목·스티커 문구, 좁은 소개문과 창업자 이름."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "nonprofit website section explaining mission and donation call to action"
+    ]
+  },
+  {
+    "id": "9dbe6715-6483-4570-8ff5-a3f7563ae367",
+    "site": "Patreon",
+    "kind": "section",
+    "title": "회사 미션",
+    "mobbin_url": "https://mobbin.com/sites/sections/9dbe6715-6483-4570-8ff5-a3f7563ae367",
+    "tags": [
+      "mission-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "9dbe6715-6483-4570-8ff5-a3f7563ae367",
+        "note": "중앙 What guides us 제목, 두 열 아이콘·Our core behaviors / Our mission·설명·분홍 CTA. 가운데 세로 구분선. 기부 CTA는 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "nonprofit website section explaining mission and donation call to action"
+    ]
+  },
+  {
+    "id": "32ad75c8-9921-48d5-a73b-e56ab921e66f",
+    "site": "Vanta",
+    "kind": "section",
+    "title": "회사 미션",
+    "mobbin_url": "https://mobbin.com/sites/sections/32ad75c8-9921-48d5-a73b-e56ab921e66f",
+    "tags": [
+      "mission-about"
+    ],
+    "observations": [
+      {
+        "screen_id": "32ad75c8-9921-48d5-a73b-e56ab921e66f",
+        "note": "보안 SaaS 미션 소개. 흰 배경 중앙 세리프 제목의 보라 강조문구, 오른쪽 작은 캐릭터 일러스트. 아래 짙은 보라 영역과 곡선 경계."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "nonprofit website section explaining mission and donation call to action"
+    ]
+  },
+  {
+    "id": "8babaa20-2df7-425f-9cd7-df0762bd94e0",
+    "site": "Inkwell",
+    "kind": "section",
+    "title": "건축 이미지 콜라주",
+    "mobbin_url": "https://mobbin.com/sites/sections/8babaa20-2df7-425f-9cd7-df0762bd94e0",
+    "tags": [
+      "portfolio",
+      "image-collage"
+    ],
+    "observations": [
+      {
+        "screen_id": "8babaa20-2df7-425f-9cd7-df0762bd94e0",
+        "note": "넓은 연회색 공간에 건축·인물 이미지 카드 다섯 개를 곡선처럼 기울여 배치. 중앙 하단 작은 건축 소개. 부동산 목록이나 가격은 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "architecture studio website section with project photography and project descriptions",
+      "real estate website section showcasing properties and architectural photography"
+    ]
+  },
+  {
+    "id": "364878c8-261d-4943-81e9-d2b944b82247",
+    "site": "MOUTHWASH Studio",
+    "kind": "section",
+    "title": "스튜디오 생태계",
+    "mobbin_url": "https://mobbin.com/sites/sections/364878c8-261d-4943-81e9-d2b944b82247",
+    "tags": [
+      "portfolio",
+      "project-library"
+    ],
+    "observations": [
+      {
+        "screen_id": "364878c8-261d-4943-81e9-d2b944b82247",
+        "note": "Our Ecosystem 제목 아래 네 열 정사각 이미지·프로젝트명·짧은 설명. 갤러리형 작업 및 연구 목록이며 건축 매물 페이지가 아님."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "architecture studio website section with project photography and project descriptions"
+    ]
+  },
+  {
+    "id": "851e3996-4679-4653-aae6-3b345cab2aba",
+    "site": "OFF+BRAND",
+    "kind": "section",
+    "title": "작업 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/851e3996-4679-4653-aae6-3b345cab2aba",
+    "tags": [
+      "portfolio",
+      "needs-review"
+    ],
+    "observations": [
+      {
+        "screen_id": "851e3996-4679-4653-aae6-3b345cab2aba",
+        "note": "연회색 화면에 매우 희미한 요소만 보여 실제 작업 구조를 판독하기 어려움. 고해상도 확인 또는 대체 레퍼런스 필요."
+      }
+    ],
+    "usable": false,
+    "queries": [
+      "architecture studio website section with project photography and project descriptions"
+    ]
+  },
+  {
+    "id": "babbbb04-f1e4-4020-bbd8-16ce43ba2e68",
+    "site": "Waka Waka",
+    "kind": "section",
+    "title": "작업 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/babbbb04-f1e4-4020-bbd8-16ce43ba2e68",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "babbbb04-f1e4-4020-bbd8-16ce43ba2e68",
+        "note": "가구 작업 소개. 왼쪽 넓은 흑백 가구 클로즈업과 작은 작업명, 오른쪽 크림 여백·브랜드 텍스트·하단 작은 컬러 제품 사진. 상단 Furniture·Index·Studio."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "architecture studio website section with project photography and project descriptions"
+    ]
+  },
+  {
+    "id": "48890788-7d16-4887-baaa-5b22583ef055",
+    "site": "Cloudstudio",
+    "kind": "section",
+    "title": "작업 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/48890788-7d16-4887-baaa-5b22583ef055",
+    "tags": [
+      "portfolio"
+    ],
+    "observations": [
+      {
+        "screen_id": "48890788-7d16-4887-baaa-5b22583ef055",
+        "note": "연한 파랑 Selected work 헤더, 아래 두 열 대형 프로젝트 타일. 어두운 오버레이·흰 프로젝트명·숫자·작은 메타, 상단 Book a call."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "architecture studio website section with project photography and project descriptions"
+    ]
+  },
+  {
+    "id": "2b8f9706-5873-4524-a1d5-fa9e737f27d0",
+    "site": "Kinfolk",
+    "kind": "section",
+    "title": "숙소·건축 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/2b8f9706-5873-4524-a1d5-fa9e737f27d0",
+    "tags": [
+      "property-editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "2b8f9706-5873-4524-a1d5-fa9e737f27d0",
+        "note": "흰 편집형 건축 이야기. 왼쪽 큰 세리프 About, 서로 다른 크기의 두 건축·소품 사진, 아래 좁은 설명문·Read more."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "real estate website section showcasing properties and architectural photography"
+    ]
+  },
+  {
+    "id": "d07ad815-77af-4cab-a6ff-c35761c7b2a6",
+    "site": "KOBU",
+    "kind": "section",
+    "title": "숙소·건축 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/d07ad815-77af-4cab-a6ff-c35761c7b2a6",
+    "tags": [
+      "property-editorial",
+      "needs-review"
+    ],
+    "observations": [
+      {
+        "screen_id": "d07ad815-77af-4cab-a6ff-c35761c7b2a6",
+        "note": "검정 화면 위 매우 큰 흰 KOBU 로고만 보임. 정적 캡처만으로 매물 탐색 구조를 알 수 없음."
+      }
+    ],
+    "usable": false,
+    "queries": [
+      "real estate website section showcasing properties and architectural photography"
+    ]
+  },
+  {
+    "id": "4226456d-e845-483a-ad1b-305a93fe7d36",
+    "site": "KOBU",
+    "kind": "section",
+    "title": "숙소 갤러리",
+    "mobbin_url": "https://mobbin.com/sites/sections/4226456d-e845-483a-ad1b-305a93fe7d36",
+    "tags": [
+      "property-catalog",
+      "travel"
+    ],
+    "observations": [
+      {
+        "screen_id": "4226456d-e845-483a-ad1b-305a93fe7d36",
+        "note": "크림 바탕 Villas 제목·짧은 설명. 두 열 큰 숙소 사진·Featured 배지·이름·지역·1박 가격, 아래 우측 View All Villas."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "real estate website section showcasing properties and architectural photography"
+    ]
+  },
+  {
+    "id": "1ff2c72a-dac4-451f-91ab-7dc549a6b924",
+    "site": "PamPam",
+    "kind": "section",
+    "title": "지도 제작 제품 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/1ff2c72a-dac4-451f-91ab-7dc549a6b924",
+    "tags": [
+      "features",
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "1ff2c72a-dac4-451f-91ab-7dc549a6b924",
+        "note": "부동산이 아닌 지도 제작 제품의 소개. 위 네 용도 이미지 카드, 가운데 언론 로고, 아래 지도 캡처·세리프 소개. 상단 Google 로그인."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "real estate website section showcasing properties and architectural photography"
+    ]
+  },
+  {
+    "id": "664a16ca-816d-495d-b577-e08ce5c6f1a5",
+    "site": "Monte",
+    "kind": "section",
+    "title": "음식점 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/664a16ca-816d-495d-b577-e08ce5c6f1a5",
+    "tags": [
+      "restaurant-brand"
+    ],
+    "observations": [
+      {
+        "screen_id": "664a16ca-816d-495d-b577-e08ce5c6f1a5",
+        "note": "크림 음식점 소개. 왼쪽 겹친 음식 사진 카드·이전다음, 오른쪽 적갈색 셰프 일러스트·대문자 설명. 상단 중앙 로고와 Book a table."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant website hero section with food photography and reservation call to action"
+    ]
+  },
+  {
+    "id": "816e816c-912a-4fa9-9673-00d7200ec4c3",
+    "site": "OpenTable",
+    "kind": "section",
+    "title": "음식점 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/816e816c-912a-4fa9-9673-00d7200ec4c3",
+    "tags": [
+      "restaurant-brand"
+    ],
+    "observations": [
+      {
+        "screen_id": "816e816c-912a-4fa9-9673-00d7200ec4c3",
+        "note": "분홍자주 배경 중앙 흰 소개문을 여러 식사 사진이 둘러싼 콜라주. 아래 크림 Our story 설명. 상단 Book a Table."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant website hero section with food photography and reservation call to action"
+    ]
+  },
+  {
+    "id": "65d3c9ef-1e92-487a-a7c5-48c166bd63c0",
+    "site": "OpenTable",
+    "kind": "section",
+    "title": "식당 예약 검색",
+    "mobbin_url": "https://mobbin.com/sites/sections/65d3c9ef-1e92-487a-a7c5-48c166bd63c0",
+    "tags": [
+      "booking",
+      "restaurant-search"
+    ],
+    "observations": [
+      {
+        "screen_id": "65d3c9ef-1e92-487a-a7c5-48c166bd63c0",
+        "note": "남색 히어로 중앙 제목과 날짜·시간·인원·지역 검색·빨간 Let's go. 아래 다섯 열 음식점 카드에 사진·별점·리뷰·유형·전화."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant website hero section with food photography and reservation call to action"
+    ]
+  },
+  {
+    "id": "bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2",
+    "site": "7shifts",
+    "kind": "section",
+    "title": "직원관리 SaaS 체험 CTA",
+    "mobbin_url": "https://mobbin.com/sites/sections/bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2",
+    "tags": [
+      "conversion-cta",
+      "saas-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2",
+        "note": "식당 예약이 아닌 레스토랑 직원관리 SaaS의 하단 CTA. 피자 사진 위 갈색 반투명 카드·흰 설명·파란 체험 버튼, 아래 둥근 흰 푸터."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant website hero section with food photography and reservation call to action"
+    ]
+  },
+  {
+    "id": "0bbf06c3-d818-4e3e-a9e0-01eac36c2ce9",
+    "site": "OpenTable",
+    "kind": "section",
+    "title": "식당 업계 콘텐츠",
+    "mobbin_url": "https://mobbin.com/sites/sections/0bbf06c3-d818-4e3e-a9e0-01eac36c2ce9",
+    "tags": [
+      "editorial"
+    ],
+    "observations": [
+      {
+        "screen_id": "0bbf06c3-d818-4e3e-a9e0-01eac36c2ce9",
+        "note": "식당 업계 콘텐츠. 상단 빨간 소개배너·흰 CTA·인물 사진, 아래 Restaurant world 세 열 기사 이미지와 분류·제목. 왼쪽 소셜 공유 아이콘."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "restaurant website hero section with food photography and reservation call to action"
+    ]
+  },
+  {
+    "id": "2aac84d2-0606-4ed6-a558-71871c6ee181",
+    "site": "Hims",
+    "kind": "section",
+    "title": "의료 서비스 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/2aac84d2-0606-4ed6-a558-71871c6ee181",
+    "tags": [
+      "healthcare-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "2aac84d2-0606-4ed6-a558-71871c6ee181",
+        "note": "전체 폭 따뜻한 책상·휴대폰 사진. 왼쪽 흰 두 줄 의료 소개·설명·흰 Get started, 상단 올리브 프로모션 줄과 흰 내비 아이콘."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "healthcare website hero section with care information and appointment call to action"
+    ]
+  },
+  {
+    "id": "6695790f-7142-4e99-86a9-2632963b795d",
+    "site": "Ease",
+    "kind": "section",
+    "title": "의료 서비스 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/6695790f-7142-4e99-86a9-2632963b795d",
+    "tags": [
+      "healthcare-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "6695790f-7142-4e99-86a9-2632963b795d",
+        "note": "흰 바탕 왼쪽 짙은 초록 큰 세리프 제목·소개. 아래 연초록 패턴 패널과 넓은 상담 사진. 상단 초록 Book a Demo."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "healthcare website hero section with care information and appointment call to action"
+    ]
+  },
+  {
+    "id": "76f06a79-1c36-4ef1-a3b7-a4c02c16618e",
+    "site": "Hims",
+    "kind": "section",
+    "title": "의료 혜택 목록",
+    "mobbin_url": "https://mobbin.com/sites/sections/76f06a79-1c36-4ef1-a3b7-a4c02c16618e",
+    "tags": [
+      "features",
+      "healthcare-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "76f06a79-1c36-4ef1-a3b7-a4c02c16618e",
+        "note": "중앙 의료 혜택 제목, 아래 다섯 행 설명과 오른쪽 검정 체크. 하단 검정 Find my treatment 알약. 실제 예약 폼은 없음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "healthcare website hero section with care information and appointment call to action"
+    ]
+  },
+  {
+    "id": "49719c64-fd2a-4b0e-a454-c639b69f1bd7",
+    "site": "Employment Hero",
+    "kind": "section",
+    "title": "의료업계 HR SaaS",
+    "mobbin_url": "https://mobbin.com/sites/sections/49719c64-fd2a-4b0e-a454-c639b69f1bd7",
+    "tags": [
+      "saas-landing",
+      "healthcare-industry"
+    ],
+    "observations": [
+      {
+        "screen_id": "49719c64-fd2a-4b0e-a454-c639b69f1bd7",
+        "note": "의료기관이 아닌 의료업계 HR SaaS 소개. 복숭아 배경 왼쪽 큰 제목·설명·보라 상담 CTA, 오른쪽 둥근 실험실 사진."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "healthcare website hero section with care information and appointment call to action"
+    ]
+  },
+  {
+    "id": "20c4600f-d3e9-49b5-afad-b94dcb8fd0e9",
+    "site": "Biograph",
+    "kind": "section",
+    "title": "의료 서비스 소개",
+    "mobbin_url": "https://mobbin.com/sites/sections/20c4600f-d3e9-49b5-afad-b94dcb8fd0e9",
+    "tags": [
+      "healthcare-landing"
+    ],
+    "observations": [
+      {
+        "screen_id": "20c4600f-d3e9-49b5-afad-b94dcb8fd0e9",
+        "note": "흰 바탕 중앙 큰 예방의료 소개 제목과 아래 넓은 둥근 MRI 시설 사진. 정적 캡처에는 예약 CTA가 보이지 않음."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "healthcare website hero section with care information and appointment call to action"
+    ]
+  },
+  {
+    "id": "6ca218fe-d545-49fd-abff-a0032ab03d2a",
+    "site": "Productboard",
+    "kind": "screen",
+    "title": "Productboard: 작업 관리 대시보드",
+    "mobbin_url": "https://mobbin.com/screens/6ca218fe-d545-49fd-abff-a0032ab03d2a",
+    "tags": [
+      "dashboard",
+      "task-management"
+    ],
+    "observations": [
+      {
+        "screen_id": "6ca218fe-d545-49fd-abff-a0032ab03d2a",
+        "note": "좁은 왼쪽 사이드바, 상단 Tasks 헤더와 검색·Create 버튼, 가운데 작업 목록, 오른쪽 상세 패널. 목록 배경은 연한 회색이고 상세 패널은 흰색이다. 상태는 회색·파랑·빨강·노랑·초록 점으로 구분된다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "5db112b1-f04e-42ea-8d79-a15e961c4c82",
+    "site": "Slack",
+    "kind": "screen",
+    "title": "Slack: 테이블 기반 생산성 사이트",
+    "mobbin_url": "https://mobbin.com/screens/5db112b1-f04e-42ea-8d79-a15e961c4c82",
+    "tags": [
+      "dashboard",
+      "task-table"
+    ],
+    "observations": [
+      {
+        "screen_id": "5db112b1-f04e-42ea-8d79-a15e961c4c82",
+        "note": "자주색 상단 검색 바, 가장 왼쪽 아이콘 레일, 그 옆 Lists 사이드바, 오른쪽 흰색 테이블. 제목 아래 검색·필터·정렬·뷰 저장 도구가 있다. 행에는 작업, 상태 칩, 별 우선순위, 설명, 담당자가 보인다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "ed4a9455-65a9-4828-8cd3-50a01d62f07d",
+    "site": "Shop",
+    "kind": "screen",
+    "title": "Shop: 옵션·구독이 있는 상품 상세",
+    "mobbin_url": "https://mobbin.com/screens/ed4a9455-65a9-4828-8cd3-50a01d62f07d",
+    "tags": [
+      "product-detail",
+      "commerce"
+    ],
+    "observations": [
+      {
+        "screen_id": "ed4a9455-65a9-4828-8cd3-50a01d62f07d",
+        "note": "왼쪽 아이콘 레일, 큰 상품 이미지와 세로 썸네일, 오른쪽 판매자·제목·별점·가격·배송 정보. 원두 옵션과 수량 아래 일회성 구매 / 구독 선택 카드가 있다. 검정 Buy now와 보라색 Add to cart가 나란히 배치된다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "6e8d5e11-bf80-482a-8f64-cb5d9e8f3008",
+    "site": "Etsy",
+    "kind": "screen",
+    "title": "Etsy: 디지털 상품 커머스",
+    "mobbin_url": "https://mobbin.com/screens/6e8d5e11-bf80-482a-8f64-cb5d9e8f3008",
+    "tags": [
+      "product-detail",
+      "commerce"
+    ],
+    "observations": [
+      {
+        "screen_id": "6e8d5e11-bf80-482a-8f64-cb5d9e8f3008",
+        "note": "왼쪽 대형 이미지와 세로 썸네일, 오른쪽 할인 가격·상품 설명·판매자·구매 버튼. Buy it now와 Make an offer는 외곽선 버튼, Add to cart는 넓은 어두운 버튼이다. 아래에 판매자 신뢰 표시와 펼쳐진 Item details가 있다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "8405825f-eb49-4f96-ac65-26cb3410f7de",
+    "site": "Framer",
+    "kind": "section",
+    "title": "Framer: 요금제 컴포넌트 갤러리",
+    "mobbin_url": "https://mobbin.com/sites/sections/8405825f-eb49-4f96-ac65-26cb3410f7de",
+    "tags": [
+      "pricing",
+      "pattern-gallery"
+    ],
+    "observations": [
+      {
+        "screen_id": "8405825f-eb49-4f96-ac65-26cb3410f7de",
+        "note": "검색 결과는 실제 구독 요금 페이지가 아니라 Pricing Cards와 Pricing Pivot 예시를 보여주는 패턴 갤러리다. 왼쪽 섹션 목록, 상단 메뉴, 두 개의 큰 연회색 데모 타일이 있다. 타일 안에 파란 강조 요금 카드 예시가 보인다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "7960b30e-a40a-4ef8-b4e2-89d4c80cb113",
+    "site": "TravelPerk",
+    "kind": "section",
+    "title": "TravelPerk: 3단 요금제 사이트",
+    "mobbin_url": "https://mobbin.com/sites/sections/7960b30e-a40a-4ef8-b4e2-89d4c80cb113",
+    "tags": [
+      "pricing"
+    ],
+    "observations": [
+      {
+        "screen_id": "7960b30e-a40a-4ef8-b4e2-89d4c80cb113",
+        "note": "밝은 배경 위 Plans that get you places 제목과 Starter / Premium / Pro 세 카드. Starter는 흰 바탕에 테두리, 나머지는 연한 크림색이다. Premium 제목 옆 하늘색 Most Popular 배지. 가격은 큰 검정 글자, CTA는 외곽선 또는 라임색이다."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "initial reference collection"
+    ]
+  },
+  {
+    "id": "757b6888-6eaa-498d-9b18-c013c9a2ef4a",
+    "site": "Notion",
+    "kind": "flow",
+    "title": "워크스페이스 생성",
+    "mobbin_url": "https://mobbin.com/flows/757b6888-6eaa-498d-9b18-c013c9a2ef4a",
+    "tags": [
+      "onboarding",
+      "workspace"
+    ],
+    "screen_count": 14,
+    "screens": [
+      {
+        "id": "a3c0ef5e-3fbb-42da-bf54-cb022b030f69",
+        "position": 1
+      },
+      {
+        "id": "bdcaeba0-defc-4abf-837a-7b0b3bfbb24c",
+        "position": 2
+      },
+      {
+        "id": "6cd8e30a-84d0-4a04-8137-584ac6a0ecb9",
+        "position": 3
+      },
+      {
+        "id": "d4eda6ca-b6e9-44d4-8c77-f3c91e97b55d",
+        "position": 4
+      },
+      {
+        "id": "ad74a5b4-deed-40de-b010-1f88afd817a7",
+        "position": 5
+      },
+      {
+        "id": "aafe4d3c-b61b-482f-8a3d-8e9485e284fe",
+        "position": 6
+      },
+      {
+        "id": "9f844152-5450-405f-8454-a1708ff89580",
+        "position": 7
+      },
+      {
+        "id": "97f5505f-120b-49e8-a6a0-b48be692a3d0",
+        "position": 8
+      },
+      {
+        "id": "7293aa16-d6b2-4611-958e-9f1c7a24a11d",
+        "position": 9
+      },
+      {
+        "id": "cf470771-b938-4a47-b25e-a332339db93c",
+        "position": 10
+      },
+      {
+        "id": "a1c40848-1b14-46fe-83ad-e48660fe1dbb",
+        "position": 11
+      },
+      {
+        "id": "26f5a317-de54-445e-9aba-8058041fcdab",
+        "position": 12
+      },
+      {
+        "id": "f0053c4d-b614-401d-ac06-44c0b97dcdff",
+        "position": 13
+      },
+      {
+        "id": "2641304f-d69f-4644-bccc-bc2577f00dc3",
+        "position": 14
+      }
+    ],
+    "observations": [
+      {
+        "screen_id": "a3c0ef5e-3fbb-42da-bf54-cb022b030f69",
+        "position": 1,
+        "note": "사이드바와 Getting Started 문서 및 체크리스트."
+      },
+      {
+        "screen_id": "d4eda6ca-b6e9-44d4-8c77-f3c91e97b55d",
+        "position": 4,
+        "note": "팀·개인·학교 용도 선택 카드와 Continue."
+      },
+      {
+        "screen_id": "97f5505f-120b-49e8-a6a0-b48be692a3d0",
+        "position": 8,
+        "note": "워크스페이스 생성 폼 위 Getting ready 로딩 오버레이."
+      },
+      {
+        "screen_id": "a1c40848-1b14-46fe-83ad-e48660fe1dbb",
+        "position": 11,
+        "note": "이메일 초대 폼·공유 링크·도메인 허용 체크박스."
+      },
+      {
+        "screen_id": "2641304f-d69f-4644-bccc-bc2577f00dc3",
+        "position": 14,
+        "note": "생성된 팀 워크스페이스의 Getting Started 문서와 사이드바."
+      }
+    ],
+    "usable": true,
+    "queries": [
+      "onboarding with workspace creation and team invitation"
+    ]
+  }
+]
