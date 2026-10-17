@@ -13,7 +13,10 @@
 
 - 실제는 AI 문서 라이브러리. 왼쪽 아이콘 레일, 상단 Images·Pages·Research reports 탭, 넓은 빈 공간에 두 문서 미리보기 카드와 Create page 버튼.
 
-원본 파일: `assets/library/129cef1c-f8c6-4917-9da7-3380521d7ab9.jpg` (Git 제외).
+![Microsoft Copilot — 참고 화면](../../../assets/references/129cef1c-f8c6-4917-9da7-3380521d7ab9.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/129cef1c-f8c6-4917-9da7-3380521d7ab9.jpg).
 
 ### 구현에 적용
 

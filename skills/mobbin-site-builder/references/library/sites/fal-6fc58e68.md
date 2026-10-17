@@ -13,7 +13,10 @@
 
 - 실제는 이미지 자산 라이브러리. 왼쪽 미디어·업로드·즐겨찾기·컬렉션 목록, 상단 검색·줌. 본문 Characters·Collections·Recently added 이미지 행.
 
-원본 파일: `assets/library/6fc58e68-7e42-404a-aeed-8b374829243c.jpg` (Git 제외).
+![fal — 참고 화면](../../../assets/references/6fc58e68-7e42-404a-aeed-8b374829243c.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/6fc58e68-7e42-404a-aeed-8b374829243c.jpg).
 
 ### 구현에 적용
 

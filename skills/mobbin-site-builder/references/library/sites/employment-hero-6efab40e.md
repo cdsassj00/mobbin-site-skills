@@ -13,7 +13,10 @@
 
 - 흰 배경의 여섯 링크 열 아래 회사 설명과 뉴스레터 폼을 두 열로 배치. 구독 폼에 동의 체크박스 두 개, 보라색 버튼, 하단 지역 선택.
 
-원본 파일: `assets/library/6efab40e-de5e-4dff-bf1c-b28c818a934d.jpg` (Git 제외).
+![Employment Hero — 참고 화면](../../../assets/references/6efab40e-de5e-4dff-bf1c-b28c818a934d.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/6efab40e-de5e-4dff-bf1c-b28c818a934d.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 의료기관이 아닌 의료업계 HR SaaS 소개. 복숭아 배경 왼쪽 큰 제목·설명·보라 상담 CTA, 오른쪽 둥근 실험실 사진.
 
-원본 파일: `assets/library/49719c64-fd2a-4b0e-a454-c639b69f1bd7.jpg` (Git 제외).
+![Employment Hero — 참고 화면](../../../assets/references/49719c64-fd2a-4b0e-a454-c639b69f1bd7.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/49719c64-fd2a-4b0e-a454-c639b69f1bd7.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 큰 이미지 위 흰 대표 기사 제목·매체·날짜·Read. 아래 연한 파랑 두 열 텍스트 기사 카드에 매체명·날짜·제목·외곽선 버튼.
 
-원본 파일: `assets/library/67b09817-2de9-420c-86b3-04aab05aaa6c.jpg` (Git 제외).
+![Braintrust — 참고 화면](../../../assets/references/67b09817-2de9-420c-86b3-04aab05aaa6c.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/67b09817-2de9-420c-86b3-04aab05aaa6c.jpg).
 
 ### 구현에 적용
 

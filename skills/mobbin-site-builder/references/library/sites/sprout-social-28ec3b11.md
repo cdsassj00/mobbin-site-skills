@@ -13,7 +13,10 @@
 
 - 흰 바탕 파랑 FAQ 배지와 우측 Expand all. 큰 테두리 카드 세 개, 첫 카드 펼쳐짐. 질문 굵은 글자·chevron.
 
-원본 파일: `assets/library/28ec3b11-74a4-4871-9ec2-8d40d5eec120.jpg` (Git 제외).
+![Sprout Social — 참고 화면](../../../assets/references/28ec3b11-74a4-4871-9ec2-8d40d5eec120.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/28ec3b11-74a4-4871-9ec2-8d40d5eec120.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 따뜻한 주황 생활용품 정물 사진 위 매우 큰 흰 로고. 상단 왼쪽 Menu·오른쪽 검색과 Order 알약. 별도 설명 제목은 없음.
 
-원본 파일: `assets/library/2ea7ceb2-4478-4e39-94ac-b441c40c4e46.jpg` (Git 제외).
+![re_ — 참고 화면](../../../assets/references/2ea7ceb2-4478-4e39-94ac-b441c40c4e46.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/2ea7ceb2-4478-4e39-94ac-b441c40c4e46.jpg).
 
 ### 구현에 적용
 

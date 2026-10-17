@@ -13,7 +13,10 @@
 
 - 연한 파랑 바탕 중앙 제목. 두 행의 흰 둥근 후기 카드가 좌우 화면 가장자리에서 잘림. 카드 하단 아바타·별점·후기 출처.
 
-원본 파일: `assets/library/85f57981-1117-4f9a-af1e-0ce6a417effc.jpg` (Git 제외).
+![Intercom — 참고 화면](../../../assets/references/85f57981-1117-4f9a-af1e-0ce6a417effc.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/85f57981-1117-4f9a-af1e-0ce6a417effc.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 큰 제목 아래 왼쪽 여섯 기능을 두 열 텍스트 목록으로 배치, 오른쪽 큰 민트·파랑 선화 일러스트. 흰 배경과 넓은 여백.
 
-원본 파일: `assets/library/9f0bbfb1-132d-421b-a482-b1b57ebb1f24.jpg` (Git 제외).
+![Intercom — 참고 화면](../../../assets/references/9f0bbfb1-132d-421b-a482-b1b57ebb1f24.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/9f0bbfb1-132d-421b-a482-b1b57ebb1f24.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 흰 편집형 건축 이야기. 왼쪽 큰 세리프 About, 서로 다른 크기의 두 건축·소품 사진, 아래 좁은 설명문·Read more.
 
-원본 파일: `assets/library/2b8f9706-5873-4524-a1d5-fa9e737f27d0.jpg` (Git 제외).
+![Kinfolk — 참고 화면](../../../assets/references/2b8f9706-5873-4524-a1d5-fa9e737f27d0.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/2b8f9706-5873-4524-a1d5-fa9e737f27d0.jpg).
 
 ### 구현에 적용
 

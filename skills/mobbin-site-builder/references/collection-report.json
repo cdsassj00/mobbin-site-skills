@@ -1,0 +1,211 @@
+{
+  "as_of": "2026-10-18",
+  "scope": "web UI only",
+  "complete_mobbin_export": false,
+  "enumeration_available": false,
+  "available_tools": [
+    "search_screens",
+    "search_sections",
+    "search_flows"
+  ],
+  "reviewed_sites": 193,
+  "reviewed_records": 295,
+  "observed_images": 314,
+  "bundled_original_images": 350,
+  "visually_inconclusive_records": 10,
+  "pending_records": [
+    {
+      "id": "7c6850a8-7a9e-43d8-951a-0232d9cad5b8",
+      "site": "Calm",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/7c6850a8-7a9e-43d8-951a-0232d9cad5b8",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "983113b9-1f3a-4cbe-ba2f-6641884db9de",
+      "site": "Escape Cafe",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/983113b9-1f3a-4cbe-ba2f-6641884db9de",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "370e5ecf-2e97-4af6-ba4f-c524060afd63",
+      "site": "David",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/370e5ecf-2e97-4af6-ba4f-c524060afd63",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "8482719f-253a-424d-a951-a9a52ef72800",
+      "site": "Escape Cafe",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/8482719f-253a-424d-a951-a9a52ef72800",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "2355cc75-ea0d-460a-9eb2-b4000e1f6aaa",
+      "site": "Rains",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/2355cc75-ea0d-460a-9eb2-b4000e1f6aaa",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "d56c79d5-584b-415c-8e27-316448eccb2f",
+      "site": "Glossier",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/d56c79d5-584b-415c-8e27-316448eccb2f",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "2f1c22cc-9959-4bbf-83ef-7f892258a79d",
+      "site": "Superpower",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/2f1c22cc-9959-4bbf-83ef-7f892258a79d",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "3b827bd9-4038-4153-8f60-4eee46c5b878",
+      "site": "Oura Ring",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/3b827bd9-4038-4153-8f60-4eee46c5b878",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "a87f2a50-8a78-4193-b491-5589059041fa",
+      "site": "In Common With",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/a87f2a50-8a78-4193-b491-5589059041fa",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    },
+    {
+      "id": "3cf259c8-a1fa-4c01-893d-8cf109248e16",
+      "site": "Selfridges",
+      "kind": "section",
+      "mobbin_url": "https://mobbin.com/sites/sections/3cf259c8-a1fa-4c01-893d-8cf109248e16",
+      "category": "hero-brand",
+      "review_status": "not-reviewed"
+    }
+  ],
+  "collection_attempts": 42,
+  "successful_queries": [
+    {
+      "category": "pricing",
+      "query": "pricing section with plan cards and a feature comparison",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "editorial",
+      "query": "article listing section with cover images categories and article titles",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "portfolio",
+      "query": "selected work section with large project images and project titles",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "commerce",
+      "query": "product collection section with product images names and prices",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "features",
+      "query": "product features section explaining capabilities with interface images",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "hero-brand",
+      "query": "hero section with brand photography and a shopping call to action",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "navigation",
+      "query": "website navigation with a dropdown mega menu and grouped links",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "hero-saas",
+      "query": "hero section with a product interface and signup call to action",
+      "page": 1,
+      "has_next_page": true
+    },
+    {
+      "category": "hero-brand",
+      "query": "hero section with brand photography and a shopping call to action",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "commerce",
+      "query": "product collection section with product images names and prices",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "navigation",
+      "query": "website navigation with a dropdown mega menu and grouped links",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "portfolio",
+      "query": "selected work section with large project images and project titles",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "pricing",
+      "query": "pricing section with plan cards and a feature comparison",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "hero-saas",
+      "query": "hero section with a product interface and signup call to action",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "editorial",
+      "query": "article listing section with cover images categories and article titles",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "features",
+      "query": "product features section explaining capabilities with interface images",
+      "page": 2,
+      "has_next_page": true
+    },
+    {
+      "category": "hero-brand",
+      "query": "hero section with brand photography and a shopping call to action",
+      "page": 3,
+      "has_next_page": true
+    }
+  ],
+  "rate_limited_attempts": 25,
+  "limitations": [
+    "The API exposes search, not an enumerable catalog or complete export.",
+    "A search page may report more results; unvisited pages are not claimed collected.",
+    "Rate limiting prevented completing the planned query sweep.",
+    "An observation of one section is not an analysis of the entire source website.",
+    "Offline style tokens and example code are original implementation proposals."
+  ]
+}

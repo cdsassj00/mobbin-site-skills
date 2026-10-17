@@ -13,7 +13,10 @@
 
 - 중앙 Migration service 소개·지원 제품·Contact us. 아래 가는 격자 비교표에 월연 토글과 Free·Standard·Premium 열, 기능 행·체크 표시.
 
-원본 파일: `assets/library/f30de5ce-54ed-4daf-befe-d30c53d53ab4.jpg` (Git 제외).
+![folk — 참고 화면](../../../assets/references/f30de5ce-54ed-4daf-befe-d30c53d53ab4.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f30de5ce-54ed-4daf-befe-d30c53d53ab4.jpg).
 
 ### 구현에 적용
 

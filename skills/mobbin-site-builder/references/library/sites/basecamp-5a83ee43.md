@@ -12,14 +12,20 @@
 ### 직접 관찰
 
 - 단계 1: 중앙 흰 메시지 편집기. 상단 카테고리·굵은 제목·서식 도구막대·Save a draft·파란 Post this message. 본문 이미지와 첨부 콘텐츠.
+
+![Basecamp — 참고 화면](../../../assets/references/d2d82a47-f267-4838-94e2-9087896d1066.jpg)
+
 - 단계 2: 게시 후 상세 화면. 같은 제목·큰 이미지·첨부, 위 작성자·날짜·알림 대상 요약. 편집 도구막대 대신 Bookmark·Edit 메뉴.
+
+![Basecamp — 참고 화면](../../../assets/references/59302a99-500c-4fd4-b1e7-a4bdab14d94a.jpg)
+
 
 전체 2단계 중 직접 확인한 단계는 2개다. 확인하지 않은 단계의 상태·전환은 원본을 보고 확정한다.
 
 ### 전체 단계의 클라우드 파일
 
-- 1: `assets/library/d2d82a47-f267-4838-94e2-9087896d1066.jpg`
-- 2: `assets/library/59302a99-500c-4fd4-b1e7-a4bdab14d94a.jpg`
+- 1: [로컬 원본](../../../assets/references/d2d82a47-f267-4838-94e2-9087896d1066.jpg)
+- 2: [로컬 원본](../../../assets/references/59302a99-500c-4fd4-b1e7-a4bdab14d94a.jpg)
 
 ### 구현에 적용
 

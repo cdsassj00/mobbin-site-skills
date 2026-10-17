@@ -13,7 +13,10 @@
 
 - 보안 SaaS 미션 소개. 흰 배경 중앙 세리프 제목의 보라 강조문구, 오른쪽 작은 캐릭터 일러스트. 아래 짙은 보라 영역과 곡선 경계.
 
-원본 파일: `assets/library/32ad75c8-9921-48d5-a73b-e56ab921e66f.jpg` (Git 제외).
+![Vanta — 참고 화면](../../../assets/references/32ad75c8-9921-48d5-a73b-e56ab921e66f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/32ad75c8-9921-48d5-a73b-e56ab921e66f.jpg).
 
 ### 구현에 적용
 

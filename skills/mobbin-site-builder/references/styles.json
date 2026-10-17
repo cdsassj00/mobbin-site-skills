@@ -1,0 +1,640 @@
+[
+  {
+    "id": "precise-saas",
+    "name": "정돈된 제품형",
+    "aliases": [
+      "정돈",
+      "깔끔",
+      "신뢰",
+      "clean",
+      "minimal",
+      "saas",
+      "software"
+    ],
+    "purposes": [
+      "saas",
+      "기업",
+      "업무",
+      "플랫폼"
+    ],
+    "reference_tags": [
+      "saas-landing",
+      "features",
+      "pricing"
+    ],
+    "tokens": {
+      "background": "#f5f7fb",
+      "surface": "#ffffff",
+      "text": "#152036",
+      "muted": "#4b5870",
+      "accent": "#2456d8",
+      "radius": 12,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "split-product",
+    "rationale": "제품 화면과 핵심 행동을 선명하게 보여준다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "warm-editorial",
+    "name": "따뜻한 편집형",
+    "aliases": [
+      "따뜻",
+      "편집",
+      "세리프",
+      "warm",
+      "editorial",
+      "책"
+    ],
+    "purposes": [
+      "blog",
+      "블로그",
+      "콘텐츠",
+      "매거진",
+      "교육"
+    ],
+    "reference_tags": [
+      "editorial",
+      "property-editorial"
+    ],
+    "tokens": {
+      "background": "#f7f1e8",
+      "surface": "#fffdf8",
+      "text": "#29221d",
+      "muted": "#63574e",
+      "accent": "#88452c",
+      "radius": 2,
+      "font": "serif",
+      "max_width": 1120
+    },
+    "silhouette": "featured-asymmetric",
+    "rationale": "읽기 폭과 큰 사진·세리프 제목으로 내용을 전달한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "dark-developer",
+    "name": "어두운 기술형",
+    "aliases": [
+      "어두",
+      "다크",
+      "기술",
+      "dark",
+      "developer",
+      "개발"
+    ],
+    "purposes": [
+      "api",
+      "개발",
+      "기술",
+      "ai",
+      "분석"
+    ],
+    "reference_tags": [
+      "developer-landing",
+      "saas-landing"
+    ],
+    "tokens": {
+      "background": "#0d111b",
+      "surface": "#171e2c",
+      "text": "#f3f5ff",
+      "muted": "#b2bed4",
+      "accent": "#a7a8ff",
+      "radius": 8,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "center-console",
+    "rationale": "짙은 표면과 제품 콘솔을 중심으로 기술 신뢰를 전달한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "bold-commerce",
+    "name": "선명한 브랜드 커머스",
+    "aliases": [
+      "선명",
+      "대담",
+      "bold",
+      "강렬",
+      "컬러",
+      "쇼핑"
+    ],
+    "purposes": [
+      "쇼핑",
+      "판매",
+      "commerce",
+      "상품",
+      "식품"
+    ],
+    "reference_tags": [
+      "commerce-landing",
+      "commerce",
+      "product-detail"
+    ],
+    "tokens": {
+      "background": "#eff243",
+      "surface": "#fffef5",
+      "text": "#182416",
+      "muted": "#4b5139",
+      "accent": "#17482d",
+      "radius": 4,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "photo-split",
+    "rationale": "큰 제품 이미지와 강한 색 대비로 구매 행동을 강조한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "luxury-minimal",
+    "name": "절제된 프리미엄",
+    "aliases": [
+      "고급",
+      "럭셔리",
+      "절제",
+      "luxury",
+      "우아",
+      "premium"
+    ],
+    "purposes": [
+      "패션",
+      "가구",
+      "뷰티",
+      "브랜드",
+      "호텔"
+    ],
+    "reference_tags": [
+      "commerce-landing",
+      "property-catalog",
+      "portfolio"
+    ],
+    "tokens": {
+      "background": "#f4f1eb",
+      "surface": "#fefdf9",
+      "text": "#252420",
+      "muted": "#666052",
+      "accent": "#403f34",
+      "radius": 0,
+      "font": "serif",
+      "max_width": 1240
+    },
+    "silhouette": "image-first",
+    "rationale": "넓은 여백·큰 이미지·적은 장식으로 제품의 품질을 보여준다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "playful-studio",
+    "name": "유쾌한 스튜디오",
+    "aliases": [
+      "유쾌",
+      "재미",
+      "playful",
+      "개성",
+      "실험"
+    ],
+    "purposes": [
+      "스튜디오",
+      "디자인",
+      "창작",
+      "포트폴리오"
+    ],
+    "reference_tags": [
+      "portfolio",
+      "team-about"
+    ],
+    "tokens": {
+      "background": "#ffef46",
+      "surface": "#fffbe0",
+      "text": "#262226",
+      "muted": "#61543c",
+      "accent": "#6639a6",
+      "radius": 18,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "collage",
+    "rationale": "타이포와 비대칭 이미지를 조합해 창작 성격을 드러낸다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "calm-health",
+    "name": "차분한 케어",
+    "aliases": [
+      "차분",
+      "안정",
+      "calm",
+      "케어",
+      "편안"
+    ],
+    "purposes": [
+      "의료",
+      "병원",
+      "건강",
+      "상담",
+      "health"
+    ],
+    "reference_tags": [
+      "healthcare-landing",
+      "contact-form"
+    ],
+    "tokens": {
+      "background": "#eef4ec",
+      "surface": "#ffffff",
+      "text": "#153a2d",
+      "muted": "#516957",
+      "accent": "#245e47",
+      "radius": 16,
+      "font": "serif",
+      "max_width": 1240
+    },
+    "silhouette": "reassuring-split",
+    "rationale": "명료한 안내와 부드러운 초록 계열로 상담·예약을 돕는다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "data-dense",
+    "name": "밀도 높은 업무형",
+    "aliases": [
+      "밀도",
+      "데이터",
+      "실용",
+      "dense",
+      "대시보드",
+      "업무"
+    ],
+    "purposes": [
+      "관리",
+      "dashboard",
+      "대시보드",
+      "재무",
+      "crm"
+    ],
+    "reference_tags": [
+      "dashboard",
+      "task-table",
+      "finance"
+    ],
+    "tokens": {
+      "background": "#f0f2f5",
+      "surface": "#ffffff",
+      "text": "#17212f",
+      "muted": "#526174",
+      "accent": "#2853b5",
+      "radius": 5,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "sidebar-table",
+    "rationale": "사이드바·표·상세 패널로 반복 업무의 이동 비용을 줄인다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "tactile-natural",
+    "name": "자연스러운 생활 브랜드",
+    "aliases": [
+      "자연",
+      "질감",
+      "유기",
+      "natural",
+      "친환경",
+      "생활"
+    ],
+    "purposes": [
+      "음식",
+      "식품",
+      "카페",
+      "가구",
+      "생활"
+    ],
+    "reference_tags": [
+      "commerce-landing",
+      "restaurant-brand"
+    ],
+    "tokens": {
+      "background": "#f2eadb",
+      "surface": "#fffcf2",
+      "text": "#343626",
+      "muted": "#68654b",
+      "accent": "#586233",
+      "radius": 20,
+      "font": "serif",
+      "max_width": 1240
+    },
+    "silhouette": "product-story",
+    "rationale": "따뜻한 표면과 제품 사용 장면으로 생활 맥락을 전달한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "monochrome-portfolio",
+    "name": "흑백 작업 중심",
+    "aliases": [
+      "흑백",
+      "모노",
+      "monochrome",
+      "미니멀",
+      "작품"
+    ],
+    "purposes": [
+      "포트폴리오",
+      "작업",
+      "건축",
+      "사진"
+    ],
+    "reference_tags": [
+      "portfolio",
+      "typography"
+    ],
+    "tokens": {
+      "background": "#f7f7f5",
+      "surface": "#ffffff",
+      "text": "#111111",
+      "muted": "#575753",
+      "accent": "#111111",
+      "radius": 0,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "work-index",
+    "rationale": "큰 작업과 타이포를 중심으로 장식 없이 탐색하게 한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "soft-gradient",
+    "name": "부드러운 제품형",
+    "aliases": [
+      "부드",
+      "그라디언트",
+      "soft",
+      "gradient",
+      "친근"
+    ],
+    "purposes": [
+      "생산성",
+      "노트",
+      "협업",
+      "saas"
+    ],
+    "reference_tags": [
+      "saas-landing",
+      "features"
+    ],
+    "tokens": {
+      "background": "#f7f3fb",
+      "surface": "#ffffff",
+      "text": "#2c2140",
+      "muted": "#665a79",
+      "accent": "#6d40bf",
+      "radius": 22,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "center-product",
+    "rationale": "밝은 표면과 절제된 그라디언트로 제품의 친근함을 전한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "brutalist-display",
+    "name": "대담한 타이포형",
+    "aliases": [
+      "브루탈",
+      "brutal",
+      "대문자",
+      "거친",
+      "타이포"
+    ],
+    "purposes": [
+      "전시",
+      "이벤트",
+      "스튜디오",
+      "문화"
+    ],
+    "reference_tags": [
+      "typography",
+      "portfolio"
+    ],
+    "tokens": {
+      "background": "#f0efe9",
+      "surface": "#ffffff",
+      "text": "#151515",
+      "muted": "#52504a",
+      "accent": "#c52b17",
+      "radius": 0,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "type-index",
+    "rationale": "굵은 활자·선·직각 구조로 강한 인상을 남긴다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "refined-finance",
+    "name": "차분한 금융형",
+    "aliases": [
+      "금융",
+      "차분",
+      "정확",
+      "finance",
+      "trust",
+      "단정"
+    ],
+    "purposes": [
+      "금융",
+      "투자",
+      "재무",
+      "결제"
+    ],
+    "reference_tags": [
+      "finance",
+      "billing",
+      "pricing"
+    ],
+    "tokens": {
+      "background": "#f0f4f5",
+      "surface": "#ffffff",
+      "text": "#17332e",
+      "muted": "#536862",
+      "accent": "#215c4e",
+      "radius": 10,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "sidebar-detail",
+    "rationale": "수치·단위·상태를 구분하고 거래 흐름을 안정적으로 안내한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "travel-photographic",
+    "name": "사진 중심 여행형",
+    "aliases": [
+      "사진",
+      "여행",
+      "photo",
+      "공간",
+      "풍경"
+    ],
+    "purposes": [
+      "여행",
+      "예약",
+      "숙소",
+      "호텔",
+      "레스토랑"
+    ],
+    "reference_tags": [
+      "travel",
+      "booking",
+      "property-catalog"
+    ],
+    "tokens": {
+      "background": "#faf8f4",
+      "surface": "#ffffff",
+      "text": "#2b2926",
+      "muted": "#6c6155",
+      "accent": "#a13246",
+      "radius": 14,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "gallery-booking",
+    "rationale": "목적지 이미지와 조건·가격 요약으로 예약 결정을 돕는다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "community-friendly",
+    "name": "친근한 커뮤니티형",
+    "aliases": [
+      "친근",
+      "사람",
+      "community",
+      "밝은",
+      "함께"
+    ],
+    "purposes": [
+      "커뮤니티",
+      "모임",
+      "소셜",
+      "회원"
+    ],
+    "reference_tags": [
+      "testimonials",
+      "team-about",
+      "editorial"
+    ],
+    "tokens": {
+      "background": "#f6f3ec",
+      "surface": "#ffffff",
+      "text": "#2f2d34",
+      "muted": "#655e70",
+      "accent": "#69449f",
+      "radius": 24,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "feed-groups",
+    "rationale": "사람·활동·콘텐츠를 카드와 대화 흐름으로 연결한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "learning-colorful",
+    "name": "명료한 학습형",
+    "aliases": [
+      "학습",
+      "교육",
+      "컬러",
+      "learning",
+      "명료"
+    ],
+    "purposes": [
+      "교육",
+      "강의",
+      "학습",
+      "course"
+    ],
+    "reference_tags": [
+      "learning",
+      "course-detail"
+    ],
+    "tokens": {
+      "background": "#f5f5fe",
+      "surface": "#ffffff",
+      "text": "#252447",
+      "muted": "#605f7b",
+      "accent": "#4b43b8",
+      "radius": 14,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "course-progress",
+    "rationale": "과정 구조와 진도·다음 행동을 시각적으로 구분한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "technical-grid",
+    "name": "정밀한 격자형",
+    "aliases": [
+      "격자",
+      "정밀",
+      "기하",
+      "grid",
+      "엔지니어"
+    ],
+    "purposes": [
+      "개발",
+      "기술",
+      "인프라",
+      "제조"
+    ],
+    "reference_tags": [
+      "developer-landing",
+      "features"
+    ],
+    "tokens": {
+      "background": "#f0f3f2",
+      "surface": "#ffffff",
+      "text": "#1a302c",
+      "muted": "#51675f",
+      "accent": "#245a4d",
+      "radius": 2,
+      "font": "mono",
+      "max_width": 1240
+    },
+    "silhouette": "grid-console",
+    "rationale": "격자와 단위·선·코드 블록으로 기능 구조를 분명히 한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  },
+  {
+    "id": "corporate-trust",
+    "name": "기업 신뢰형",
+    "aliases": [
+      "기업",
+      "신뢰",
+      "공식",
+      "corporate",
+      "안정"
+    ],
+    "purposes": [
+      "기업",
+      "회사",
+      "기관",
+      "컨설팅",
+      "b2b"
+    ],
+    "reference_tags": [
+      "saas-landing",
+      "team-about",
+      "contact-form"
+    ],
+    "tokens": {
+      "background": "#f4f6fa",
+      "surface": "#ffffff",
+      "text": "#1b2d48",
+      "muted": "#53647e",
+      "accent": "#284b88",
+      "radius": 6,
+      "font": "sans",
+      "max_width": 1240
+    },
+    "silhouette": "split-proof",
+    "rationale": "서비스 설명·근거·문의 행동을 순서대로 배치한다.",
+    "provenance": "Original implementation preset; not measured from a Mobbin site."
+  }
+]

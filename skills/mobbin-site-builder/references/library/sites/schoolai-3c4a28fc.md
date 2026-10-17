@@ -13,7 +13,10 @@
 
 - 교육 탐색 페이지. 왼쪽 사이드바와 상단 검색·Create a Space. Subjects·Favorites·Seasonal 섹션에 다섯 열 콜라주 이미지 카드와 공간 수·제목.
 
-원본 파일: `assets/library/3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc.jpg` (Git 제외).
+![SchoolAI — 참고 화면](../../../assets/references/3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/3c4a28fc-d7d3-4683-ab3e-7a2ea47657cc.jpg).
 
 ### 구현에 적용
 

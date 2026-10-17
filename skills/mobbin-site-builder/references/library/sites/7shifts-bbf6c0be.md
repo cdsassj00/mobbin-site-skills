@@ -13,7 +13,10 @@
 
 - 식당 예약이 아닌 레스토랑 직원관리 SaaS의 하단 CTA. 피자 사진 위 갈색 반투명 카드·흰 설명·파란 체험 버튼, 아래 둥근 흰 푸터.
 
-원본 파일: `assets/library/bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2.jpg` (Git 제외).
+![7shifts — 참고 화면](../../../assets/references/bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/bbf6c0be-498a-4dd4-b0e7-d7f14cb5b6b2.jpg).
 
 ### 구현에 적용
 

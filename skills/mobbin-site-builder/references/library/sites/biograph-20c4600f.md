@@ -13,7 +13,10 @@
 
 - 흰 바탕 중앙 큰 예방의료 소개 제목과 아래 넓은 둥근 MRI 시설 사진. 정적 캡처에는 예약 CTA가 보이지 않음.
 
-원본 파일: `assets/library/20c4600f-d3e9-49b5-afad-b94dcb8fd0e9.jpg` (Git 제외).
+![Biograph — 참고 화면](../../../assets/references/20c4600f-d3e9-49b5-afad-b94dcb8fd0e9.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/20c4600f-d3e9-49b5-afad-b94dcb8fd0e9.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 검정 화면 위 매우 큰 흰 KOBU 로고만 보임. 정적 캡처만으로 매물 탐색 구조를 알 수 없음.
 
-원본 파일: `assets/library/d07ad815-77af-4cab-a6ff-c35761c7b2a6.jpg` (Git 제외).
+![KOBU — 참고 화면](../../../assets/references/d07ad815-77af-4cab-a6ff-c35761c7b2a6.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/d07ad815-77af-4cab-a6ff-c35761c7b2a6.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 크림 바탕 Villas 제목·짧은 설명. 두 열 큰 숙소 사진·Featured 배지·이름·지역·1박 가격, 아래 우측 View All Villas.
 
-원본 파일: `assets/library/4226456d-e845-483a-ad1b-305a93fe7d36.jpg` (Git 제외).
+![KOBU — 참고 화면](../../../assets/references/4226456d-e845-483a-ad1b-305a93fe7d36.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/4226456d-e845-483a-ad1b-305a93fe7d36.jpg).
 
 ### 구현에 적용
 

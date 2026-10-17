@@ -13,7 +13,10 @@
 
 - 여행 활동 결과 위 중앙 Filters 모달. 시간·장소·관심사의 체크박스 그룹, 하단 Reset all·파란 결과 버튼. 뒤에 지도 타일과 활동 카드 그리드.
 
-원본 파일: `assets/library/e329013c-75f5-49f2-825b-d7810b400ad3.jpg` (Git 제외).
+![GetYourGuide — 참고 화면](../../../assets/references/e329013c-75f5-49f2-825b-d7810b400ad3.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/e329013c-75f5-49f2-825b-d7810b400ad3.jpg).
 
 ### 구현에 적용
 

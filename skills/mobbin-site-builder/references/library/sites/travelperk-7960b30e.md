@@ -13,7 +13,10 @@
 
 - 밝은 배경 위 Plans that get you places 제목과 Starter / Premium / Pro 세 카드. Starter는 흰 바탕에 테두리, 나머지는 연한 크림색이다. Premium 제목 옆 하늘색 Most Popular 배지. 가격은 큰 검정 글자, CTA는 외곽선 또는 라임색이다.
 
-원본 파일: `assets/library/7960b30e-a40a-4ef8-b4e2-89d4c80cb113.jpg` (Git 제외).
+![TravelPerk — 참고 화면](../../../assets/references/7960b30e-a40a-4ef8-b4e2-89d4c80cb113.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/7960b30e-a40a-4ef8-b4e2-89d4c80cb113.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 창작 플랫폼 회사 미션. 왼쪽 제목·작은 소개·채용 링크, 오른쪽 팀 사진. 아래 긴 설명과 컬러 이미지의 두번째 행.
 
-원본 파일: `assets/library/5bce887b-4246-4e6a-9fb6-7e2bf8177bb4.jpg` (Git 제외).
+![Patreon — 참고 화면](../../../assets/references/5bce887b-4246-4e6a-9fb6-7e2bf8177bb4.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/5bce887b-4246-4e6a-9fb6-7e2bf8177bb4.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,33 @@
 
 - 중앙 What guides us 제목, 두 열 아이콘·Our core behaviors / Our mission·설명·분홍 CTA. 가운데 세로 구분선. 기부 CTA는 없음.
 
-원본 파일: `assets/library/9dbe6715-6483-4570-8ff5-a3f7563ae367.jpg` (Git 제외).
+![Patreon — 참고 화면](../../../assets/references/9dbe6715-6483-4570-8ff5-a3f7563ae367.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/9dbe6715-6483-4570-8ff5-a3f7563ae367.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 흰 뉴스 페이지. 상단 검색과 검정 로그인, 카테고리 탭 아래 세 열 썸네일·날짜·제목.
+
+- 자료 유형: section
+- 출처: [Patreon — Mobbin](https://mobbin.com/sites/sections/01caee51-0f60-4615-87de-2a2e67ef9b4a)
+- 확인 날짜: 2026-10-18
+- 패턴: editorial
+
+### 직접 관찰
+
+- 흰 뉴스 페이지. 상단 검색과 검정 로그인, 카테고리 탭 아래 세 열 썸네일·날짜·제목.
+
+![Patreon — 참고 화면](../../../assets/references/01caee51-0f60-4615-87de-2a2e67ef9b4a.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/01caee51-0f60-4615-87de-2a2e67ef9b4a.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 왼쪽 굵은 제목, 그 아래 넓은 창업자 단체 사진. 오른쪽 좁은 소개문과 파란 Read more 링크를 사진 하단에 정렬.
 
-원본 파일: `assets/library/59a01b78-ab97-47b7-b753-af5ff4c7e274.jpg` (Git 제외).
+![Aurora — 참고 화면](../../../assets/references/59a01b78-ab97-47b7-b753-af5ff4c7e274.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/59a01b78-ab97-47b7-b753-af5ff4c7e274.jpg).
 
 ### 구현에 적용
 

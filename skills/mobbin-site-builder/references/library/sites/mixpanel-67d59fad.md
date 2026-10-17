@@ -13,7 +13,10 @@
 
 - 큰 둥근 짙은 보라 영역 중앙 FAQ 제목. 좁은 아코디언 열에 테두리와 원형 +/- 버튼. 첫 질문이 펼쳐져 긴 답변 표시.
 
-원본 파일: `assets/library/67d59fad-c6e5-43b0-814b-469bcf735e79.jpg` (Git 제외).
+![Mixpanel — 참고 화면](../../../assets/references/67d59fad-c6e5-43b0-814b-469bcf735e79.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/67d59fad-c6e5-43b0-814b-469bcf735e79.jpg).
 
 ### 구현에 적용
 

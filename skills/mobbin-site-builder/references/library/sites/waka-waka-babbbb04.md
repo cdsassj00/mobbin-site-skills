@@ -13,7 +13,10 @@
 
 - 가구 작업 소개. 왼쪽 넓은 흑백 가구 클로즈업과 작은 작업명, 오른쪽 크림 여백·브랜드 텍스트·하단 작은 컬러 제품 사진. 상단 Furniture·Index·Studio.
 
-원본 파일: `assets/library/babbbb04-f1e4-4020-bbd8-16ce43ba2e68.jpg` (Git 제외).
+![Waka Waka — 참고 화면](../../../assets/references/babbbb04-f1e4-4020-bbd8-16ce43ba2e68.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/babbbb04-f1e4-4020-bbd8-16ce43ba2e68.jpg).
 
 ### 구현에 적용
 

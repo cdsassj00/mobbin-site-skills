@@ -13,7 +13,10 @@
 
 - 연회색 배경의 두 열 후기. 왼쪽 인물 사진, 오른쪽 큰 세리프 인용문·이름·직책·고객 로고, 아래 진행 표시선.
 
-원본 파일: `assets/library/d591740c-b7c1-40fb-86c3-34c8511bc2c4.jpg` (Git 제외).
+![Harvey — 참고 화면](../../../assets/references/d591740c-b7c1-40fb-86c3-34c8511bc2c4.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/d591740c-b7c1-40fb-86c3-34c8511bc2c4.jpg).
 
 ### 구현에 적용
 

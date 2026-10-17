@@ -13,7 +13,10 @@
 
 - 여행이 아닌 파일 검색. 왼쪽 Chats·Stacks 사이드바, 큰 검색 입력, 결과 유형 탭·필터. 이미지 네 장과 사람 필터 하위 메뉴.
 
-원본 파일: `assets/library/f6731429-a303-4433-a940-a4f0824a9abd.jpg` (Git 제외).
+![Dropbox Dash — 참고 화면](../../../assets/references/f6731429-a303-4433-a940-a4f0824a9abd.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f6731429-a303-4433-a940-a4f0824a9abd.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 크림 음식점 소개. 왼쪽 겹친 음식 사진 카드·이전다음, 오른쪽 적갈색 셰프 일러스트·대문자 설명. 상단 중앙 로고와 Book a table.
 
-원본 파일: `assets/library/664a16ca-816d-495d-b577-e08ce5c6f1a5.jpg` (Git 제외).
+![Monte — 참고 화면](../../../assets/references/664a16ca-816d-495d-b577-e08ce5c6f1a5.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/664a16ca-816d-495d-b577-e08ce5c6f1a5.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 검정 배경, 상단 검색과 Library 탭. Recently played 및 Likes 섹션마다 여섯 열 정사각 커버 이미지와 제목·작성자. 일부 이미지 중앙 재생 버튼.
 
-원본 파일: `assets/library/04c75c4f-d899-4bf5-a45c-3b7d65933245.jpg` (Git 제외).
+![SoundCloud — 참고 화면](../../../assets/references/04c75c4f-d899-4bf5-a45c-3b7d65933245.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/04c75c4f-d899-4bf5-a45c-3b7d65933245.jpg).
 
 ### 구현에 적용
 

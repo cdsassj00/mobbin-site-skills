@@ -13,7 +13,10 @@
 
 - 검정 결제 사이드 패널. 상단 Add Items→Checkout→Confirmed 단계, 고객 요약·검색·유형 칩, 품목별 수량 +/-와 하단 총액·Next 버튼.
 
-원본 파일: `assets/library/0099c284-2e58-43ca-9eb5-2ea41538ece6.jpg` (Git 제외).
+![Sweatpals — 참고 화면](../../../assets/references/0099c284-2e58-43ca-9eb5-2ea41538ece6.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/0099c284-2e58-43ca-9eb5-2ea41538ece6.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 지역 경험·리트릿 탐색. 상단 도시 검색·지도 전환, 날짜 알약·필터. 세 열 세로 포스터 카드와 주최자·이름·일정·가격.
 
-원본 파일: `assets/library/50b095ec-8819-4dce-a3f6-f0905957a830.jpg` (Git 제외).
+![Sweatpals — 참고 화면](../../../assets/references/50b095ec-8819-4dce-a3f6-f0905957a830.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/50b095ec-8819-4dce-a3f6-f0905957a830.jpg).
 
 ### 구현에 적용
 

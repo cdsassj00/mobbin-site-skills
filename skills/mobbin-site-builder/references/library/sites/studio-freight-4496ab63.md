@@ -13,7 +13,33 @@
 
 - 검정 바탕 두 열. 왼쪽 밑줄 입력형 문의 폼과 FAQ, 오른쪽 소셜 링크·Capabilities 이미지·다운로드 링크. 작은 세리프 글자.
 
-원본 파일: `assets/library/4496ab63-aada-4e07-933b-c32a13e535b5.jpg` (Git 제외).
+![Studio Freight — 참고 화면](../../../assets/references/4496ab63-aada-4e07-933b-c32a13e535b5.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/4496ab63-aada-4e07-933b-c32a13e535b5.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 흰 화면 상단 작은 로고·메뉴와 하단 캡션 외 본문이 비어 있어 추가 확인 필요.
+
+- 자료 유형: section
+- 출처: [Studio Freight — Mobbin](https://mobbin.com/sites/sections/45b0cd5e-88eb-42cd-9af2-1be563f63041)
+- 확인 날짜: 2026-10-18
+- 패턴: portfolio, needs-review
+
+### 직접 관찰
+
+- 흰 화면 상단 작은 로고·메뉴와 하단 캡션 외 본문이 비어 있어 추가 확인 필요.
+
+![Studio Freight — 참고 화면](../../../assets/references/45b0cd5e-88eb-42cd-9af2-1be563f63041.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/45b0cd5e-88eb-42cd-9af2-1be563f63041.jpg).
 
 ### 구현에 적용
 

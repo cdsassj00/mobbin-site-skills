@@ -13,7 +13,10 @@
 
 - 크림 내비게이션 아래 라임색 두 열 히어로. 왼쪽 세리프 제목·작은 설명·가로 긴 구매 버튼·이전다음, 오른쪽 오일 세 병 사진.
 
-원본 파일: `assets/library/674d9fc9-7e05-45fe-ac3c-c8f6d793c78f.jpg` (Git 제외).
+![Graza — 참고 화면](../../../assets/references/674d9fc9-7e05-45fe-ac3c-c8f6d793c78f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/674d9fc9-7e05-45fe-ac3c-c8f6d793c78f.jpg).
 
 ### 구현에 적용
 

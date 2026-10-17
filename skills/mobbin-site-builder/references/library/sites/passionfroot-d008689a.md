@@ -13,7 +13,10 @@
 
 - 중앙 세리프 두 줄 제목, 보조문, 검정 CTA. 옅은 배경과 모서리에서 들어오는 잘린 제품 UI 카드. 양쪽으로 나뉜 흰색 내비게이션.
 
-원본 파일: `assets/library/d008689a-c73f-4513-a760-25a93ef6f043.jpg` (Git 제외).
+![Passionfroot — 참고 화면](../../../assets/references/d008689a-c73f-4513-a760-25a93ef6f043.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/d008689a-c73f-4513-a760-25a93ef6f043.jpg).
 
 ### 구현에 적용
 

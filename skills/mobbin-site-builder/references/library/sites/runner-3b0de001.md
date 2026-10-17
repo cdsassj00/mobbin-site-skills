@@ -13,7 +13,10 @@
 
 - 흰 편집형 Featured 세 열. 가는 구분선·사진·작은 날짜·세리프 제목·회색 설명·작성자. 상단 제목과 오른쪽 소개.
 
-원본 파일: `assets/library/3b0de001-bc95-44b4-96e7-6b2c958583c7.jpg` (Git 제외).
+![Runner — 참고 화면](../../../assets/references/3b0de001-bc95-44b4-96e7-6b2c958583c7.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/3b0de001-bc95-44b4-96e7-6b2c958583c7.jpg).
 
 ### 구현에 적용
 

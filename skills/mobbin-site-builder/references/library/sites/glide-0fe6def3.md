@@ -13,7 +13,33 @@
 
 - 검정 섹션 중앙 짧은 제목·회색 설명, 한 줄 앱 아이콘이 양끝으로 흐려짐. 아래 회색 Explore all integrations 알약 버튼.
 
-원본 파일: `assets/library/0fe6def3-c81b-4a09-8fbe-7ba356a99b33.jpg` (Git 제외).
+![Glide — 참고 화면](../../../assets/references/0fe6def3-c81b-4a09-8fbe-7ba356a99b33.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/0fe6def3-c81b-4a09-8fbe-7ba356a99b33.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 흰 벤토 제품 소개. 왼쪽 세로 메뉴 UI와 설명, 오른쪽 큰 영상 썸네일·아래 작은 카드들.
+
+- 자료 유형: section
+- 출처: [Glide — Mobbin](https://mobbin.com/sites/sections/04c32d5f-3f87-4538-a66b-d33b9af16ac2)
+- 확인 날짜: 2026-10-18
+- 패턴: saas-landing
+
+### 직접 관찰
+
+- 흰 벤토 제품 소개. 왼쪽 세로 메뉴 UI와 설명, 오른쪽 큰 영상 썸네일·아래 작은 카드들.
+
+![Glide — 참고 화면](../../../assets/references/04c32d5f-3f87-4538-a66b-d33b9af16ac2.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/04c32d5f-3f87-4538-a66b-d33b9af16ac2.jpg).
 
 ### 구현에 적용
 

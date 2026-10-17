@@ -13,7 +13,10 @@
 
 - 연한 초록 전체 화면 장면과 아래 식물·꽃 비주얼. 중앙 큰 흰 세리프 제목 및 설명, 하단 작은 CTA. 양끝 상단 메뉴 알약.
 
-원본 파일: `assets/library/3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee.jpg` (Git 제외).
+![Anima — 참고 화면](../../../assets/references/3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/3eb3a78b-89a6-41b2-b563-fcb6fd94c2ee.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 흰 패널 상단 Meet our team 제목과 우측 짧은 소개. 세 개 흑백 인물 카드 하단에 초록 그라디언트·이름직책, 아래 작은 CTA.
 
-원본 파일: `assets/library/5151f1c7-7ebf-429b-97c4-299719e57b48.jpg` (Git 제외).
+![Anima — 참고 화면](../../../assets/references/5151f1c7-7ebf-429b-97c4-299719e57b48.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/5151f1c7-7ebf-429b-97c4-299719e57b48.jpg).
 
 ### 구현에 적용
 

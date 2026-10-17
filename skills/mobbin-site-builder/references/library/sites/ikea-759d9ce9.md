@@ -13,7 +13,10 @@
 
 - 편집형 쇼핑 입구. 왼쪽 약 2/3 대형 집 사진에 하단 흰 캡션, 오른쪽 노란 Go shopping 패널과 상품 단독 사진. 상단 로고와 메뉴 아이콘.
 
-원본 파일: `assets/library/759d9ce9-16c7-471a-b0cc-c1d5286a679b.jpg` (Git 제외).
+![IKEA — 참고 화면](../../../assets/references/759d9ce9-16c7-471a-b0cc-c1d5286a679b.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/759d9ce9-16c7-471a-b0cc-c1d5286a679b.jpg).
 
 ### 구현에 적용
 

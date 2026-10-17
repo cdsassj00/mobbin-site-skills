@@ -13,7 +13,33 @@
 
 - 어두운 전체 폭 라이프스타일 사진에 중앙 흰 제목과 반투명 Shop 버튼. 좌상단 New In 배지, 좌하단 상품명·가격 요약.
 
-원본 파일: `assets/library/a0db1fe3-905d-462b-800e-e124d27afd71.jpg` (Git 제외).
+![Zellerfeld — 참고 화면](../../../assets/references/a0db1fe3-905d-462b-800e-e124d27afd71.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/a0db1fe3-905d-462b-800e-e124d27afd71.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 청록 패션 배경 위 큰 흰 상품명·상품 소개·쇼핑 CTA. 상단 얇은 공지줄, 하단 진행선.
+
+- 자료 유형: section
+- 출처: [Zellerfeld — Mobbin](https://mobbin.com/sites/sections/301cf56f-08e8-4ab4-b44b-43d80ffd3e35)
+- 확인 날짜: 2026-10-18
+- 패턴: commerce-landing
+
+### 직접 관찰
+
+- 청록 패션 배경 위 큰 흰 상품명·상품 소개·쇼핑 CTA. 상단 얇은 공지줄, 하단 진행선.
+
+![Zellerfeld — 참고 화면](../../../assets/references/301cf56f-08e8-4ab4-b44b-43d80ffd3e35.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/301cf56f-08e8-4ab4-b44b-43d80ffd3e35.jpg).
 
 ### 구현에 적용
 

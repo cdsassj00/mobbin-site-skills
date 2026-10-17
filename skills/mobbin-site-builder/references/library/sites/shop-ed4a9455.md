@@ -13,7 +13,10 @@
 
 - 왼쪽 아이콘 레일, 큰 상품 이미지와 세로 썸네일, 오른쪽 판매자·제목·별점·가격·배송 정보. 원두 옵션과 수량 아래 일회성 구매 / 구독 선택 카드가 있다. 검정 Buy now와 보라색 Add to cart가 나란히 배치된다.
 
-원본 파일: `assets/library/ed4a9455-65a9-4828-8cd3-50a01d62f07d.jpg` (Git 제외).
+![Shop — 참고 화면](../../../assets/references/ed4a9455-65a9-4828-8cd3-50a01d62f07d.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/ed4a9455-65a9-4828-8cd3-50a01d62f07d.jpg).
 
 ### 구현에 적용
 

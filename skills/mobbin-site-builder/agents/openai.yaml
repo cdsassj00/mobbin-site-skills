@@ -1,0 +1,6 @@
+interface:
+  display_name: "Offline UI Designer & Builder"
+  short_description: "목적·스타일을 질문하고 로컬 레퍼런스로 UI를 제안·구현"
+  default_prompt: "Use $mobbin-site-builder to ask about my website's purpose and visual style, suggest three UI directions, and implement the chosen direction using bundled offline resources."
+policy:
+  allow_implicit_invocation: true

@@ -13,7 +13,10 @@
 
 - 부동산이 아닌 지도 제작 제품의 소개. 위 네 용도 이미지 카드, 가운데 언론 로고, 아래 지도 캡처·세리프 소개. 상단 Google 로그인.
 
-원본 파일: `assets/library/1ff2c72a-dac4-451f-91ab-7dc549a6b924.jpg` (Git 제외).
+![PamPam — 참고 화면](../../../assets/references/1ff2c72a-dac4-451f-91ab-7dc549a6b924.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/1ff2c72a-dac4-451f-91ab-7dc549a6b924.jpg).
 
 ### 구현에 적용
 

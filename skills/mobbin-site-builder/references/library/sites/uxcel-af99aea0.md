@@ -13,7 +13,10 @@
 
 - 채용 상세. 왼쪽 학습 서비스 사이드바, 가운데 노란 검토중 알림·직무 제목·조건·Apply Now·본문, 오른쪽 회사 로고·소개·Visit website.
 
-원본 파일: `assets/library/af99aea0-7b57-49ba-8e6a-a56a3d422c97.jpg` (Git 제외).
+![Uxcel — 참고 화면](../../../assets/references/af99aea0-7b57-49ba-8e6a-a56a3d422c97.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/af99aea0-7b57-49ba-8e6a-a56a3d422c97.jpg).
 
 ### 구현에 적용
 

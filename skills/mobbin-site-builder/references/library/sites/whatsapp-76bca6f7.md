@@ -13,7 +13,10 @@
 
 - 짙은 초록 Developer Hub. 왼쪽 큰 연초록 제목·흰 설명·초록 시작 및 외곽선 로그인 CTA, 위 제품 내비게이션. 코드 샘플은 보이지 않음.
 
-원본 파일: `assets/library/76bca6f7-4d81-4187-a91a-733048ffc7b3.jpg` (Git 제외).
+![WhatsApp — 참고 화면](../../../assets/references/76bca6f7-4d81-4187-a91a-733048ffc7b3.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/76bca6f7-4d81-4187-a91a-733048ffc7b3.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - WhatsApp 개발자 히어로의 변형. 짙은 초록에 왼쪽 제목·설명·시작/로그인 버튼, 상단 검색·Get started·Download app 메뉴.
 
-원본 파일: `assets/library/3e30cca9-9fd0-492e-9213-7545dda0f777.jpg` (Git 제외).
+![WhatsApp — 참고 화면](../../../assets/references/3e30cca9-9fd0-492e-9213-7545dda0f777.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/3e30cca9-9fd0-492e-9213-7545dda0f777.jpg).
 
 ### 구현에 적용
 

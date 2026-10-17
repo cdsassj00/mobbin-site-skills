@@ -13,7 +13,33 @@
 
 - 식품 브랜드 미션. 민트 전체 폭 바탕 중앙 압축된 매우 큰 MISSION 제목·스티커 문구, 좁은 소개문과 창업자 이름.
 
-원본 파일: `assets/library/ff52a201-28e1-4c75-b999-737dd636dc5f.jpg` (Git 제외).
+![Impossible Foods — 참고 화면](../../../assets/references/ff52a201-28e1-4c75-b999-737dd636dc5f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/ff52a201-28e1-4c75-b999-737dd636dc5f.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 자주색 식품 브랜드 히어로. 중앙 강한 빨강 대문자 제목·CTA와 주변 음식 사진, 빨간 내비 프레
+
+- 자료 유형: section
+- 출처: [Impossible Foods — Mobbin](https://mobbin.com/sites/sections/4933f527-3317-4639-8adc-88b13c9bddba)
+- 확인 날짜: 2026-10-18
+- 패턴: saas-landing
+
+### 직접 관찰
+
+- 자주색 식품 브랜드 히어로. 중앙 강한 빨강 대문자 제목·CTA와 주변 음식 사진, 빨간 내비 프레임.
+
+![Impossible Foods — 참고 화면](../../../assets/references/4933f527-3317-4639-8adc-88b13c9bddba.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/4933f527-3317-4639-8adc-88b13c9bddba.jpg).
 
 ### 구현에 적용
 

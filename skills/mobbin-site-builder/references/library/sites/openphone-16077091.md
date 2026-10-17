@@ -13,7 +13,10 @@
 
 - 흰 바탕 중앙 대형 FAQ 제목·도움말 안내. 아래 넓고 간격 큰 질문 행, 얇은 구분선과 오른쪽 chevron.
 
-원본 파일: `assets/library/16077091-516c-4e22-b6d2-c6ad86b01432.jpg` (Git 제외).
+![OpenPhone — 참고 화면](../../../assets/references/16077091-516c-4e22-b6d2-c6ad86b01432.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/16077091-516c-4e22-b6d2-c6ad86b01432.jpg).
 
 ### 구현에 적용
 

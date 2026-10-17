@@ -13,7 +13,10 @@
 
 - 채용 탐색. 좁은 아이콘 레일, 상단 Resume·Location·Assessment 진행. Project-based 탭·검색·필터 칩·정렬, 세 열 역할 카드와 Domain 드롭다운.
 
-원본 파일: `assets/library/b1527c3a-5d57-4e86-b310-bc6a5b9ec23e.jpg` (Git 제외).
+![Mercor — 참고 화면](../../../assets/references/b1527c3a-5d57-4e86-b310-bc6a5b9ec23e.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/b1527c3a-5d57-4e86-b310-bc6a5b9ec23e.jpg).
 
 ### 구현에 적용
 

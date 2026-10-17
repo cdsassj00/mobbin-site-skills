@@ -1,0 +1,207 @@
+[
+  {
+    "id": "landing",
+    "keywords": [
+      "saas",
+      "서비스",
+      "기업",
+      "회사",
+      "api",
+      "플랫폼"
+    ],
+    "actions": [
+      "가입",
+      "문의",
+      "signup"
+    ],
+    "structure": "소개·제품·근거·요금·FAQ·CTA",
+    "sections": [
+      "hero",
+      "features",
+      "proof",
+      "pricing",
+      "faq"
+    ],
+    "interactions": [
+      "이메일 검증",
+      "요금 주기 전환",
+      "FAQ 펼침"
+    ]
+  },
+  {
+    "id": "dashboard",
+    "keywords": [
+      "대시보드",
+      "관리",
+      "업무",
+      "dashboard",
+      "crm"
+    ],
+    "actions": [
+      "업무",
+      "처리"
+    ],
+    "structure": "사이드바·개요·검색·작업 표·상세",
+    "sections": [
+      "overview",
+      "tasks"
+    ],
+    "interactions": [
+      "검색",
+      "상태 필터",
+      "행 상세",
+      "상태 변경"
+    ]
+  },
+  {
+    "id": "commerce",
+    "keywords": [
+      "쇼핑",
+      "스토어",
+      "상품",
+      "commerce",
+      "판매"
+    ],
+    "actions": [
+      "구매",
+      "purchase"
+    ],
+    "structure": "브랜드 소개·상품 그리드·상세·장바구니",
+    "sections": [
+      "hero",
+      "products",
+      "faq"
+    ],
+    "interactions": [
+      "상품 검색",
+      "상품 상세",
+      "수량 변경",
+      "장바구니 합계"
+    ]
+  },
+  {
+    "id": "editorial",
+    "keywords": [
+      "블로그",
+      "매거진",
+      "뉴스",
+      "콘텐츠",
+      "blog"
+    ],
+    "actions": [
+      "읽기",
+      "탐색"
+    ],
+    "structure": "대표 기사·분류·기사 목록·상세",
+    "sections": [
+      "hero",
+      "articles"
+    ],
+    "interactions": [
+      "카테고리 필터",
+      "기사 상세",
+      "읽기 저장"
+    ]
+  },
+  {
+    "id": "portfolio",
+    "keywords": [
+      "포트폴리오",
+      "스튜디오",
+      "건축",
+      "작품",
+      "portfolio"
+    ],
+    "actions": [
+      "연락",
+      "작업"
+    ],
+    "structure": "스튜디오 소개·작업 격자·프로젝트 상세·문의",
+    "sections": [
+      "hero",
+      "projects",
+      "contact"
+    ],
+    "interactions": [
+      "작업 유형 필터",
+      "프로젝트 상세",
+      "문의 검증"
+    ]
+  },
+  {
+    "id": "booking",
+    "keywords": [
+      "예약",
+      "숙소",
+      "여행",
+      "호텔",
+      "레스토랑",
+      "booking"
+    ],
+    "actions": [
+      "예약",
+      "reserve"
+    ],
+    "structure": "목적지 이미지·조건·가격·예약 확인",
+    "sections": [
+      "hero",
+      "booking",
+      "faq"
+    ],
+    "interactions": [
+      "체크인아웃 검증",
+      "인원 선택",
+      "가격 계산",
+      "예약 데모"
+    ]
+  },
+  {
+    "id": "learning",
+    "keywords": [
+      "교육",
+      "학습",
+      "강의",
+      "과정",
+      "course"
+    ],
+    "actions": [
+      "수강",
+      "학습"
+    ],
+    "structure": "과정 소개·챕터·강의 목록·진도",
+    "sections": [
+      "hero",
+      "lessons"
+    ],
+    "interactions": [
+      "강의 선택",
+      "완료 상태",
+      "진도 계산"
+    ]
+  },
+  {
+    "id": "directory",
+    "keywords": [
+      "디렉터리",
+      "채용",
+      "검색",
+      "목록",
+      "directory"
+    ],
+    "actions": [
+      "검색",
+      "지원"
+    ],
+    "structure": "검색·필터·결과 카드·상세",
+    "sections": [
+      "hero",
+      "results"
+    ],
+    "interactions": [
+      "검색",
+      "분류 필터",
+      "결과 수",
+      "저장·상세"
+    ]
+  }
+]

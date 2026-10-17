@@ -13,7 +13,10 @@
 
 - 지갑 활동 목록. 왼쪽 간단한 네 메뉴, 중앙 좁은 거래 표에 자산 아이콘·거래 설명·금액·날짜. 위 자산·네트워크 필터와 녹색 양수.
 
-원본 파일: `assets/library/90bfce7d-2fe7-4e0d-8603-c2c57651a7ef.jpg` (Git 제외).
+![Base — 참고 화면](../../../assets/references/90bfce7d-2fe7-4e0d-8603-c2c57651a7ef.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/90bfce7d-2fe7-4e0d-8603-c2c57651a7ef.jpg).
 
 ### 구현에 적용
 

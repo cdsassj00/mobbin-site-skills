@@ -1,0 +1,11 @@
+{
+  "purpose": "",
+  "audience": "",
+  "primary_action": "",
+  "vibes": [],
+  "pages": [],
+  "features": [],
+  "brand": {"name": "", "accent": "", "assets": []},
+  "constraints": {"stack": "existing", "mobile_first": true, "avoid": []},
+  "assumptions": []
+}

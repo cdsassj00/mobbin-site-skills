@@ -13,7 +13,10 @@
 
 - Shopify Balance 설정 초기 상태. 검정 상단바·연회색 사이드바. 왼쪽 계정·카드·자동이체, 오른쪽 잔액·상품 안내 카드와 법적 설명.
 
-원본 파일: `assets/library/4cbb6c72-ee1f-4735-b292-1507851203f4.jpg` (Git 제외).
+![Shopify — 참고 화면](../../../assets/references/4cbb6c72-ee1f-4735-b292-1507851203f4.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/4cbb6c72-ee1f-4735-b292-1507851203f4.jpg).
 
 ### 구현에 적용
 

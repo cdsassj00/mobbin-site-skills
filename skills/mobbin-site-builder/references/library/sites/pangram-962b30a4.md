@@ -13,7 +13,10 @@
 
 - 연회색 배경 왼쪽 정렬 세리프 제목. 세 개 흰 질문 행, 첫 답변은 글머리표로 펼쳐짐. 주황 활성 minus와 회색 plus.
 
-원본 파일: `assets/library/962b30a4-f4ca-49c0-8ee7-4047b75170b1.jpg` (Git 제외).
+![Pangram — 참고 화면](../../../assets/references/962b30a4-f4ca-49c0-8ee7-4047b75170b1.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/962b30a4-f4ca-49c0-8ee7-4047b75170b1.jpg).
 
 ### 구현에 적용
 

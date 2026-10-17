@@ -13,7 +13,10 @@
 
 - 검정 바탕, 상단 화면 폭을 채우는 큰 회색 소개문과 작은 보조문. 아래 얇은 테두리의 촘촘한 고객 로고 그리드.
 
-원본 파일: `assets/library/a3cf46f9-dafe-4cee-9fee-186aabb025aa.jpg` (Git 제외).
+![basement.studio — 참고 화면](../../../assets/references/a3cf46f9-dafe-4cee-9fee-186aabb025aa.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/a3cf46f9-dafe-4cee-9fee-186aabb025aa.jpg).
 
 ### 구현에 적용
 

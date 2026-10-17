@@ -13,7 +13,10 @@
 
 - 짙은 보라 그라디언트 블로그 섹션. Our latest와 유형 알약, 네 열 기사 이미지·보라 배지·날짜작성자·흰 제목·요약.
 
-원본 파일: `assets/library/20c1c35a-2b45-4aa3-b988-e96de9d3c117.jpg` (Git 제외).
+![Aboard — 참고 화면](../../../assets/references/20c1c35a-2b45-4aa3-b988-e96de9d3c117.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/20c1c35a-2b45-4aa3-b988-e96de9d3c117.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 얇은 선으로 구획한 편집형 푸터. 왼쪽 뉴스레터 입력, 오른쪽 쇼룸 주소와 Shop·Info·Account 링크 열. 작은 적갈색 글자.
 
-원본 파일: `assets/library/f1844604-7696-4970-b30e-43a7669e9ee1.jpg` (Git 제외).
+![In Common With — 참고 화면](../../../assets/references/f1844604-7696-4970-b30e-43a7669e9ee1.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f1844604-7696-4970-b30e-43a7669e9ee1.jpg).
 
 ### 구현에 적용
 

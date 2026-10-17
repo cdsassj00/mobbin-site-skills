@@ -13,7 +13,10 @@
 
 - 강좌가 아닌 AI Skills 관리. 상단 Connectors·Skills·Workflows 탭, 왼쪽 사이드바, 두 열 텍스트 카드에 스킬명·설명·토글/메뉴, 검색·Create skill.
 
-원본 파일: `assets/library/978e5352-d988-4626-906a-1ae0b80a2681.jpg` (Git 제외).
+![Perplexity — 참고 화면](../../../assets/references/978e5352-d988-4626-906a-1ae0b80a2681.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/978e5352-d988-4626-906a-1ae0b80a2681.jpg).
 
 ### 구현에 적용
 

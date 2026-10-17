@@ -13,7 +13,10 @@
 
 - 음식 메뉴가 아닌 메시지용 상품 선택 모달. 전체 폭 표에 썸네일·상품명·업데이트 시각·게시 상태·Select 링크. 상단 Close, 하단 페이지 이동.
 
-원본 파일: `assets/library/211575d4-7ff1-4971-b12d-4e69315a8a5f.jpg` (Git 제외).
+![Klaviyo — 참고 화면](../../../assets/references/211575d4-7ff1-4971-b12d-4e69315a8a5f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/211575d4-7ff1-4971-b12d-4e69315a8a5f.jpg).
 
 ### 구현에 적용
 

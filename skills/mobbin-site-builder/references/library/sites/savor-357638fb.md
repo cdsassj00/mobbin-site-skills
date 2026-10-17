@@ -13,7 +13,10 @@
 
 - 크림 바탕과 중앙 큰 짙은 갈색 세리프 FAQ. 좁은 질문 열에 가는 선·작은 plus, 하단 Show more 링크.
 
-원본 파일: `assets/library/357638fb-dbbb-4067-8f40-1f142e921a38.jpg` (Git 제외).
+![Savor — 참고 화면](../../../assets/references/357638fb-dbbb-4067-8f40-1f142e921a38.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/357638fb-dbbb-4067-8f40-1f142e921a38.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 흰 두 열 제품 히어로. 왼쪽 제목·설명·보라 가입 및 외곽선 기능 버튼, 오른쪽 데스크톱 채팅 UI와 겹친 모바일 UI. 아래 고객 사례 띠.
 
-원본 파일: `assets/library/102dc026-197a-4684-b761-a4cc4a9b9d86.jpg` (Git 제외).
+![Slack — 참고 화면](../../../assets/references/102dc026-197a-4684-b761-a4cc4a9b9d86.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/102dc026-197a-4684-b761-a4cc4a9b9d86.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 자주색 상단 검색 바, 가장 왼쪽 아이콘 레일, 그 옆 Lists 사이드바, 오른쪽 흰색 테이블. 제목 아래 검색·필터·정렬·뷰 저장 도구가 있다. 행에는 작업, 상태 칩, 별 우선순위, 설명, 담당자가 보인다.
 
-원본 파일: `assets/library/5db112b1-f04e-42ea-8d79-a15e961c4c82.jpg` (Git 제외).
+![Slack — 참고 화면](../../../assets/references/5db112b1-f04e-42ea-8d79-a15e961c4c82.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/5db112b1-f04e-42ea-8d79-a15e961c4c82.jpg).
 
 ### 구현에 적용
 

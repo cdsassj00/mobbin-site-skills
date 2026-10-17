@@ -13,7 +13,10 @@
 
 - 검정 자산 라이브러리. 상단 제품 메뉴, 왼쪽 미디어 유형·폴더, 날짜별 이미지·영상 타일. 영상 썸네일 중앙 재생 표시와 확대 조절.
 
-원본 파일: `assets/library/0d41df30-eca5-48b2-8235-978e81fa827f.jpg` (Git 제외).
+![Higgsfield — 참고 화면](../../../assets/references/0d41df30-eca5-48b2-8235-978e81fa827f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/0d41df30-eca5-48b2-8235-978e81fa827f.jpg).
 
 ### 구현에 적용
 

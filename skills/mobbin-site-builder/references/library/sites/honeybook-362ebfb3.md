@@ -13,7 +13,33 @@
 
 - 강좌가 아닌 저장 서비스 관리 목록. 검정 사이드바, Services 제목·검색·Add service. 흰 가로 행마다 썸네일·설명·가격·점 메뉴.
 
-원본 파일: `assets/library/362ebfb3-d814-4229-9e78-bcca7d3b79cb.jpg` (Git 제외).
+![HoneyBook — 참고 화면](../../../assets/references/362ebfb3-d814-4229-9e78-bcca7d3b79cb.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/362ebfb3-d814-4229-9e78-bcca7d3b79cb.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 상단 연보라 가격 소개와 월연 토글. Starter·Essentials·Premium 세 흰 카드와 긴 기능
+
+- 자료 유형: section
+- 출처: [HoneyBook — Mobbin](https://mobbin.com/sites/sections/e72ef239-29c4-45c5-b9b1-cd92db0a4173)
+- 확인 날짜: 2026-10-18
+- 패턴: pricing
+
+### 직접 관찰
+
+- 상단 연보라 가격 소개와 월연 토글. Starter·Essentials·Premium 세 흰 카드와 긴 기능 목록.
+
+![HoneyBook — 참고 화면](../../../assets/references/e72ef239-29c4-45c5-b9b1-cd92db0a4173.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/e72ef239-29c4-45c5-b9b1-cd92db0a4173.jpg).
 
 ### 구현에 적용
 

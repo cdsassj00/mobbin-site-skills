@@ -3,7 +3,10 @@ node_modules/
 .env
 .env.*
 !.env.example
-assets/
+/assets/
 screenshots/
 artifacts/
 __pycache__/
+
+/dist/
+/.test-output/

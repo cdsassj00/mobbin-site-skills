@@ -13,7 +13,10 @@
 
 - 흰 바탕 큰 중앙 제목·파랑 월연 토글. 세 카드의 헤더는 민트·분홍·연보라. Starter 무료, Pro 기본+좌석 요금, Business+ 맞춤형.
 
-원본 파일: `assets/library/baac6a3f-6b5b-48a3-a53f-c2ad52907359.jpg` (Git 제외).
+![Cycle — 참고 화면](../../../assets/references/baac6a3f-6b5b-48a3-a53f-c2ad52907359.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/baac6a3f-6b5b-48a3-a53f-c2ad52907359.jpg).
 
 ### 구현에 적용
 

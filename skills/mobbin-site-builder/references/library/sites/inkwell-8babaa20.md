@@ -13,7 +13,10 @@
 
 - 넓은 연회색 공간에 건축·인물 이미지 카드 다섯 개를 곡선처럼 기울여 배치. 중앙 하단 작은 건축 소개. 부동산 목록이나 가격은 없음.
 
-원본 파일: `assets/library/8babaa20-2df7-425f-9cd7-df0762bd94e0.jpg` (Git 제외).
+![Inkwell — 참고 화면](../../../assets/references/8babaa20-2df7-425f-9cd7-df0762bd94e0.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/8babaa20-2df7-425f-9cd7-df0762bd94e0.jpg).
 
 ### 구현에 적용
 

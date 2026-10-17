@@ -13,7 +13,10 @@
 
 - 연한 파랑 Selected work 헤더, 아래 두 열 대형 프로젝트 타일. 어두운 오버레이·흰 프로젝트명·숫자·작은 메타, 상단 Book a call.
 
-원본 파일: `assets/library/48890788-7d16-4887-baaa-5b22583ef055.jpg` (Git 제외).
+![Cloudstudio — 참고 화면](../../../assets/references/48890788-7d16-4887-baaa-5b22583ef055.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/48890788-7d16-4887-baaa-5b22583ef055.jpg).
 
 ### 구현에 적용
 

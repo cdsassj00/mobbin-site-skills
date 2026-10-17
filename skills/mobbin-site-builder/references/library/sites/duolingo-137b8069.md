@@ -13,7 +13,10 @@
 
 - 실제 화면은 언어 학습 앱이 아닌 Duolingo 굿즈 스토어. 초록 공지줄·상품 카테고리 내비게이션, 둥근 큰 인형 사진 중심. 히어로 CTA는 보이지 않음.
 
-원본 파일: `assets/library/137b8069-5f02-457e-80ca-3296bbf7a8f6.jpg` (Git 제외).
+![Duolingo — 참고 화면](../../../assets/references/137b8069-5f02-457e-80ca-3296bbf7a8f6.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/137b8069-5f02-457e-80ca-3296bbf7a8f6.jpg).
 
 ### 구현에 적용
 

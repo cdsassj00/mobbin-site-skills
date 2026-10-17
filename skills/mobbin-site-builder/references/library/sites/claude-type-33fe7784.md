@@ -13,7 +13,10 @@
 
 - 흰 바탕 중앙 좁은 스튜디오 소개문과 이탤릭 경력 문구·어두운 연락 알약. 아래 장식적 서체 기호 띠와 Selected Press. 상단 좁은 떠 있는 메뉴.
 
-원본 파일: `assets/library/33fe7784-8888-4dfc-8932-2e1efc4bb674.jpg` (Git 제외).
+![Claude Type — 참고 화면](../../../assets/references/33fe7784-8888-4dfc-8932-2e1efc4bb674.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/33fe7784-8888-4dfc-8932-2e1efc4bb674.jpg).
 
 ### 구현에 적용
 

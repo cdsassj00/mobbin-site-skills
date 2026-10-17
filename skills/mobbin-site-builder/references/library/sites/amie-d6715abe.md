@@ -13,7 +13,10 @@
 
 - 중앙 큰 제목·회색 후반 문구, 초록 연간 할인 안내와 토글. Pro·Business 두 카드 및 아래 넓은 Enterprise. 초록 체크·검정 CTA.
 
-원본 파일: `assets/library/d6715abe-7a47-4986-ab70-4981982daa12.jpg` (Git 제외).
+![Amie — 참고 화면](../../../assets/references/d6715abe-7a47-4986-ab70-4981982daa12.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/d6715abe-7a47-4986-ab70-4981982daa12.jpg).
 
 ### 구현에 적용
 

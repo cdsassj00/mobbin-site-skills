@@ -13,7 +13,10 @@
 
 - 향신료 병 클로즈업 전체 화면. 좌하단 대형 노랑 대문자 제목과 작은 Buy now 알약. 강한 분홍·갈색·노랑 대비.
 
-원본 파일: `assets/library/2819e623-d5e1-4cc4-87dc-884628a5d83d.jpg` (Git 제외).
+![Eat Hungry Tiger — 참고 화면](../../../assets/references/2819e623-d5e1-4cc4-87dc-884628a5d83d.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/2819e623-d5e1-4cc4-87dc-884628a5d83d.jpg).
 
 ### 구현에 적용
 

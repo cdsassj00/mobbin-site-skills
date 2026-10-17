@@ -13,7 +13,10 @@
 
 - 상단 라임 세일 공지, 자연광 배경 중앙 할인 안내·설명·짙은 초록 Shop Now. 하단 네 제품 병이 주인공, 큰 이미지 영역 아래 둥근 모서리.
 
-원본 파일: `assets/library/d3ceaefc-64f9-4093-b082-642389a7bf02.jpg` (Git 제외).
+![Seed — 참고 화면](../../../assets/references/d3ceaefc-64f9-4093-b082-642389a7bf02.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/d3ceaefc-64f9-4093-b082-642389a7bf02.jpg).
 
 ### 구현에 적용
 

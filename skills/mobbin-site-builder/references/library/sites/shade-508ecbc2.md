@@ -13,7 +13,10 @@
 
 - 사진 콜라주 배경 위 브라우저 프레임 모양 Growth·Enterprise 두 카드. 연간 토글·가격·기능 목록·하단 CTA, 검정 기업 데모 버튼.
 
-원본 파일: `assets/library/508ecbc2-f527-4753-b1ce-0230bdf92d38.jpg` (Git 제외).
+![Shade — 참고 화면](../../../assets/references/508ecbc2-f527-4753-b1ce-0230bdf92d38.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/508ecbc2-f527-4753-b1ce-0230bdf92d38.jpg).
 
 ### 구현에 적용
 

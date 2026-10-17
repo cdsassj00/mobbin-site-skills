@@ -13,7 +13,10 @@
 
 - 채용이 아닌 에이전트 작업 로그. 왼쪽 사이드바, 상태 탭·검색, 작업명·출처·크레딧·상태·시각 표. 오른쪽 필터 팝오버의 Source 하위 메뉴가 펼쳐짐.
 
-원본 파일: `assets/library/f49253e9-bf1f-4093-8cbd-79a225f0fc8d.jpg` (Git 제외).
+![Gumloop — 참고 화면](../../../assets/references/f49253e9-bf1f-4093-8cbd-79a225f0fc8d.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f49253e9-bf1f-4093-8cbd-79a225f0fc8d.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 왼쪽 굵은 두 줄 제목·보조문·이메일 입력·보라 CTA. 오른쪽 제품 테이블 캡처와 중앙 재생 버튼, 뒤쪽 보라-파랑 거대 곡선. 하단 고객 로고.
 
-원본 파일: `assets/library/8327bdfc-5c9d-4240-b4af-9431eebd0f9e.jpg` (Git 제외).
+![ClickUp — 참고 화면](../../../assets/references/8327bdfc-5c9d-4240-b4af-9431eebd0f9e.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/8327bdfc-5c9d-4240-b4af-9431eebd0f9e.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 중앙 1,000+ integrations 제목. 왼쪽 카테고리 세로 목록, 오른쪽 각 카테고리 로고 카드 행. Time Tracking 활성 그림자와 보라 세로선.
 
-원본 파일: `assets/library/bb3f7978-3e19-438c-a1ac-7fdec49dc8a9.jpg` (Git 제외).
+![ClickUp — 참고 화면](../../../assets/references/bb3f7978-3e19-438c-a1ac-7fdec49dc8a9.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/bb3f7978-3e19-438c-a1ac-7fdec49dc8a9.jpg).
 
 ### 구현에 적용
 
@@ -53,7 +59,33 @@
 
 - 흰 바탕 중앙 연결 안내 제목. 두 줄 앱 로고 카드가 양끝에서 잘림. 아래 큰 제품 CTA 배너와 로고·보라 Get Started.
 
-원본 파일: `assets/library/cda57ca2-8353-4266-a67a-934165a85af0.jpg` (Git 제외).
+![ClickUp — 참고 화면](../../../assets/references/cda57ca2-8353-4266-a67a-934165a85af0.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/cda57ca2-8353-4266-a67a-934165a85af0.jpg).
+
+### 구현에 적용
+
+- 위 관찰의 열 구성, 이미지 비중, 제목 위계, 색 대비를 먼저 구현한다.
+- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.
+- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
+- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
+
+## 보라-파랑 곡선 히어로 중앙 제목·기능 탭·제품 스크린샷·아래 보라 시작 버튼. 메가메뉴 열린 상태는 아님.
+
+- 자료 유형: section
+- 출처: [ClickUp — Mobbin](https://mobbin.com/sites/sections/63a71928-f05b-4681-a7bc-f2ff9457c04f)
+- 확인 날짜: 2026-10-18
+- 패턴: conversion-cta
+
+### 직접 관찰
+
+- 보라-파랑 곡선 히어로 중앙 제목·기능 탭·제품 스크린샷·아래 보라 시작 버튼. 메가메뉴 열린 상태는 아님.
+
+![ClickUp — 참고 화면](../../../assets/references/63a71928-f05b-4681-a7bc-f2ff9457c04f.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/63a71928-f05b-4681-a7bc-f2ff9457c04f.jpg).
 
 ### 구현에 적용
 

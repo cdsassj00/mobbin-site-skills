@@ -13,7 +13,10 @@
 
 - 교육 상세 세 영역. 왼쪽 과정 트리, 가운데 소개와 챕터별 강의·라디오 표시·길이, 오른쪽 Episode details 카드·Start course·태그.
 
-원본 파일: `assets/library/0564e247-f8a3-47c2-a992-8376b0a5b109.jpg` (Git 제외).
+![Magnific — 참고 화면](../../../assets/references/0564e247-f8a3-47c2-a992-8376b0a5b109.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/0564e247-f8a3-47c2-a992-8376b0a5b109.jpg).
 
 ### 구현에 적용
 
@@ -33,7 +36,10 @@
 
 - 여행이 아닌 이미지 검색. 상단 검색·결과 수·여러 속성 필터·정렬, 여섯 열 사진 그리드. Color 팝오버에 단색·이중색 원형 선택값.
 
-원본 파일: `assets/library/f0a68d5f-c656-4cad-95db-f6590118efdd.jpg` (Git 제외).
+![Magnific — 참고 화면](../../../assets/references/f0a68d5f-c656-4cad-95db-f6590118efdd.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f0a68d5f-c656-4cad-95db-f6590118efdd.jpg).
 
 ### 구현에 적용
 

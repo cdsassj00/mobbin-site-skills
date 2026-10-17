@@ -13,7 +13,10 @@
 
 - 계정 금융 화면의 세 열. 왼쪽 계정 유형 트리, 가운데 자산·부채 차트와 계정 목록, 오른쪽 선택 계정의 녹색 추이·배분 막대·보유 자산 표.
 
-원본 파일: `assets/library/f2ccaef0-8c6c-4560-9153-a513e15da099.jpg` (Git 제외).
+![Copilot — 참고 화면](../../../assets/references/f2ccaef0-8c6c-4560-9153-a513e15da099.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/f2ccaef0-8c6c-4560-9153-a513e15da099.jpg).
 
 ### 구현에 적용
 

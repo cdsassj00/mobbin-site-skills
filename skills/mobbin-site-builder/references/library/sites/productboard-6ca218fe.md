@@ -13,7 +13,10 @@
 
 - 좁은 왼쪽 사이드바, 상단 Tasks 헤더와 검색·Create 버튼, 가운데 작업 목록, 오른쪽 상세 패널. 목록 배경은 연한 회색이고 상세 패널은 흰색이다. 상태는 회색·파랑·빨강·노랑·초록 점으로 구분된다.
 
-원본 파일: `assets/library/6ca218fe-d545-49fd-abff-a0032ab03d2a.jpg` (Git 제외).
+![Productboard — 참고 화면](../../../assets/references/6ca218fe-d545-49fd-abff-a0032ab03d2a.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/6ca218fe-d545-49fd-abff-a0032ab03d2a.jpg).
 
 ### 구현에 적용
 

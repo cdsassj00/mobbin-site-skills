@@ -13,7 +13,10 @@
 
 - 왼쪽 대형 이미지와 세로 썸네일, 오른쪽 할인 가격·상품 설명·판매자·구매 버튼. Buy it now와 Make an offer는 외곽선 버튼, Add to cart는 넓은 어두운 버튼이다. 아래에 판매자 신뢰 표시와 펼쳐진 Item details가 있다.
 
-원본 파일: `assets/library/6e8d5e11-bf80-482a-8f64-cb5d9e8f3008.jpg` (Git 제외).
+![Etsy — 참고 화면](../../../assets/references/6e8d5e11-bf80-482a-8f64-cb5d9e8f3008.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/6e8d5e11-bf80-482a-8f64-cb5d9e8f3008.jpg).
 
 ### 구현에 적용
 

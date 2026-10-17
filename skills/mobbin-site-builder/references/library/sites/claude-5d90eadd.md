@@ -13,7 +13,10 @@
 
 - 비영리 기부가 아닌 AI 연구 미션. 흰 바탕 왼쪽 Our Mission 라벨·오른쪽 큰 검정 소개문. 가는 선 아래 Research Teams·설명·Learn more.
 
-원본 파일: `assets/library/5d90eadd-ec0b-4ec1-9729-d315afe8d366.jpg` (Git 제외).
+![Claude — 참고 화면](../../../assets/references/5d90eadd-ec0b-4ec1-9729-d315afe8d366.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/5d90eadd-ec0b-4ec1-9729-d315afe8d366.jpg).
 
 ### 구현에 적용
 

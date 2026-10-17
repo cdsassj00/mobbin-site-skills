@@ -13,7 +13,10 @@
 
 - 세 열 연동 앱 목록. 커다란 컬러 정사각 아이콘, 앱명·짧은 설명·밑줄 Read more·카테고리. 아래 두번째 행 일부.
 
-원본 파일: `assets/library/24b8d7a8-447a-486b-9f58-d2b3f05e5644.jpg` (Git 제외).
+![Charma — 참고 화면](../../../assets/references/24b8d7a8-447a-486b-9f58-d2b3f05e5644.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/24b8d7a8-447a-486b-9f58-d2b3f05e5644.jpg).
 
 ### 구현에 적용
 

@@ -13,7 +13,10 @@
 
 - 블로그 상단 큰 검정 대표 글 카드. 아래 빨강·파랑·노랑 세 열 기사 카드, 흰 제목·설명·작성자·읽기 시간과 작은 캐릭터 장식.
 
-원본 파일: `assets/library/5107108b-eeca-40f5-be4b-4d824e441479.jpg` (Git 제외).
+![Homerun — 참고 화면](../../../assets/references/5107108b-eeca-40f5-be4b-4d824e441479.jpg)
+
+
+원본 파일: [오프라인 JPEG](../../../assets/references/5107108b-eeca-40f5-be4b-4d824e441479.jpg).
 
 ### 구현에 적용
 
