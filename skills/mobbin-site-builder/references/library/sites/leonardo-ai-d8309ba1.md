@@ -2,7 +2,7 @@
 
 이 문서는 수집한 화면·섹션·흐름의 구현 참고 명세다. 전체 사이트 분석을 뜻하지 않는다.
 
-## 검정 AI 제품 요금 페이지. 위 SOLO·TEAM·API 탭·월연 토글, 네 요금 카드의 노랑·초록·빨강 
+## 검정 AI 제품 요금 페이지. 위 SOLO·TEAM·API 탭·월연 토글, 네 요금 카드의 노랑·초록·빨강
 
 - 자료 유형: section
 - 출처: [Leonardo AI — Mobbin](https://mobbin.com/sites/sections/d8309ba1-6670-4457-bf39-945aa509a2be)

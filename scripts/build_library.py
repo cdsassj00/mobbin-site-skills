@@ -78,7 +78,7 @@ def build():
                      '- 화면에 보이는 입력·선택·필터·이동 요소를 실제 동작으로 연결한다. 정적 이미지로 확인되지 않는 동작은 구현 제안으로 기록한다.',
                      '- 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.',
                      '- 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.', '']
-        (docs / filename).write_text('\n'.join(text))
+        (docs / filename).write_text('\n'.join(line.rstrip() for line in text))
     by_tag = collections.defaultdict(set)
     for r in records:
         for tag in r['tags']:

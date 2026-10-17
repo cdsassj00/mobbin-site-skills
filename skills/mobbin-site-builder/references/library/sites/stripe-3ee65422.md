@@ -2,7 +2,7 @@
 
 이 문서는 수집한 화면·섹션·흐름의 구현 참고 명세다. 전체 사이트 분석을 뜻하지 않는다.
 
-## 썸네일 없는 기술 블로그 목록. 중앙 본문 제목·요약·Read story, 오른쪽 날짜·작성자, 옅은 세로 
+## 썸네일 없는 기술 블로그 목록. 중앙 본문 제목·요약·Read story, 오른쪽 날짜·작성자, 옅은 세로
 
 - 자료 유형: section
 - 출처: [Stripe — Mobbin](https://mobbin.com/sites/sections/3ee65422-fdcf-4cd1-9a4b-b04fa7eac3d0)

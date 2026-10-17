@@ -25,7 +25,7 @@
 - 해당 패턴의 [구현 플레이북](../../playbooks.md)을 읽고 완료 조건을 적용한다.
 - 모바일 구성과 정확한 토큰은 이 자료만으로 확정하지 않는다. 모바일 자료를 추가 검색하고 고해상도 원본에서 측정한다.
 
-## 연초록 블로그 두 열 대형 이미지·유형시간 칩·제목·Read more. 아래 작은 More Articles 
+## 연초록 블로그 두 열 대형 이미지·유형시간 칩·제목·Read more. 아래 작은 More Articles
 
 - 자료 유형: section
 - 출처: [Swap — Mobbin](https://mobbin.com/sites/sections/9544fc30-9a5f-4e94-bd3d-2c7d40fc9d15)
