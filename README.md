@@ -23,7 +23,7 @@ python scripts/install.py --agent all --project /path/to/project
 
 설치에는 Python 3.9 이상이 필요하다. 스킬 폴더를 해당 도구의 skills 디렉터리에 직접 복사해도 된다. 기존 파일은 덮어쓰지 않는다. 이 설치기가 만든 버전은 `--replace`로 백업 후 갱신한다. [에이전트별 경로와 공식 문서](docs/AGENT-COMPATIBILITY.md)를 확인할 수 있다.
 
-ZIP으로 받으려면 [릴리스](https://github.com/cdsassj00/mobbin-site-skills/releases/latest)에서 스킬 단독 패키지 또는 설치기 포함 툴킷을 다운로드한다. 스킬 ZIP에는 이미지·명세·예제가 모두 포함된다.
+ZIP으로 받으려면 [전체 소스 ZIP](https://github.com/cdsassj00/mobbin-site-skills/archive/refs/heads/main.zip)을 다운로드한다. 압축을 풀면 설치기·스킬·이미지·명세·예제가 모두 들어 있다. 단독 스킬 ZIP과 툴킷 ZIP은 저장소에서 `python scripts/package.py`로 만들 수 있다.
 
 ## 사용
 
